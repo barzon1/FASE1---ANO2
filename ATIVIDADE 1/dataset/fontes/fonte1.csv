@@ -1,0 +1,121 @@
+Nome;Idade;Sexo;Pressão Arterial;Colesterol;Histórico de doenças cardíacas;Sintomas;Frequencia Cardiaca
+Gabriel Rodrigues Soares;70;Feminino;134/91;156;Não;Nenhum;85
+Gabriel Almeida Soares;19;Masculino;112/109;186;Sim;Cansaço excessivo;95
+Mariana Santos Barbosa;85;Masculino;132/68;289;Sim;Palpitações;71
+Bruno Ferreira Martins;78;Masculino;112/105;196;Não;Dor no peito;106
+Beatriz Oliveira Souza;51;Feminino;103/64;162;Sim;Falta de ar;63
+Eduardo Alves Fernandes;80;Masculino;111/105;320;Sim;Tontura;82
+Pedro Souza Gomes;75;Masculino;151/98;227;Não;Palpitações;64
+Gabriel Vieira Rodrigues;48;Feminino;133/64;241;Não;Tontura;113
+Amanda Soares Lima;75;Masculino;168/94;252;Não;Nenhum;64
+Marcos Santos Pereira;21;Masculino;131/107;200;Não;Nenhum;104
+Maria Lopes Carvalho;23;Masculino;166/96;264;Não;Nenhum;100
+Camila Souza Gomes;83;Feminino;160/93;152;Não;Cansaço excessivo;97
+Bruno Silva Vieira;35;Masculino;137/94;205;Não;Nenhum;62
+Rafael Ribeiro Carvalho;81;Feminino;163/100;198;Não;Nenhum;60
+Ana Barbosa Martins;50;Feminino;105/94;216;Sim;Nenhum;103
+Eduardo Lima Lopes;30;Feminino;155/107;236;Não;Dor no peito;89
+Amanda Santos Lima;79;Feminino;131/93;186;Não;Falta de ar;95
+Julia Fernandes Pereira;26;Masculino;109/62;259;Não;Dor no peito;89
+Lucas Lima Fernandes;24;Feminino;122/86;164;Não;Cansaço excessivo;82
+Gabriel Ribeiro Oliveira;34;Feminino;102/105;150;Sim;Falta de ar;102
+Amanda Lima Almeida;81;Masculino;114/63;270;Não;Nenhum;104
+Lucas Almeida Barbosa;60;Feminino;125/109;249;Sim;Cansaço excessivo;76
+Amanda Soares Oliveira;64;Feminino;154/99;205;Não;Falta de ar;81
+Pedro Vieira Barbosa;54;Masculino;129/108;275;Não;Falta de ar;113
+Gabriel Gomes Martins;69;Masculino;113/73;318;Não;Nenhum;82
+Carlos Fernandes Vieira;46;Masculino;113/99;187;Não;Dor no peito;71
+Mariana Ribeiro Rodrigues;64;Feminino;150/60;132;Não;Tontura;90
+Camila Carvalho Alves;71;Feminino;128/103;261;Não;Nenhum;85
+Letícia Santos Almeida;33;Masculino;144/90;307;Não;Palpitações;96
+Rafael Pereira Fernandes;71;Feminino;148/98;191;Sim;Nenhum;102
+Julia Rodrigues Ribeiro;36;Masculino;139/91;157;Sim;Dor no peito;105
+Gabriel Soares Oliveira;76;Masculino;165/72;201;Sim;Cansaço excessivo;95
+Ana Lopes Fernandes;35;Feminino;149/94;239;Não;Dor no peito;65
+Tiago Martins Almeida;43;Feminino;141/104;270;Não;Nenhum;66
+João Vieira Alves;55;Masculino;169/100;237;Sim;Palpitações;73
+Eduardo Soares Silva;55;Feminino;123/78;230;Não;Dor no peito;82
+Mariana Almeida Gomes;60;Masculino;169/102;243;Não;Dor no peito;60
+Mariana Carvalho Gomes;65;Masculino;104/73;290;Sim;Tontura;89
+Julia Pereira Soares;32;Masculino;163/97;184;Sim;Palpitações;70
+Letícia Silva Martins;67;Feminino;103/97;299;Sim;Nenhum;112
+Gabriel Lima Soares;75;Masculino;119/80;229;Não;Cansaço excessivo;89
+Marcos Souza Ribeiro;69;Masculino;104/85;179;Sim;Nenhum;91
+Fernanda Ferreira Silva;80;Masculino;133/107;235;Sim;Palpitações;81
+Larissa Alves Ribeiro;28;Feminino;136/79;219;Sim;Tontura;68
+Eduardo Souza Souza;51;Masculino;131/70;308;Sim;Palpitações;94
+Pedro Costa Fernandes;63;Feminino;159/73;133;Não;Tontura;64
+Tiago Lima Silva;48;Feminino;139/80;198;Sim;Tontura;61
+Julia Barbosa Lopes;24;Masculino;132/75;267;Não;Tontura;75
+Eduardo Costa Lima;22;Feminino;147/107;196;Não;Dor no peito;76
+Camila Souza Santos;83;Feminino;113/75;278;Não;Palpitações;110
+Rafael Lopes Soares;31;Feminino;108/91;176;Não;Cansaço excessivo;62
+Maria Oliveira Silva;21;Feminino;102/67;196;Sim;Nenhum;98
+Ana Silva Souza;84;Masculino;144/106;246;Sim;Nenhum;110
+Gabriel Lopes Almeida;27;Masculino;162/100;293;Não;Tontura;80
+Pedro Soares Silva;49;Masculino;118/68;234;Não;Palpitações;73
+Rafael Barbosa Barbosa;71;Masculino;111/110;285;Sim;Palpitações;100
+Letícia Alves Lima;82;Masculino;132/98;256;Sim;Palpitações;61
+Camila Martins Santos;61;Feminino;119/66;253;Não;Nenhum;83
+Ana Santos Costa;30;Feminino;108/104;318;Sim;Dor no peito;112
+Pedro Rodrigues Barbosa;65;Masculino;162/92;130;Não;Dor no peito;79
+Tiago Ferreira Almeida;80;Masculino;156/98;253;Não;Nenhum;92
+Carlos Rodrigues Fernandes;39;Masculino;110/95;190;Não;Dor no peito;107
+Lucas Pereira Ferreira;85;Feminino;110/106;278;Sim;Tontura;67
+Bruno Almeida Rodrigues;72;Feminino;157/66;230;Não;Falta de ar;70
+Fernanda Martins Fernandes;24;Masculino;159/100;151;Não;Nenhum;60
+Larissa Ferreira Oliveira;57;Feminino;152/60;310;Sim;Palpitações;81
+Camila Vieira Gomes;72;Feminino;125/78;249;Sim;Dor no peito;84
+Beatriz Costa Rodrigues;69;Masculino;161/87;305;Sim;Dor no peito;95
+Larissa Ferreira Soares;24;Masculino;146/105;272;Sim;Tontura;70
+Larissa Fernandes Costa;18;Feminino;121/87;170;Sim;Nenhum;96
+João Barbosa Martins;29;Feminino;159/89;265;Sim;Nenhum;65
+Ana Oliveira Ribeiro;23;Masculino;125/110;189;Sim;Cansaço excessivo;79
+Amanda Lima Rodrigues;79;Masculino;169/74;179;Não;Falta de ar;93
+Fernanda Santos Oliveira;59;Feminino;145/104;318;Não;Tontura;107
+Fernanda Gomes Vieira;74;Masculino;131/87;213;Não;Dor no peito;61
+Marcos Ribeiro Fernandes;52;Masculino;107/96;168;Não;Nenhum;109
+Fernanda Ferreira Lima;40;Feminino;118/63;284;Não;Cansaço excessivo;98
+Larissa Soares Pereira;83;Masculino;101/97;299;Sim;Palpitações;103
+Rafael Almeida Barbosa;25;Feminino;142/74;264;Sim;Cansaço excessivo;114
+João Almeida Oliveira;53;Feminino;115/68;254;Sim;Cansaço excessivo;82
+Bruno Oliveira Oliveira;55;Masculino;133/103;263;Sim;Nenhum;112
+Mariana Barbosa Carvalho;61;Feminino;155/89;179;Sim;Dor no peito;104
+Fernanda Almeida Carvalho;60;Feminino;132/76;233;Sim;Nenhum;93
+Amanda Ferreira Carvalho;46;Feminino;117/73;140;Não;Falta de ar;115
+Mariana Ferreira Barbosa;79;Masculino;138/72;187;Sim;Nenhum;87
+Bruno Gomes Ribeiro;62;Masculino;126/85;135;Não;Cansaço excessivo;74
+Maria Oliveira Alves;52;Masculino;147/94;306;Não;Tontura;92
+João Almeida Vieira;23;Masculino;162/86;170;Não;Tontura;80
+Fernanda Martins Barbosa;80;Feminino;126/97;290;Não;Palpitações;85
+Eduardo Carvalho Vieira;57;Masculino;128/67;211;Não;Falta de ar;111
+Bruno Lopes Vieira;41;Feminino;119/102;182;Sim;Cansaço excessivo;92
+Amanda Souza Lopes;67;Masculino;166/105;266;Sim;Cansaço excessivo;70
+Mariana Rodrigues Ferreira;41;Masculino;117/92;166;Não;Tontura;92
+Tiago Vieira Soares;84;Feminino;139/105;176;Sim;Palpitações;108
+Mariana Lopes Barbosa;69;Masculino;155/65;294;Sim;Falta de ar;97
+Maria Costa Costa;79;Masculino;163/109;249;Sim;Nenhum;77
+João Vieira Gomes;82;Masculino;164/91;289;Não;Falta de ar;61
+Larissa Carvalho Silva;69;Feminino;167/68;221;Sim;Nenhum;115
+Julia Pereira Ferreira;31;Feminino;157/62;273;Não;Tontura;70
+Carlos Pereira Pereira;24;Masculino;166/110;248;Sim;Nenhum;78
+Larissa Rodrigues Soares;38;Feminino;141/103;258;Não;Tontura;110
+Tiago Soares Ferreira;62;Feminino;113/60;190;Não;Dor no peito;102
+Rafael Gomes Rodrigues;68;Feminino;128/76;231;Sim;Nenhum;76
+Tiago Pereira Alves;19;Masculino;150/80;317;Sim;Tontura;101
+Bruno Carvalho Soares;49;Feminino;150/83;201;Não;Cansaço excessivo;114
+Gabriel Ferreira Costa;70;Feminino;152/61;252;Não;Nenhum;83
+Marcos Pereira Fernandes;48;Masculino;114/74;278;Não;Nenhum;109
+Lucas Gomes Pereira;83;Masculino;145/108;278;Não;Dor no peito;72
+Maria Vieira Santos;85;Feminino;156/101;319;Não;Palpitações;65
+Marcos Almeida Martins;56;Masculino;101/61;255;Não;Nenhum;74
+Gabriel Ribeiro Barbosa;39;Feminino;160/78;231;Não;Cansaço excessivo;92
+Pedro Souza Barbosa;22;Feminino;170/63;247;Não;Cansaço excessivo;90
+Letícia Oliveira Silva;36;Feminino;163/84;274;Não;Dor no peito;78
+Beatriz Martins Oliveira;55;Feminino;146/91;189;Não;Tontura;100
+Tiago Alves Martins;35;Masculino;129/97;299;Não;Tontura;73
+Pedro Alves Costa;75;Masculino;124/80;194;Sim;Cansaço excessivo;110
+Marcos Gomes Pereira;76;Masculino;168/93;253;Não;Tontura;63
+Maria Fernandes Soares;70;Masculino;120/86;320;Não;Nenhum;72
+João Fernandes Rodrigues;28;Feminino;154/99;283;Não;Nenhum;97
+Tiago Pereira Barbosa;20;Feminino;106/81;232;Sim;Palpitações;114

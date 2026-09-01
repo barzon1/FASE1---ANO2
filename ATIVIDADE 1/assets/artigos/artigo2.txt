@@ -1,0 +1,1102 @@
+Artigo Original
+Captação Miocárdica de Fluordesoxiglicose-18F na Tomografia por
+Emissão de Pósitrons/Tomografia Computadorizada: Uma Janela
+para Fenótipos Cardiovasculares e Assinaturas Metabólicas em
+Pacientes com Câncer
+Myocardial Uptake of 18F-Fluorodeoxyglucose on Positron Emission Tomography/Computed Tomography:
+A Window into Cardiovascular Phenotypes and Metabolic Signatures in Patients with Cancer
+João Marcelo Duarte Ribeiro Sobrinho,1 Emanuel Davi Lima de Matos Leão,1 Beatriz Barbosa Accioly,1
+Felipe Alves Mourato,1 Monica de Moraes Chaves Becker,1 Simone Cristina Soares Brandão1
+Universidade Federal de Pernambuco,1 Recife, PE – Brasil
+
+Resumo
+Fundamento: A tomografia por emissão de pósitrons/tomografia computadorizada (PET/CT) com fluordesoxiglicose-18F
+(FDG) é amplamente utilizada no manejo do câncer, mas seu papel na avaliação de cardiotoxicidade permanece incerto.
+Compreender como os fatores de risco cardiovascular influenciam a captação miocárdica de glicose pode aprimorar
+seu uso nessa área.
+Objetivo: Investigar a associação entre padrões metabólicos cardíacos em PET/CT oncológico e fatores de risco
+cardiovascular.
+Métodos: Estudo retrospectivo, transversal, que classificou exames oncológicos de PET/CT pela ausência (G1)
+ou presença (G2) de captação miocárdica de FDG, definida visualmente como superior ao pool sanguíneo da
+aorta. Foram analisados dados clínicos e fatores de risco cardiovascular e, por regressão logística, identificados
+preditores de presença ou ausência de captação, com ajuste para potenciais confundidores. Adotou-se p < 0,05
+como nível de significância.
+Resultados: Incluíram-se 983 exames (64% mulheres; idade média de 56 ± 15,8 anos; 39,9% hipertensos; 19,7%
+diabéticos), sendo 559 (56,8%) no G1 e 424 (43,2%) no G2. Os cânceres mais prevalentes foram linfoma (28,9%) e mama
+(17,6%). Sexo masculino (p = 0,0008) e maior peso (p = 0,0001) foram preditores independentes de captação miocárdica
+de FDG, enquanto diabetes (p = 0,01) e doença arterial coronariana (p = 0,007) previram ausência de captação.
+Conclusões: Apesar das limitações, este estudo identificou, de forma pioneira, padrões distintos de captação miocárdica
+de FDG em exames oncológicos de PET/CT, independentemente associados a fatores de risco cardiovascular. Esses
+achados reforçam o potencial do PET/CT com FDG na avaliação de cardiotoxicidade após tratamento oncológico.
+Palavras-chave: Tomografia por Emissão de Pósitrons combinada à Tomografia Computadorizada; Fatores de Risco de
+Doenças Cardíacas; Oncologia.
+
+Abstract
+Background: Positron emission tomography/computed tomography (PET/CT) with 18F-fluorodeoxyglucose (FDG) is widely used in cancer care,
+but its role in assessing cardiotoxicity remains uncertain. Understanding how cardiovascular risk factors influence myocardial glucose uptake
+may improve its application in this setting.
+Objective: To investigate associations between cardiac metabolic patterns on oncologic PET/CT and cardiovascular risk factors.
+Methods: We conducted a retrospective, cross-sectional study classifying oncologic PET/CT scans by absence (G1) or presence (G2) of
+myocardial FDG uptake, visually defined as greater than the aortic blood pool. Clinical data and cardiovascular risk factors were analyzed,
+and logistic regression identified predictors of presence or absence of uptake, adjusting for potential confounders. Statistical significance was
+set at p < 0.05.
+
+Correspondência: Simone Cristina Soares Brandão •
+Av. Beira Rio, 360, apt 201. CEP 50750-400, Ilha do Retiro, Recife, PE – Brasil
+E-mail: sbrandaonuclearufpe@gmail.com
+Artigo recebido em 15/01/2025, revisado em 23/05/2025, aceito em 20/08/2025
+Editor responsável pela revisão: Nuno Bettencourt
+
+DOI: https://doi.org/10.36660/abc.20250028
+
+1
+
+Arq Bras Cardiol. 2026; 123(1):e20250028
+
+Ribeiro Sobrinho et al.
+Captação Miocárdica de FDG no PET/CT Oncológico
+
+Artigo Original
+Results: We included 983 scans (64% women; mean age 56 ± 15.8 years; 39.9% with hypertension; 19.7% with diabetes), of which 559
+(56.8%) were G1 and 424 (43.2%) were G2. The most prevalent cancers were lymphoma (28.9%) and breast (17.6%). Male sex (p = 0.0008)
+and higher weight (p = 0.0001) were independent predictors of myocardial FDG uptake, whereas diabetes (p = 0.01) and coronary artery
+disease (p = 0.007) predicted absence of uptake.
+Conclusions: Despite limitations, this study identified distinct patterns of myocardial FDG uptake on oncologic PET/CT independently associated
+with cardiovascular risk factors. These findings support the potential of FDG PET/CT for evaluating cardiotoxicity after cancer treatment.
+Keywords: Positron emission tomography/computed tomography; 18F-fluorodeoxyglucose; Cardiovascular risk factors; Oncology.
+Full texts in English - https://abccardiol.org/en/
+
+Figura Central: Captação Miocárdica de fluordesoxiglicose-18F na Tomografia por Emissão de Pósitrons/
+Tomografia Computadorizada: Uma Janela para Fenótipos Cardiovasculares e Assinaturas Metabólicas
+em Pacientes com Câncer
+
+Estudo observacional, retrospectivo.
+
+983
+
+A PET/CT com FDG é
+amplamente empregada no
+manejo do câncer.
+
+pacientes
+
+Análise de dados
+clínicos segundo a
+ausência (G1) ou
+a presença (G2)
+de captação miocárdica
+de FDG em PET/CT
+oncológico.
+Embora seu potencial para
+avaliar alterações cardíacas
+já tenha sido sugerido, ainda
+não se sabe se os fatores
+de risco cardiovasculares
+influenciam os padrões de
+captação miocárdica.
+
+Diabetes e DAC
+associaram-se à ausência
+de captação.
+
+57%
+apresentaram
+
+ausência (G1)
+de captação
+miocárdica de
+FDG.
+
+64% do
+
+sexo feminino.
+
+Idade
+média de
+56 anos.
+Linfoma e câncer de
+mama foram os tumores
+mais prevalentes.
+
+43%
+
+apresentaram
+presença (G2) de
+captação miocárdica
+de FDG.
+
+O estudo demonstrou que
+diferentes perfis de
+captação miocárdica de
+FDG estão associados
+a fatores de risco
+cardiovasculares.
+
+Sexo masculino
+e maior peso
+associaram-se a
+maior presença de
+captação.
+
+Perspectiva clínica
+Os resultados oferecem
+subsídios para compreender
+como essas condições podem
+alterar o metabolismo
+cardíaco e, possivelmente, orientar
+estratégias futuras de manejo
+clínico em pacientes oncológicos
+com risco cardiovascular.
+
+Este é o primeiro estudo a investigar
+essa associação em exames
+oncológicos de PET/CT.
+
+Arq Bras Cardiol. 2026; 123(1):e20250028
+
+DAC: doença arterial coronariana; FDG: fluordesoxiglicose-18F; PET/CT: tomografia por emissão de pósitrons/tomografia computadorizada.
+
+Introdução
+A cardiotoxicidade induzida por quimioterapia é um
+desafio crescente na oncologia moderna, impulsionado pelo
+aumento da sobrevida de pacientes oncológicos.1-3 Nesse
+contexto, a tomografia por emissão de pósitrons/tomografia
+computadorizada (PET/CT) com fluordesoxiglicose-18F
+(FDG) desponta não apenas como ferramenta diagnóstica
+oncológica,4-7 mas também como potencial biomarcador de
+alterações metabólicas cardíacas.3,8,9
+O metabolismo cardíaco, tradicionalmente sustentado pela
+oxidação de ácidos graxos,10,11 apresenta regulação complexa
+e influenciada por múltiplos fatores, como sexo, peso corporal
+e comorbidades — entre elas, diabetes melito e doença arterial
+coronariana (DAC).4,12 A captação miocárdica de FDG, que
+reflete a utilização de glicose pelo miocárdio,5 pode oferecer
+insights valiosos sobre como esses determinantes modulam
+
+o metabolismo cardíaco e, potencialmente, influenciam a
+suscetibilidade à cardiotoxicidade.
+Embora estudos prévios tenham explorado o uso do PET/
+CT com FDG na detecção precoce de cardiotoxicidade,13-15
+permanece incerta a relação entre os padrões de captação
+miocárdica e os fatores de risco cardiovascular tradicionais.
+Essa lacuna é particularmente relevante, considerando que
+exames oncológicos de rotina — realizados sem preparo
+específico para avaliação cardíaca — podem revelar
+“assinaturas metabólicas” compatíveis com diferentes
+fenótipos cardiovasculares.
+Neste estudo, investigamos a associação entre padrões de
+captação miocárdica de FDG e fatores de risco cardiovascular
+em uma ampla população oncológica, a fim de compreender
+em que medida essas variáveis podem influenciar o
+metabolismo cardíaco. Esse entendimento pode fortalecer o
+
+Arq Bras Cardiol. 2026; 123(1):e20250028
+
+2
+
+Ribeiro Sobrinho et al.
+Captação Miocárdica de FDG no PET/CT Oncológico
+
+Artigo Original
+potencial uso do PET/CT com FDG na avaliação de alterações
+cardíacas relacionadas ao câncer e ao tratamento oncológico.
+
+Métodos
+Desenho, local e população do estudo
+Este estudo observacional, transversal, analítico e
+retrospectivo foi aprovado pelo Comitê de Ética em
+Pesquisa do Hospital das Clínicas da Universidade Federal
+de Pernambuco sob o número 68674623.9.0000.8807.
+Foi conduzido no serviço de Medicina Nuclear da mesma
+instituição, referência regional para exames de FDG PET/
+CT. Incluíram-se todos os pacientes submetidos a FDG PET/
+CT com indicação oncológica entre 1 de janeiro de 2023
+e 31 de dezembro de 2023. Foram excluídos os casos
+com fichas clínicas incompletas e/ou impossibilidade de
+avaliação das imagens de PET/CT por problemas técnicos ou
+indisponibilidade nos arquivos digitais.
+Pacientes e fontes de dados
+Os dados clínicos e epidemiológicos foram obtidos das
+fichas de avaliação preenchidas antes de cada exame, dos
+laudos e da análise direta das imagens de PET/CT no software
+Xeleris 4.0 (GE Healthcare). Coletaram-se: sexo; idade (anos);
+peso (kg); altura (m); índice de massa corporal (IMC); presença
+de comorbidades cardiovasculares (hipertensão arterial,
+diabetes, dislipidemia, DAC); tabagismo; medicações de uso
+contínuo (cardiológicas e hipoglicemiantes); neoplasia de
+base; e tratamentos oncológicos recebidos (radioterapia e/
+ou quimioterapia).
+A DAC foi considerada presente quando o paciente referiu
+DAC (história de infarto, angina, angioplastia coronária
+ou cirurgia de revascularização) ou acidente vascular
+encefálico prévio, ou quando fazia uso concomitante de
+ácido acetilsalicílico (AAS) e estatina. Consideraram-se
+medicações cardiológicas para prevenção primária ou
+secundária de eventos cardiovasculares: betabloqueadores,
+inibidores do sistema renina-angiotensina, AAS, inibidores do
+cotransportador sódio-glicose e estatinas.
+Dos exames de PET/CT registraram-se: data de realização,
+tempo de jejum, dieta prévia, motivo do exame (estadiamento,
+reestadiamento, avaliação de resposta ao tratamento ou
+controle de doença), atividade injetada de FDG (MBq e mCi)
+e tempo de ativação (min). Na análise das imagens, todos os
+exames foram reavaliados quanto à presença ou ausência de
+captação miocárdica de FDG, conforme descrito adiante.
+Protocolo de realização e análise do PET/CT
+Os pacientes foram orientados a seguir, por 24 horas, dieta
+com baixa ingestão de carboidratos e alta oferta de gorduras e
+a manter jejum mínimo de 6 horas antes do exame, de acordo
+com o protocolo do serviço. No dia do exame, mediram-se
+peso corporal e glicemia de jejum (< 180 mg/dl) antes da
+administração do FDG por punção venosa. A atividade média
+administrada foi de 233,1 ± 135,42 MBq (6,3 ± 3,66 mCi).
+Aproximadamente 60 minutos após a injeção, as imagens
+foram adquiridas em equipamento híbrido PET/CT (GE
+
+3
+
+Arq Bras Cardiol. 2026; 123(1):e20250028
+
+Discovery 710, CT de 128 canais), da base do crânio ao terço
+médio proximal do fêmur, com duração de 1 a 3 minutos por
+bed. Os parâmetros de aquisição incluíram cortes de 5 mm e
+120 kV, sem contraste intravenoso.
+A captação miocárdica de FDG foi avaliada qualitativamente
+e classificada como presente ou ausente (Figura 1).
+Considerou-se “presente” quando a captação visual superava
+a do pool sanguíneo na aorta. Nos casos com captação
+presente, os pacientes foram subdivididos conforme o padrão
+observado: focal (G2a, captação limitada a uma parede),
+heterogêneo (G2b, captação em mais de uma parede) e
+difuso (G2c, captação homogênea em todas as paredes do
+ventrículo esquerdo).
+Análise estatística
+Variáveis categóricas foram descritas em frequências e
+percentuais; as contínuas, como média e desvio-padrão. Os
+pacientes foram agrupados em G1 (ausência de captação
+miocárdica de FDG) e G2 (presença de captação). Em
+seguida, comparou-se G1 com os subgrupos G2a (focal),
+G2b (heterogêneo) e G2c (difuso). Utilizou-se o teste do quiquadrado para variáveis categóricas e, quando indicado, o
+teste exato de Fisher. A normalidade foi verificada pelo teste
+de Shapiro-Wilk. Variáveis contínuas (com distribuição normal)
+foram comparadas pelo teste t de Student para amostras
+independentes. Aplicou-se regressão logística para identificar
+fatores associados à captação miocárdica de FDG, ajustando
+para potenciais confundidores. As análises foram realizadas
+no MedCalc® Statistical Software versão 23.0.2 (MedCalc
+Software Ltd, Oostende, Bélgica), adotando-se P < 0,05 como
+estatisticamente significativo.
+
+Resultados
+Dos 991 exames oncológicos de FDG PET/CT realizados,
+oito foram excluídos: cinco por fichas clínicas incompletas e
+três por impossibilidade técnica de avaliar as imagens. Entre
+os 983 pacientes elegíveis, 883 (89,8%) tinham todos os dados
+clínicos para análise (Figura Central). As características da
+população estão na Tabela 1. As neoplasias mais prevalentes
+foram linfoma (28,91%) e câncer de mama (17,6%), com a
+distribuição global apresentada na Figura 2. Cerca de 75% dos
+pacientes haviam recebido algum tratamento oncológico antes
+do PET/CT, incluindo quimioterapia (73,94%) e radioterapia
+mediastinal (25,83%).
+No preparo para o exame, 982 pacientes (99,9%) seguiram
+a dieta recomendada, com tempo médio de jejum de 6
+horas. A principal indicação foi a avaliação de resposta ao
+tratamento, em 448 casos (45,71%). Na análise visual, 559
+pacientes (56,8%) não apresentaram captação miocárdica de
+FDG (G1), enquanto 424 (43,2%) apresentaram captação:
+focal em 88 (8,95%), heterogênea em 249 (25,4%) e difusa
+em 87 (8,85%) (Figura 3).
+A comparação entre G1 (ausência de captação) e G2
+(presença de captação miocárdica de FDG) está na Tabela 1.
+Na análise univariada, G1 apresentou menor peso, menor
+altura e menor IMC, além de maior prevalência de sexo
+feminino, diabetes e DAC. Na regressão logística, maior peso
+e sexo masculino foram fatores independentes associados à
+
+Ribeiro Sobrinho et al.
+Captação Miocárdica de FDG no PET/CT Oncológico
+
+Artigo Original
+
+Figura 1 – Padrões de captação miocárdica de FDG analisados. Cortes coronais de tomografia por emissão de pósitrons combinada
+com imagens de tomografia computadorizada representando os padrões analisados de captação de FDG no miocárdio. Da esquerda
+para a direita: ausência de captação de FDG no miocárdio (G1); captação focal (G2a), captação heterogênea (G2b) e captação difusa
+(G2c). FDG: fluordesoxiglicose-18F.
+
+Tabela 1 – Características da amostra e comparação entre ausência (G1) e presença (G2) de captação miocárdica de FDG
+Variável
+
+Total
+(n = 983)
+
+G1
+(n = 559)
+
+G2
+(n = 424)
+
+Valor p
+
+Sexo feminino
+
+628 (64%)
+
+389 (70%)
+
+238 (56%)
+
+<0,001
+
+Idade (anos)*
+
+56 ± 16
+
+56 ± 16
+
+56 ± 16
+
+0,665
+
+Peso (kg)*
+
+69 ± 17
+
+65 ± 16
+
+70 ± 18
+
+<0,001
+
+Altura (m)*
+
+1,61 ± 0,99
+
+1,60 ± 0,09
+
+1,62 ± 0,1
+
+0,001
+
+IMC (kg/m2)*
+
+26 ± 6
+
+25 ± 7
+
+27 ± 8
+
+0,004
+
+HGT (mg/dl)*
+
+104 ± 22
+
+99 ± 24
+
+100 ± 19
+
+0,277
+
+Avaliação de resposta ao tratamento
+
+448 (46%)
+
+251 (45%)
+
+197 (47%)
+
+Controle
+
+113 (12%)
+
+66 (12%)
+
+47 (11%)
+
+Estadiamento
+
+196 (20%)
+
+120 (22%)
+
+76 (18%)
+
+Reestadiamento
+
+223 (23%)
+
+120 (22%)
+
+103 (24%)
+
+Radioterapia mediastinal
+
+251 (26%)
+
+152 (28%)
+
+99 (24%)
+
+0,162
+
+Quimioterapia
+
+718 (74%)
+
+409 (74%)
+
+309 (74%)
+
+0,923
+
+Hipertensão
+
+392 (40%)
+
+214 (38%)
+
+178 (42%)
+
+0,260
+
+Diabetes melito
+
+193 (20%)
+
+124 (22%)
+
+69 (16%)
+
+0,020
+
+Dislipidemia
+
+107 (11%)
+
+69 (12%)
+
+38 (9%)
+
+0,088
+
+Tabagismo
+
+155 (16%)
+
+87 (16%)
+
+68 (16%)
+
+0,856
+
+DAC
+
+30 (3%)
+
+24 (4%)
+
+6 (1%)
+
+0,009
+
+Uso de medicações cardiológicas
+
+349 (36%)
+
+199 (36%)
+
+150 (35%)
+
+0,915
+
+Motivo do exame
+
+0,633
+
+DAC: doença arterial coronariana; IMC: índice de massa corporal; HGT: hemoglucoteste. * Valores de média ± desvio padrão.
+
+Arq Bras Cardiol. 2026; 123(1):e20250028
+
+4
+
+Ribeiro Sobrinho et al.
+Captação Miocárdica de FDG no PET/CT Oncológico
+
+Artigo Original
+
+Tumor
+
+Linfoma
+Mama
+Melanoma
+Colo de útero
+Pulmão
+Cólon
+Cabeça/pescoço
+Sítio primário desconhecido
+Esôfago
+Reto
+Ovário
+Tireóide
+Malanoma
+Estômago
+Pele não melanoma
+Faringe
+Sarcoma
+Bexiga
+Rim
+Amigdala
+Língua
+Pâncreas
+Próstata
+Vias biliares
+Hepático
+Laringe
+Neoplasia trofoblástica
+Pênis
+Endométrio
+Palato
+Testículo
+Vulva
+Neuroblastoma
+Pleura
+Não informado
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+Número de pacientes
+Figura 2 – Distribuição absoluta dos tipos de cânceres na população do estudo (n = 983).
+
+G
+
+8,9 2a
+5%
+
+presença de captação miocárdica de FDG, enquanto diabetes
+e DAC associaram-se independentemente à ausência de
+captação (Figura 4).
+
+G1
+
+56,8%
+
+G2b
+
+25,4%
+
+8
+
+c
+G2,85%
+
+Figura 3 – Gráfico de pizza ilustrando a distribuição dos padrões
+de captação miocárdica de FDG na população do estudo. Ao
+lado do gráfico, imagens coronais do PET/CT exemplificam os
+padrões analisados: G1, ausência de captação; G2a, captação
+focal; G2b, captação heterogênea; G2c, captação difusa. FDG:
+fluordesoxiglicose-18F; PET/CT: tomografia por emissão de
+pósitrons/tomografia computadorizada.
+
+5
+
+Arq Bras Cardiol. 2026; 123(1):e20250028
+
+Na avaliação dos subgrupos de captação (G2a, G2b e
+G2c) versus G1, a regressão logística mostrou: maior IMC
+como preditor independente de captação focal (G2a); sexo
+masculino como preditor de captação heterogênea (G2b) ou
+difusa (G2c); maior peso associado à captação heterogênea
+(G2b); e diabetes melito e radioterapia mediastinal associados
+à ausência de captação (G1) (Figura 5).
+
+Discussão
+Os exames oncológicos de PET/CT revelaram perfis
+variados de captação miocárdica de FDG, influenciados por
+fatores de risco cardiovascular e comorbidades. Características
+como sexo, peso corporal, diabetes e DAC parecem
+modular a utilização de glicose pelo miocárdio. Na atual
+era do metabolismo cardíaco, compreender como as células
+miocárdicas utilizam glicose é essencial para elucidar de que
+forma as doenças cardiovasculares impactam diretamente a
+função cardíaca, dada a relação intrínseca entre metabolismo
+energético e desempenho miocárdico.16 Esse entendimento
+pode ampliar as aplicações clínicas do PET/CT com FDG para
+além do contexto oncológico.
+
+Ribeiro Sobrinho et al.
+Captação Miocárdica de FDG no PET/CT Oncológico
+
+Grupo
+
+Artigo Original
+
+Masculino
+
+p = 0,0008
+
+Diabetes
+melito
+
+p = 0,0131
+
+DAC
+presente
+
+p = 0,0076
+
+Peso
+
+p = 0,0001
+
+0,0
+
+0,5
+
+1,0
+Odds Ratio (OR)
+
+1,5
+
+2,0
+
+Figura 4 – Variáveis preditoras associadas à presença de captação miocárdica de FDG no PET/CT. As ORs e seus intervalos de
+confiança de 95% (linhas pretas contínuas) foram estimados por regressão logística. OR > 1 indica associação positiva com a captação
+miocárdica; OR < 1, associação negativa. O valor p reflete a significância estatística de cada variável. DAC: doença arterial coronariana;
+FDG: fluordesoxiglicose-18F; OR: odds ratio; PET/CT: tomografia por emissão de pósitrons/tomografia computadorizada.
+
+Radioterapia
+mediastinal
+
+p = 0,0386
+
+Diabetes
+melito*
+
+p = 0,0087
+
+Heterogênea
+
+Masculino
+
+p = 0,0211
+
+Peso
+
+p = 0,0010
+Focal
+
+IMC
+
+p = 0,0011
+
+Masculino*
+
+p = 0,0026
+Difusa
+
+Diabetes
+melito*
+
+0,0
+
+p = 0,0275
+
+0,5
+
+1,0
+
+1,5
+2,0
+Odds Ratio (OR)
+
+2,5
+
+3,0
+
+3,5
+
+Figura 5 – Variáveis preditoras da captação miocárdica de FDG no PET/CT. As ORs e seus intervalos de confiança de 95% (linhas
+pretas contínuas) foram estimadas por regressão logística. OR > 1 indica associação positiva; OR < 1, associação negativa. O valor
+p expressa a significância estatística. *Variáveis analisadas especificamente para captação difusa. FDG: fluordesoxiglicose-18F; IMC:
+índice de massa corporal; OR: odds ratio; PET/CT: tomografia por emissão de pósitrons/tomografia computadorizada.
+O coração, órgão de alta demanda energética, depende
+predominantemente da fosforilação oxidativa para
+sustentar a contração. Sob estresse — como durante a
+quimioterapia — o metabolismo cardíaco pode adaptarse, com maior utilização de glicose pela via glicolítica
+anaeróbica.17 A captação de FDG pelo miocárdio, contudo,
+é mediada pela hexoquinase, cuja atividade pode ser
+amplificada em resposta ao estresse oxidativo, sugerindo
+
+que o FDG pode sinalizar não apenas a glicólise, mas
+também a atividade antioxidante. 18 Outra explicação
+plausível é a infiltração de células inflamatórias ativadas,
+que exibem aumento da expressão de transportadores
+de glicose e, por isso, afinidade pelo FDG.19-22 Assim, a
+interpretação do padrão de captação miocárdica exige
+cautela: a elevação observada após quimioterapia pode
+refletir não só alterações no consumo de glicose, mas
+
+Arq Bras Cardiol. 2026; 123(1):e20250028
+
+6
+
+Ribeiro Sobrinho et al.
+Captação Miocárdica de FDG no PET/CT Oncológico
+
+Artigo Original
+também processos como atividade antioxidante ou
+inflamação secundária ao tratamento.3
+Estudos retrospectivos indicam que a elevação da captação
+miocárdica de FDG pode atuar como marcador precoce
+de cardiotoxicidade, associando-se à redução da fração
+de ejeção do ventrículo esquerdo.23 Essa possibilidade é
+promissora, pois permitiria monitorar, em um único exame, o
+câncer e eventuais efeitos cardiotóxicos.24 Entretanto, estudo
+prospectivo em pacientes com linfoma avaliados antes e após
+a quimioterapia (dados ainda não publicados) não encontrou
+associação entre o aumento da captação miocárdica de FDG e
+a piora do strain ventricular.25 Isso sugere que, embora útil para
+estadiamento e avaliação de resposta tumoral, o FDG pode
+não captar toda a complexidade das alterações funcionais
+cardíacas subclínicas.
+Neste trabalho, observou-se associação significativa
+entre sexo masculino e maior peso corporal com a presença
+de captação miocárdica de FDG. Em contraste, diabetes
+e DAC associaram-se à ausência de captação. Não foram
+detectadas diferenças estatisticamente significativas
+entre pacientes com e sem histórico de tratamento
+oncológico (quimioterapia ou radioterapia). Esses
+resultados evidenciam a complexidade das interações entre
+fatores de risco cardiovascular e metabolismo da glicose,
+indicando que o FDG pode não ser um marcador sensível
+para todas as alterações metabólicas cardioprotetoras.
+Além disso, apontam para padrões distintos de captação
+vinculados a comorbidades como diabetes, sobrepeso
+e DAC, refletindo respostas metabólicas heterogêneas
+conforme o perfil clínico dos pacientes.
+Estudos indicam que a menor utilização de glicose pelo
+miocárdio em indivíduos com diabetes, DAC ou obesidade
+decorre de múltiplos mecanismos. Entre eles, destacam-se
+a redução da expressão de transportadores transmembrana
+de glicose e a menor translocação desses transportadores
+em resposta à insulina, em razão da resistência insulínica
+típica dessas condições.26,27 Observa-se, ainda, queda da
+atividade da piruvato desidrogenase e da capacidade oxidativa
+mitocondrial.28-31 Outro fator relevante é o aumento dos ácidos
+graxos circulantes, associado a menor captação de glicose,
+sobretudo na presença de adiposidade visceral aumentada.28-31
+Nesse contexto, os achados do G1 estão em concordância
+com a literatura.
+No presente estudo, não houve associação significativa
+entre maior IMC e ausência de captação miocárdica de
+FDG, como seria esperado pelos mecanismos acima.
+Observou-se, ao contrário, que indivíduos com maior
+peso — não necessariamente obesos — exibiram maior
+ocorrência de captação. Assim, investigações futuras
+devem explorar a relação entre IMC, distribuição de
+gordura corporal e presença ou ausência de captação
+miocárdica de FDG, especialmente na população
+oncológica, em que a avaliação da composição corporal
+assume relevância adicional.32
+Quanto ao sexo masculino, a composição corporal —
+caracterizada por maior proporção de massa muscular em
+relação ao sexo feminino — e um perfil de menor resistência
+à insulina podem contribuir para maior captação de glicose
+
+7
+
+Arq Bras Cardiol. 2026; 123(1):e20250028
+
+e, consequentemente, de FDG.33 Embora os mecanismos
+não estejam totalmente elucidados, postula-se que miocinas
+liberadas pelo músculo esquelético possam melhorar a
+sensibilidade à insulina no miocárdio34 e oferecer proteção
+cardiovascular.34,35
+Medicações e comorbidades também podem influenciar a
+captação miocárdica de FDG.4,12 Fármacos como inibidores
+do cotransportador de sódio-glicose-2 e metformina,
+por exemplo, podem modificar a captação ao refletirem
+mudanças no metabolismo energético, sem necessariamente
+indicar dano cardíaco. 34,35 No presente estudo, não
+observamos diferenças nos padrões de captação segundo
+o uso de drogas cardiológicas; contudo, por se tratar de
+delineamento retrospectivo, não foi possível avaliar esse
+aspecto de forma conclusiva. Ademais, comorbidades
+como diabetes e doença isquêmica do coração demandam
+estratificação mais detalhada, pois diferentes graus de
+comprometimento metabólico podem alterar a captação
+de FDG e dificultar sua interpretação.
+A extrapolação dos resultados é limitada pela
+composição da amostra — majoritariamente de pacientes
+da rede pública, com alta prevalência de linfoma e
+câncer de mama. Além disso, protocolos específicos
+para análise cardíaca da captação de FDG, que incluem
+períodos mais longos de jejum, não foram adotados, pois
+não constituíam o objetivo primário do exame. Por ser
+um estudo retrospectivo, a definição das variáveis ficou
+restrita às fichas clínicas, incluindo limitações como a
+caracterização de DAC baseada no uso concomitante de
+AAS e estatina — combinação que pode ter sido indicada
+por outros motivos clínicos, não necessariamente por
+DAC ou cerebrovascular. Reconhecemos, ainda, como
+limitação a análise agrupada de diferentes medicações
+cardiológicas e hipoglicemiantes, com mecanismos de
+ação, meias-vidas e esquemas de suspensão distintos,
+o que impediu avaliação mais específica dos impactos
+metabólicos por classe. Apesar dessas restrições, a ampla
+casuística oferece base sólida para estudos futuros e reforça
+a necessidade de investigar, com maior detalhamento,
+as diferenças no metabolismo miocárdico da glicose em
+função dos fatores de risco cardiovascular, bem como sua
+relação com fenótipos e possíveis mecanismos de proteção
+contra cardiotoxicidade.
+
+Conclusão
+Apesar das limitações, este estudo identificou, de forma
+pioneira, padrões distintos de captação miocárdica de FDG,
+sugerindo fenótipos metabólicos específicos associados a
+comorbidades cardiovasculares em pacientes oncológicos.
+Fatores como sexo masculino, maior peso corporal, diabetes
+e DAC parecem exercer papel relevante na utilização de
+FDG pelo miocárdio. Diabetes e DAC foram preditores
+independentes de ausência de captação, ao passo que sexo
+masculino e maior peso corporal previram presença de
+captação. Esses achados reforçam a necessidade de aprofundar
+a compreensão dos mecanismos subjacentes a tais associações
+— não apenas para avançar o entendimento das doenças
+cardiometabólicas, mas também para consolidar o potencial
+
+Ribeiro Sobrinho et al.
+Captação Miocárdica de FDG no PET/CT Oncológico
+
+Artigo Original
+do PET/CT com FDG na avaliação de cardiotoxicidade após
+o tratamento oncológico.
+
+Contribuição dos autores
+Concepção e desenho da pesquisa: Ribeiro Sobrinho JMD,
+Mourato FA, Becker MMC, Brandão SCS; Obtenção de dados:
+Ribeiro Sobrinho JMD, Leão EDLM, Accioly BB, Becker MMC,
+Brandão SCS; Análise e interpretação dos dados: Ribeiro Sobrinho
+JMD, Leão EDLM, Accioly BB, Mourato FA, Becker MMC,
+Brandão SCS; Análise estatística: Ribeiro Sobrinho JMD, Mourato
+FA, Brandão SCS; Obtenção de financiamento e Redação do
+manuscrito: Ribeiro Sobrinho JMD, Brandão SCS; Revisão crítica
+do manuscrito quanto ao conteúdo: Mourato FA, Brandão SCS.
+Potencial conflito de interesse
+Não há conflito com o presente artigo.
+Fontes de financiamento
+O presente estudo foi financiado por Edital PROPESQI
+nº04/2023 - Programa Institucional de Bolsas de Iniciação
+Científica (PIBIC/UFPE/CNPq).
+
+Vinculação acadêmica
+Não há vinculação deste estudo a programas de pós-graduação.
+Aprovação ética e consentimento informado
+Este estudo foi aprovado pelo Comitê de Ética do Hospital
+das Clínicas da Universidade Federal de Pernambuco sob
+o número de protocolo 68674623.9.0000.8807. Todos os
+procedimentos envolvidos nesse estudo estão de acordo
+com a Declaração de Helsinki de 1975, atualizada em 2013.
+Uso de Inteligência Artificial
+Durante a preparação deste trabalho, o(s) autor(es) usaram
+ChatGPT (OpenAI) para correção de erros gramaticais e
+ferramenta de busca para reunir informações e referências
+relevantes.
+Disponibilidade de Dados
+Os conteúdos subjacentes ao texto da pesquisa estão
+contidos no manuscrito.
+
+Referências
+1.
+
+2.
+
+Melo MDT, Paiva MG, Santos MVC, Rochitte CE, Moreira VM, Saleh MH,
+et al. Brazilian Position Statement on the Use Of Multimodality Imaging in
+Cardio-Oncology - 2021. Arq Bras Cardiol. 2021;117(4):845-909. doi:
+10.36660/abc.20200266.
+Lyon AR, López-Fernández T, Couch LS, Asteggiano R, Aznar MC, BerglerKlein J, et al. 2022 ESC Guidelines on Cardio-Oncology Developed in
+Collaboration with the European Hematology Association (EHA), the
+European Society for Therapeutic Radiology and Oncology (ESTRO)
+and the International Cardio-Oncology Society (IC-OS). Eur Heart J.
+2022;43(41):4229-361. doi: 10.1093/eurheartj/ehac244.
+
+3.
+
+Becker MMC, Arruda GFA, Berenguer DRF, Buril RO, Cardinale D, Brandão
+SCS. Anthracycline Cardiotoxicity: Current Methods of Diagnosis and
+Possible Role of 18F-FDG PET/CT as a New Biomarker. Cardiooncology.
+2023;9(1):17. doi: 10.1186/s40959-023-00161-6.
+
+4.
+
+Kim J, Cho SG, Kang SR, Yoo SW, Kwon SY, Min JJ, et al. Association between
+FDG Uptake in the Right Ventricular Myocardium and Cancer TherapyInduced Cardiotoxicity. J Nucl Cardiol. 2020;27(6):2154-63. doi: 10.1007/
+s12350-019-01617-y.
+
+5.
+
+Boellaard R, Delgado-Bolton R, Oyen WJ, Giammarile F, Tatsch K, Eschner
+W, et al. FDG PET/CT: EANM Procedure Guidelines for Tumour Imaging:
+Version 2.0. Eur J Nucl Med Mol Imaging. 2015;42(2):328-54. doi: 10.1007/
+s00259-014-2961-x.
+
+6.
+
+American Joint Committee on Cancer. AJCC Cancer Staging Manual. 8th ed.
+Chicago: Springer; 2017.
+
+7.
+
+National Comprehensive Cancer Network. Breast Cancer (Version 5.2021).
+Plymouth Meeting: NCCN; 2021 [cited 2025 Oct 20]. Available from:
+https://www.nccn.org/professionals/physician_gls/pdf/breast.pdf.
+
+8.
+
+Dourado MLC, Dompieri LT, Leitão GM, Mourato FA, Santos RGG, Almeida
+PJ Filho, et al. Chemotherapy-Induced Cardiac18F-FDG Uptake in Patients
+with Lymphoma: An Early Metabolic Index of Cardiotoxicity? Arq Bras
+Cardiol. 2022;118(6):1049-58. doi: 10.36660/abc.20210463.
+
+9.
+
+Berenguer DRF, Becker MMC, Buril RO, Bertão PA, Markman B Filho,
+Brandão SCS. Progression of Myocardial 18F-FDG Uptake in a Patient with
+
+Cardiotoxicity. Arq Bras Cardiol. 2024;121(2):e20230276. doi: 10.36660/
+abc.20230276.
+10. Zuurbier CJ, Bertrand L, Beauloye CR, Andreadou I, Ruiz-Meana M,
+Jespersen NR, et al. Cardiac Metabolism as a Driver and Therapeutic Target of
+Myocardial Infarction. J Cell Mol Med. 2020;24(11):5937-54. doi: 10.1111/
+jcmm.15180.
+11. Pasqua T, Rocca C, Giglio A, Angelone T. Cardiometabolism as an
+Interlocking Puzzle between the Healthy and Diseased Heart: New Frontiers
+in Therapeutic Applications. J Clin Med. 2021;10(4):721. doi: 10.3390/
+jcm10040721.
+12. Haider A, Bengs S, Schade K, Wijnen WJ, Portmann A, Etter D, et al.
+Myocardial 18F-FDG Uptake Pattern for Cardiovascular Risk Stratification
+in Patients Undergoing Oncologic PET/CT. J Clin Med. 2020;9(7):2279. doi:
+10.3390/jcm9072279.
+13. Sarocchi M, Bauckneht M, Arboscello E, Capitanio S, Marini C, Morbelli S, et
+al. An Increase in Myocardial 18-Fluorodeoxyglucose Uptake is Associated
+with Left Ventricular Ejection Fraction Decline in Hodgkin Lymphoma
+Patients Treated with Anthracycline. J Transl Med. 2018;16(1):295. doi:
+10.1186/s12967-018-1670-9.
+14. Bauckneht M, Pastorino F, Castellani P, Cossu V, Orengo AM, Piccioli P, et al.
+Increased Myocardial 18F-FDG Uptake as a Marker of Doxorubicin-Induced
+Oxidative Stress. J Nucl Cardiol. 2020;27(6):2183-94. doi: 10.1007/
+s12350-019-01618-x.
+15. Mahabadi AA, Rischpler C. Cardiovascular Imaging in Cardio-Oncology. J
+Thorac Dis. 2018;10(Suppl 35):S4351-66. doi: 10.21037/jtd.2018.10.92.
+16. Capone F, Sotomayor-Flores C, Bode D, Wang R, Rodolico D, Strocchi S, et
+al. Cardiac Metabolism in HFpEF: From Fuel to Signalling. Cardiovasc Res.
+2023;118(18):3556-75. doi: 10.1093/cvr/cvac166.
+17. TOTZECK, Matthias et al. Cardio-oncology-strategies for management
+of cancer-therapy related cardiovascular disease. International
+Journal of Cardiology, v. 280, p. 163-175, 2019. doi:10.1016/j.
+ijcard.2019.01.038.
+
+Arq Bras Cardiol. 2026; 123(1):e20250028
+
+8
+
+Ribeiro Sobrinho et al.
+Captação Miocárdica de FDG no PET/CT Oncológico
+
+Artigo Original
+18. Chen R, Zhang H, Tang B, Luo Y, Yang Y, Zhong X, et al. Macrophages in
+Cardiovascular Diseases: Molecular Mechanisms and Therapeutic Targets.
+Signal Transduct Target Ther. 2024;9(1):130. doi: 10.1038/s41392-02401840-1.
+
+27. Mouton AJ, Li X, Hall ME, Hall JE. Obesity, Hypertension, and Cardiac
+Dysfunction: Novel Roles of Immunometabolism in Macrophage Activation
+and Inflammation. Circ Res. 2020;126(6):789-806. doi: 10.1161/
+CIRCRESAHA.119.312321.
+
+19. Pijl JP, Nienhuis PH, Kwee TC, Glaudemans AWJM, Slart RHJA, Gormsen LC.
+Limitations and Pitfalls of FDG-PET/CT in Infection and Inflammation. Semin
+Nucl Med. 2021;51(6):633-45. doi: 10.1053/j.semnuclmed.2021.06.008.
+
+28. Lee Y, Jang J, Lim S, Na SJ. Evaluation of Clinical Variables Affecting Myocardial
+Glucose Uptake in Cardiac FDG PET. Diagnostics. 2024;14(16):1705. doi:
+10.3390/diagnostics14161705.
+
+20. Oudot A, Courteau A, Guillemin M, Vrigneaud JM, Walker PM, Brunotte
+F, et al. [123I]MIBG is a Better Early Marker of Anthracycline Cardiotoxicity
+than [18F]FDG: A Preclinical SPECT/CT and Simultaneous PET/MR Study.
+EJNMMI Res. 2021;11(1):92. doi: 10.1186/s13550-021-00835-1.
+
+29. Succurro E, Vizza P, Cicone F, Cassano V, Massimino M, Giofrè F, et al.
+Sex-Specific Differences in Myocardial Glucose Metabolic Rate in NonDiabetic, Pre-Diabetic and Type 2 Diabetic Subjects. Cardiovasc Diabetol.
+2024;23(1):144. doi: 10.1186/s12933-024-02246-7.
+
+21. Kersting D, Mavroeidi IA, Settelmeier S, Seifert R, Schuler M, Herrmann K, et
+al. Molecular Imaging Biomarkers in Cardiooncology: A View on Established
+Technologies and Future Perspectives. J Nucl Med. 2023;64(Suppl
+2):29S-38S. doi: 10.2967/jnumed.122.264868.
+
+30. Devesa A, Fuster V, Vazirani R, García-Lunar I, Oliva B, España S, et al.
+Cardiac Insulin Resistance in Subjects with Metabolic Syndrome Traits and
+Early Subclinical Atherosclerosis. Diabetes Care. 2023;46(11):2050-7. doi:
+10.2337/dc23-0871.
+
+22. Plana JC, Thavendiranathan P, Bucciarelli-Ducci C, Lancellotti P. MultiModality Imaging in the Assessment of Cardiovascular Toxicity in the Cancer
+Patient. JACC Cardiovasc Imaging. 2018;11(8):1173-86. doi: 10.1016/j.
+jcmg.2018.06.003.
+
+31. Baracos VE, Arribas L. Sarcopenic Obesity: Hidden Muscle Wasting and
+its Impact for Survival and Complications of Cancer Therapy. Ann Oncol.
+2018;29(Suppl 2):ii1-ii9. doi: 10.1093/annonc/mdx810.
+
+23. Totzeck M, Aide N, Bauersachs J, Bucerius J, Georgoulias P, Herrmann K, et
+al. Nuclear Medicine in the Assessment and Prevention of Cancer TherapyRelated Cardiotoxicity: Prospects and Proposal of Use by the European
+Association of Nuclear Medicine (EANM). Eur J Nucl Med Mol Imaging.
+2023;50(3):792-812. doi: 10.1007/s00259-022-05991-7.
+24. Boudina S, Abel ED. Mitochondrial Uncoupling: A Key Contributor to
+Reduced Cardiac Efficiency in Diabetes. Physiology. 2006;21:250-8. doi:
+10.1152/physiol.00008.2006.
+25. Becker MMC. Avaliação do Metabolismo Glicolítico Cardíaco e da
+Deformidade Miocárdica Antes e Após Quimioterapia em Pacientes com
+Linfoma [dissertation]. Recife: Universidade Federal de Pernambuco; 2024.
+26. Peterson LR, Herrero P, Coggan AR, Kisrieva-Ware Z, Saeed I, Dence C, et al.
+Type 2 Diabetes, Obesity, and Sex Difference Affect the Fate of Glucose in
+the Human Heart. Am J Physiol Heart Circ Physiol. 2015;308(12):H1510-6.
+doi: 10.1152/ajpheart.00722.2014.
+
+32. Kim YE, Kim D, Kim J, Yun M, Kang ES. Association between Appendicular
+Skeletal Muscle Mass and Myocardial Glucose Uptake Measured
+by 18F-FDG PET. ESC Heart Fail. 2025;12(1):467-76. doi: 10.1002/
+ehf2.15086.
+33. Balakrishnan R, Thurmond DC. Mechanisms by Which Skeletal Muscle
+Myokines Ameliorate Insulin Resistance. Int J Mol Sci. 2022;23(9):4636.
+doi: 10.3390/ijms23094636.
+34. Lauritsen KM, Nielsen BRR, Tolbod LP, Johannsen M, Hansen J, Hansen TK,
+et al. SGLT2 Inhibition does Not Affect Myocardial Fatty Acid Oxidation
+or Uptake, but Reduces Myocardial Glucose Uptake and Blood Flow in
+Individuals with Type 2 Diabetes: A Randomized Double-Blind, PlaceboControlled Crossover Trial. Diabetes. 2021;70(3):800-8. doi: 10.2337/
+db20-0921.
+35. Tsuchida H, Morita Y, Nogami M, Ogawa W. Metformin Action in the GutInsight Provided by [18F]FDG PET Imaging. Diabetol Int. 2021;13(1):35-40.
+doi: 10.1007/s13340-021-00545-y.
+
+Este é um artigo de acesso aberto distribuído sob os termos da licença de atribuição pelo Creative Commons
+
+9
+
+Arq Bras Cardiol. 2026; 123(1):e20250028
+
+

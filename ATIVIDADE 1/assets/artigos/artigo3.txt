@@ -1,0 +1,1166 @@
+Psicologia: Teoria e Pesquisa
+Jan-Mar 2009, Vol. 25 n. 1, pp. 065-074
+
+Psicologia Aplicada à Cardiologia:
+Um Estudo sobre Emoções Relatadas em Exame de Holter1
+Ana Myriam Sánchez Bonomo
+Tereza Cristina Cavalcanti Ferreira de Araujo2
+Universidade de Brasília
+RESUMO - Estudos sobre fatores de risco associados a doenças do coração dão ênfase às emoções negativas e não esclarecem
+quanto aos efeitos cardíacos de vivências de alegria ou segurança. Realizou-se uma investigação com 30 pessoas submetidas
+ao exame de Holter 24 horas, visando identificar emoções e episódios de vida diária que ocorrem simultaneamente a arritmias
+cardíacas. Reuniram-se registros de arritmias, atividades e emoções, complementados por entrevistas semiestruturadas.
+Verificaram-se diferenças acentuadas entre gêneros: mulheres apresentaram mais arritmias que homens. Nas mulheres, arritmias
+ventriculares ocorreram mais simultaneamente à preocupação do que à ansiedade e não se mostraram relacionadas à raiva. A
+tristeza não foi associada a arritmias ventriculares por nenhum dos gêneros.
+Palavras-chave: emoções; arritmias cardíacas; Holter; gênero.
+
+Psychology Applied to Cardiology:
+A Study on Emotions Reported during Holter Monitoring
+ABSTRACT - Studies on risk factors associated with heart diseases emphasize the negative emotions and do not enlighten the
+cardiologic effects in response to joy or security. It was carried out an investigation with 30 people, submitted to 24 hours Holter
+monitoring, aiming at identifying emotions and episodes of daily life that occur simultaneously with cardiac arrhythmias. In
+doing so, records of arrhythmias, activities and emotions were gathered, additionally supported by semi-structured interviews.
+Great gender differences were found: women presented more arrhythmias than men. In women, ventricular arrhythmias occurred
+more simultaneously to worries than with respect to anxiety and were not related to anger. In both genders sadness was not
+associated with ventricular arrhythmias.
+Keywords: emotions; cardiac arrhythmias; Holter; gender.
+
+Inúmeros pesquisadores têm se esforçado para identificar
+fatores de risco para doenças do coração. Já foram reunidas
+evidências sobre determinantes biológicos, comportamentais e psicossociais, mas sabe-se, atualmente, que fatores
+orgânicos – como hipertensão, hipercolesterolemia, obesidade e diabetes – explicam apenas 40% das ocorrências de
+doenças cardíacas (Kubzansky & Kawachi, 2000). Muitos
+estudos empíricos têm demonstrado a relação entre doenças
+cardiovasculares e fatores psicossociais, dentre os quais os
+mais investigados são: nível socioeconômico, suporte social,
+idade, gênero, padrão de comportamento tipo A, estresse,
+depressão e emoções negativas e positivas. Essa literatura
+especializada também aponta que a combinação de fatores
+psicossociais aumenta significativamente o risco potencial,
+além de atuar sinergicamente com fatores biológicos incrementando ainda mais a predisposição a eventos cardíacos
+1
+
+Trabalho desenvolvido pela primeira autora sob orientação da segunda
+durante o Curso de Pós-Graduação em Psicologia da Universidade de
+Brasília. Agradecimentos à Profª. Ângela Maria de Oliveira Almeida,
+da Universidade de Brasília, pelo auxílio técnico-científico na aplicação
+do software Alceste e à psicanalista Ana Velia Vélez de Sánchez Osella
+pela colaboração na análise das entrevistas.
+
+2
+
+Endereço para correspondência: . Instituto de Psicologia, Universidade
+de Brasília. Campus Darcy Ribeiro, Asa Norte. Brasília, DF. CEP
+70910-900. E-mails: araujotc@unb.br; anamyriam@hotmail.com.
+
+(Rozanski, Blumenthal & Kaplan, 1999). Considerando o
+escopo da presente pesquisa, serão especialmente abordados
+os fatores gênero e emoção.
+
+Gênero e Predisposição para
+Doenças do Coração
+No Brasil, ser do gênero masculino é um dos fatores predisponentes para doenças do coração. Porém, a ocorrência de
+óbitos de origem cardíaca é maior entre mulheres, visto que,
+em 2000, representou 31,30% do total de mortes, ao passo
+que este percentual para homens foi de 24,88% (Ministério
+da Saúde, 2003). Para Frasure-Smith e Lesperance (1998),
+Kubzansky e Kawachi (2000) e Perez (2004), é preciso
+apontar que grande parte das pesquisas sobre predisposição
+é realizada com amostras compostas por homens, quando a
+taxa de mortalidade é maior entre mulheres.
+Estudos a respeito da prevalência de doença coronária
+indicam que as taxas mais elevadas de mortalidade feminina
+estão associadas à presença de fatores hormonais, transmissão
+genética, diferenças de estrutura e funcionamento cerebral,
+assim como fatores psicossociais, tais como funcionamento
+psicológico, papel familiar e social (Perez, Nicolau, Romano & Laranjeira, 2005). Ao comparar mulheres com e sem
+doenças cardiovasculares, durante o climatério, Favarato e
+65
+
+A. M. S. Bonomo & T. C. C. F. Araujo
+
+Aldrighi (2001) obtiveram mais relatos de insatisfação com
+a vida, tristeza, choro fácil e nervosismo de mulheres coronariopatas do que de mulheres do grupo controle.
+Diferenças de gênero na incidência de doença arterial
+coronariana e aterosclerose são também atribuídas aos efeitos
+do estrogênio. Mulheres pré-menopáusicas ou que fazem reposição hormonal apresentam proteção relativa para doenças
+coronarianas, derrame isquêmico e aterosclerose com relação
+aos homens de mesma idade, apresentando redução de 50%
+na taxa de mortalidade (Lima & Nussbacher, 1996). Porém,
+esta propalada “proteção feminina” merece ser melhor compreendida, pois aparentemente o que ocorre é que a curva
+de incidência dessas patologias em mulheres tem um atraso
+de aproximadamente 10 anos em relação à dos homens e
+acredita-se que, como a aterosclerose progride por anos, os
+eventos clínicos tiveram seu início anos antes (Perez, 2004;
+Rozanski & cols., 1999).
+A menopausa reflete-se na incidência de depressão, pois
+os estrogênios estão relacionados à metabolização de serotonina, de modo que sua presença teria um efeito semelhante
+ao de antidepressivos (Almeida & Fráguas Jr., 1996). Na
+perimenopausa, período de quatro anos antes da instalação
+da menopausa, os níveis de estrogênio começam a oscilar, o
+que pode facilitar o aparecimento de sintomas depressivos
+(Favarato & Aldrighi, 2001). Dados sugerem que o estresse
+psicossocial causa hipogonadismo hipotalâmico, ou seja,
+anormalidades ovarianas que reduzem os índices de estrogênio e cujas manifestações vão desde efeitos subclínicos até
+amenorréia, hipercolesterolemia e outros indicadores neuroendócrinos e comportamentais de estresse. A aterosclerose é
+então acelerada, predispondo à doença arterial coronariana
+e, possivelmente, ao derrame isquêmico (Rozanski & cols.,
+1999). Pesquisas também mostram que o prognóstico de
+doenças coronárias é pior nas mulheres e que o gênero
+feminino está significativamente associado a complicações
+pós-operatórias em intervenções cirúrgicas cardíacas (Pinton,
+Carvalho, Miyazaki & Godoy, 2006).
+Até hoje, poucas investigações foram feitas sobre o efeito
+da hostilidade em mulheres. Em um trabalho pioneiro de
+avaliação do comportamento tipo A, não foi identificada associação entre esse comportamento e a incidência de doença
+coronariana em mulheres (Eaker, 1998). Os papéis sociais
+de gênero fazem com que as reações frente a uma mesma
+situação sejam diferentes. Homens tendem mais a expressar
+emoções negativas, vivenciando raiva com maior frequência,
+enquanto reprimem o medo, e expressando as emoções com
+maiores níveis de ativação fisiológica. As mulheres, por
+sua vez, relatam maior gama de emoções e as verbalizam
+mais intensamente, reprimindo tanto a experiência quanto
+a expressão da raiva. Ou seja, a supressão da raiva determinada pela socialização faz com que, nas mulheres, sentir ou
+demonstrar raiva gere outras emoções negativas como culpa,
+ansiedade, vergonha e depressão. Esse somatório de emoções
+aumenta a reatividade fisiológica, especialmente entre adolescentes e mulheres jovens, tendência que diminui com a idade,
+principalmente em episódios de raiva e de medo (Kubzansky
+& Kawachi, 2000; Labouvie-Vief, Lumley, Jain & Heinze,
+2003; Lampert & cols., 2002; Lavoiea, Miller, Conwaya &
+Fleetb, 2001). Ao investigarem as diferenças da reatividade
+cardíaca frente a emoções induzidas por auto-relato de me66
+
+mórias em mais de 100 participantes, Labouvie-Vief e cols.
+(2003) constataram que a reatividade cardíaca diminuiu com
+a idade para ambos os gêneros, mas esse declínio foi muito
+mais acentuado entre as mulheres. Os efeitos da indução de
+tristeza e de alegria diminuíram com a idade para homens
+e mulheres, mas, para essas emoções, não houve diferenças
+significativas.
+Percebe-se, então, que gênero é um fator que influencia
+as respostas cardíacas a determinadas emoções, mas não a
+outras.
+
+Emoções e suas Repercussões
+sobre o Ritmo Cardíaco
+Na literatura especializada, a descrição conceitual e
+teórica das emoções envolve diversas perspectivas, nem
+sempre consensuais ou convergentes. Entretanto, a maioria
+dos pesquisadores concorda que as emoções compreendem
+componentes afetivos, cognitivos e comportamentais, associados a componentes neurobiológicos. Ou seja, as emoções
+estimulam ações que determinam padrões de atividade
+fisiológica, os quais subsidiam o comportamento adaptativo. Elas integram o sistema neuro-anátomo-fisiológico e se
+originam na interação da pessoa com seu ambiente, regulando
+o comportamento diante das mudanças situacionais (Gallo &
+Matthews, 2003; Kubzansky & Kawachi, 2000). As emoções
+também são consideradas como processos constituídos subjetivamente, abrangendo dimensões biológicas, individuais,
+sociais e culturais (Neubern, 2000). Muitas vezes, é a interação social que determina quais emoções vão ocorrer, como
+serão expressas e quais consequências terão (Kubzansky &
+Kawachi, 2000).
+Considera-se que há, pelo menos, duas dimensões das
+emoções: intensidade e frequência. A intensidade refere-se
+à força das experiências emocionais e a frequência, à percentagem do tempo em que a emoção avaliada predomina
+sobre as demais. Vale salientar que as pessoas se lembram
+melhor da frequência de determinada emoção, o que as leva
+a superestimar a intensidade, tanto das emoções positivas
+quanto das negativas, mas, em especial, das negativas. Assim,
+situações com carga emocional seriam mais lembradas do
+que situações neutras (Thomas & Diener, 1990).
+Há grande variabilidade na expressão de emoções entre
+pessoas. Acredita-se que tanto a expressão exagerada quanto
+a inibição das emoções têm consequências para a saúde. Inibir
+a manifestação das emoções demanda esforço psicológico
+que, com o tempo, acarreta estresse cumulativo (Kubzansky
+& Kawachi, 2000). Todavia, ao se estudar a relação entre a
+expressão e a inibição das emoções e incrementos da pressão arterial, em situações de role playing verificou-se que a
+expressão das emoções estava mais associada a aumentos
+da pressão arterial (Lipp, Pereira, Justo & Matos, 2006).
+Mas, em outro trabalho, notou-se que quando o estilo de
+regulação é mais expressivo, a reatividade fisiológica é
+menor (Labouvie-Vief & cols., 2003). Segundo alguns
+pesquisadores, a reatividade emocional que se desvia da
+norma, em ambas as direções, está relacionada com o risco
+de hipertensão e, provavelmente, com arritmias (Carels &
+cols., 1999; Kubzansky & Kawachi, 2000).
+Psic.: Teor. e Pesq., Brasília, Jan-Mar 2009, Vol. 25 n. 1, pp. 065-074
+
+Psicologia Aplicada à Cardiologia
+
+Quanto à natureza, é possível agrupar as emoções em positivas e negativas, porém os pesquisadores ainda discordam
+se esses grupos são dois pólos de uma mesma dimensão, ou
+se formam dimensões distintas (Gallo & Matthews, 2003; Richman & cols., 2005). Reuniram-se evidências de associação
+entre doenças coronarianas e três emoções negativas específicas – ansiedade, raiva e depressão – mas, tendo em vista
+a diversidade de emoções existentes, é possível que outras
+categorias também estejam associadas, mas pouca atenção
+lhes foi dada até hoje (Kubzansky & Kawachi, 2000).
+Uma dificuldade suplementar no estabelecimento de vinculação entre reações orgânicas e emoções é que as emoções
+raramente ocorrem isoladas, sendo difícil discriminá-las.
+Além disso, sua nomeação exata constitui outro desafio, já
+que o ser humano é capaz de comunicar emoções sem adotar
+palavras. Portanto, as emoções podem ser mais ou menos
+diferenciadas, mesmo que o número de expressões verbais
+varie entre idiomas. Nesse sentido, pessoas de diferentes
+níveis educacionais vivenciam as mesmas emoções, mas
+podem identificá-las e nomeá-las diferentemente (Kubzansky
+& Kawachi, 2000). Alguns estudiosos chegaram a definir seis
+categorias subordinadas à classificação geral de emoções
+negativas e positivas – raiva, medo, tristeza, alegria, amor
+e surpresa – e distribuíram os léxicos emocionais da língua
+inglesa em mais 20 subcategorias (Hupka, Lenton & Hutchison, 1999). Essa diversidade de subcategorias dificulta sua
+nomeação precisa e, consequentemente, seu estudo.
+Emoções negativas
+Pesquisas mostraram que pacientes que apresentam isquemia ambulatorial durante avaliação de rotina têm maiores
+chances de haver vivenciado emoções negativas na hora
+anterior ao episódio isquêmico. Esses resultados sugerem que
+indivíduos com maior amplitude e frequência de reatividade
+emocional no cotidiano têm maiores chances de apresentar
+isquemia miocárdica (Carels & cols., 1999). As emoções,
+principalmente as negativas, provocam alterações fisiológicas
+com impacto negativo no prognóstico da doença coronariana
+(Kubzansky & Kawachi, 2000; Perez & cols., 2005; Richman
+& cols., 2005; Sirois & Burg, 2003).
+As emoções negativas podem ainda influenciar indiretamente tanto o risco quanto o prognóstico de pacientes com
+doença coronariana por influenciar a adesão a comportamentos prejudiciais à saúde como tabagismo, consumo de álcool
+e drogas, diminuição da qualidade do sono, má alimentação,
+obesidade e sedentarismo, além de seus efeitos sobre o suporte social e isolamento social (Kubzansky & Kawachi, 2000;
+Sirois & Burg, 2003). A isquemia miocárdica e o infarto do
+miocárdio podem ser provocados por fatores psicológicos,
+mas ainda não há evidências consistentes dessa associação
+em relação às arritmias cardíacas (Lampert & cols., 2002),
+mesmo sabendo-se que “as emoções negativas como ansiedade e depressão podem afetar a estabilidade elétrica
+do coração através da alteração da regulação autonômica
+(especificamente, reduzindo a variabilidade da frequência
+cardíaca)” (Kubzansky & Kawachi, 2000, p. 330) e que
+fatores comportamentais acarretam ativação simpática excessiva, desencadeando arritmias. É importante esclarecer
+Psic.: Teor. e Pesq., Brasília, Jan-Mar 2009, Vol. 25 n. 1, pp. 065-074
+
+que arritmias de origem comportamental são ocasionadas
+pela somatória de três condições: (a) instabilidade elétrica
+miocárdica, usualmente devido à doença coronariana prévia;
+(b) um evento desencadeador agudo, frequentemente relacionado a estresse mental; e (c) um estado psicológico crônico
+intenso, que muitas vezes inclui depressão e desesperança
+(Rozanski & cols., 1999).
+Inicialmente, não se conseguiu relacionar a ansiedade
+com as doenças cardíacas, porém estudos recentes que
+utilizaram o auto-relato de situações de ansiedade sugerem
+que a simples presença de sintomas de ansiedade pode ser
+um fator de risco, sem a necessidade de preencher critérios
+diagnósticos de estados patológicos (Burg, Lampert, Joska,
+Batsford & Jain, 2004). A ansiedade mostra-se relacionada
+à ocorrência de eventos cardíacos ao afetar o controle cardíaco autonômico, podendo aumentar o risco de arritmias
+ventriculares fatais (Sirois & Burg, 2003).
+A manifestação de raiva e a hostilidade, enquanto traços
+de personalidade estáveis, está associada a maior isquemia,
+tanto durante testes de estresse mental quanto em situações
+cotidianas (Burg & cols., 2004). Pacientes que reportaram raiva ou ansiedade moderada nos minutos anteriores a arritmias
+ventriculares sustentadas demonstraram maior pontuação nos
+testes de raiva-traço e ansiedade-traço, quando comparados
+a pacientes que não apresentaram arritmias relacionadas a
+emoções (Burg & cols., 2004).
+Raiva e ansiedade podem precipitar arritmias devido ao
+aumento da atividade simpática. A raiva não contribui somente para a aterogênese e o desenvolvimento de doenças cardíacas, mas também desencadeia eventos coronarianos agudos
+(Chang, Ford, Meoni, Wang & Klag, 2002; Kubzansky &
+Kawachi, 2000). Tanto a raiva, quanto os exercícios físicos
+podem causar infartos não fatais do miocárdio e/ou isquemia
+transitória (Lampert & cols., 2002), porém, nas duas horas
+subsequentes a episódios de raiva, o risco relativo de infarto
+do miocárdio aumenta mais de duas vezes (Rozanski & cols.,
+1999; Sirois & Burg, 2003).
+Emoções positivas
+Conforme enfatizado anteriormente, o número de trabalhos sobre emoções positivas é escasso, quando comparado àqueles sobre emoções negativas. Cabe lembrar que
+taxonomias científicas sobre emoções básicas identificam
+apenas uma emoção positiva para cada três ou quatro emoções negativas, o que pode em parte explicar esta tendência
+(Fredrickson, 1998). Também há pouco consenso sobre o
+que pode ser considerado como uma emoção positiva. As
+teorias sobre emoção têm falhado ao tentar definir claramente
+as emoções positivas, que tendem a ser mais difusas do que
+as emoções negativas, mas considera-se que a presença de
+emoções positivas não consiste simplesmente na ausência
+de emoções negativas (Richman & cols., 2005). Outro fator
+que certamente dificulta o estudo das emoções positivas é
+constatar que para emoções negativas específicas existem
+expressões faciais específicas, o que não ocorre com as emoções positivas, que compartilham entre si a expressão facial
+do sorriso. Do ponto de vista do funcionamento autonômico,
+algo semelhante acontece (Fredrickson, 1998).
+67
+
+A. M. S. Bonomo & T. C. C. F. Araujo
+
+De fato, emoções positivas podem ter o potencial de
+reduzir efeitos do estresse sobre o sistema cardiovascular
+mesmo em face de eventos de vida negativos inevitáveis.
+Assim, otimismo e atitude positiva podem fazer com que
+os eventos negativos sejam encarados com a confiança de
+que o futuro reserva algo melhor. Nesse sentido, o estado
+emocional positivo gerado internamente modifica os efeitos
+adversos da exposição prolongada a emoções negativas
+(Danner, Snowden & Friesen, 2001; Swan & Carmelli,
+1996). Em uma investigação com 1.041 homens entre 55 e
+69 anos de idade, acompanhados por dois anos, verificou-se
+que para cada unidade de aumento da pontuação nos testes
+de curiosidade, ocorreu uma diminuição de 57% do risco
+de desenvolver hipertensão. Os efeitos da esperança e da
+curiosidade se mantiveram após o controle de variáveis como
+hábitos de saúde (Richman & cols., 2005).
+Em síntese, têm sido encontradas associações entre
+emoções e doenças. Isto é, as emoções podem influenciar
+o aparecimento de doenças específicas ou podem ser consequência de doenças, influenciando seu prognóstico. A
+relação entre emoções e a saúde cardiovascular é, então,
+bidirecional, tendo seu efeito cumulativo no decorrer do
+tempo (Kubzansky & Kawachi, 2000). As pesquisas sobre
+emoções têm adotado, como procedimentos de coleta de
+dados, principalmente o auto-relato de emoções e diversas técnicas de indução em laboratório (Kubzansky &
+Kawachi, 2000; Thomas & Diener, 1990). É importante
+enfatizar que investigações experimentais restringem a
+apresentação de emoções àquelas mais reconhecidas. Por
+consequência, a identificação do papel de outras emoções
+na arritmogênese fica limitada.
+Assim sendo, considera-se que o estudo de alterações
+emocionais que ocorrem no cotidiano de pacientes com
+monitorização eletrocardiográfica pode trazer à luz a
+participação de outras emoções no desencadeamento de
+reações cardiovasculares. Outra possibilidade interessante
+é identificar pacientes em risco de arritmias desencadeadas por emoções por meio de uma avaliação diagnóstica
+de rotina e relativamente simples, tal como o Exame de
+Holter 24 horas.
+Então, visando tais interesses de natureza científica e
+clínica, foi realizada uma pesquisa a partir dos seguintes
+objetivos específicos: (a) identificar emoções que ocorram
+simultaneamente a arritmias em diferentes momentos do
+dia para um mesmo sujeito; (b) verificar a ocorrência de
+arritmias semelhantes em sujeitos com relatos emocionais
+semelhantes; e (c) descrever e analisar a associação entre
+emoções e atividades relatadas durante o Exame de Holter
+24 horas (Sánchez, 2007).
+
+Método
+Participantes
+A amostra foi constituída por 13 homens e 17 mulheres,
+com idade entre 48 e 69 anos, e com escolaridade mínima de
+ensino médio completo. Os participantes não faziam uso de
+medicação antiarrítmica, betabloqueadores ou antipsicóticos
+68
+
+e tinham capacidade de comunicação oral e escrita preservada. Foram excluídos os pacientes que não preencheram
+esses critérios, como também os outliers, ou seja, aqueles
+que durante o exame não apresentaram nenhuma arritmia,
+ou então, apresentaram excessivas arritmias (isto é, que não
+podem ser atribuídas a estados emocionais). Quanto à situação ocupacional, entre os homens predominou a categoria
+“militar” (30%), ao passo que entre as mulheres prevaleceu
+a categoria “do lar” (47%). A seleção da amostra foi feita a
+partir da demanda espontânea de uma clínica cardiológica
+do Distrito Federal, obtendo-se a concordância dos participantes com a aplicação do Termo de Consentimento Livre
+e Esclarecido, tal como informado no projeto de pesquisa
+aprovado pelo Comitê de Ética da Faculdade de Medicina
+da Universidade de Brasília.
+Equipamento
+O aparelho de Holter é utilizado para avaliação de sintomas que podem ser causados por alteração do ritmo cardíaco
+e a duração de 24 horas é aquela que apresenta melhor relação
+custo-benefício. Cada um dos batimentos cardíacos é analisado conforme a sua morfologia, duração e precocidade. O
+equipamento, constituído por um gravador de registro, é preso
+à cintura da pessoa por meio de um cinto e ligado a eletrodos
+afixados ao tórax. Os dados de cada paciente são primeiramente transferidos para um cartão de memória, acoplado ao
+aparelho. As informações eletrocardiográficas gravadas são
+processadas por computador e os dados são transformados
+em gráficos e sintetizados em uma tabela, denominada de
+Relatório Tabular. Além deste registro, o exame de Holter
+é acompanhado por um Relatório de Atividades preenchido
+pelo próprio paciente (Grupi, Brito & Uchida, 2001).
+Procedimento
+Como usualmente é feito, afixou-se o aparelho à cintura
+do participante, fornecendo-se as orientações necessárias.
+Solicitou-se o registro de todas as atividades realizadas
+durante o período de 24 horas, com indicação de início e
+término de cada atividade, bem como as emoções concomitantes. Caso emoções diferentes ocorressem durante uma
+mesma atividade, o paciente deveria registrar essa mudança
+emocional, sua intensidade e o horário. Esses registros constituíram o Relatório Diário. No dia seguinte, após a retirada
+do aparelho e avaliação pelo cardiologista, o paciente era
+entrevistado pela pesquisadora-psicóloga a partir de um
+roteiro previamente elaborado. O objetivo dessa entrevista
+era levantar informações complementares sobre as atividades
+diárias auto-registradas e esclarecer aspectos da história de
+vida. Os relatos foram gravados em áudio e, posteriormente,
+transcritos. O Relatório Diário de cada participante foi emparelhado hora a hora com os registros do Relatório Tabular,
+o qual fornece informações sobre as arritmias, conforme a
+localização (ventriculares e supraventriculares). Aqueles
+períodos que, mesmo após complementação por entrevista,
+permaneceram sem comentários foram registrados como
+“sem relato” (Sánchez, 2007).
+Psic.: Teor. e Pesq., Brasília, Jan-Mar 2009, Vol. 25 n. 1, pp. 065-074
+
+Psicologia Aplicada à Cardiologia
+
+Análise de dados
+
+literatura, que afirma a prevalência de doenças cardiovasculares no gênero masculino, apesar dos dados epidemiológicos,
+divulgados pelo Ministério da Saúde em 2003, apontarem
+que, no Brasil, o percentual de mulheres que falecem por
+problemas cardíacos é maior que o de homens.
+Conforme ressaltado anteriormente, grande parte das
+pesquisas é conduzida com pessoas do sexo masculino, sendo
+este um fator de risco considerado como já estabelecido. Porém, a presente investigação, a exemplo de outros trabalhos,
+como o de Lima e Nussbacher (1996), alerta sobre a falta de
+atenção às diferenças entre os gêneros e, em especial, aos
+cuidados de saúde destinados à população feminina. É interessante comentar que as mulheres apresentaram mais que o
+dobro de arritmias supraventriculares do que ventriculares,
+enquanto os homens apresentaram um número similar de
+ocorrências de arritmias.
+Arritmias ventriculares. Conforme mostrado na Figura
+1, a ocorrência de arritmias ventriculares apresentou uma
+distribuição distinta, entre mulheres e homens, ao longo
+do dia. No sexo feminino, verificou-se que entre 11:00 h e
+12:00 h da manhã, houve o maior número de ocorrências de
+arritmias ventriculares, alcançando 400, ou seja 19,3% dos
+registros (N = 2.071). Esse é o horário em que as donas de casa
+estavam envolvidas com a preparação do almoço, conforme
+verbalizado em algumas entrevistas. A partir das 23:00 h até às
+5:00 h, observou-se uma diminuição na quantidade de arritmias ventriculares, com um discreto aumento entre 2:00 h e
+3:00 h, período em que é possível que estivessem ocorrendo
+sonhos. Já no sexo masculino, entre 22:00 h e 2:00 h ocorreu
+o maior número de arritmias ventriculares e, no período das
+2:00 h às 11:00 h, o menor número do dia, embora tenha
+havido um leve aumento entre 3:00 h e 5:00 h.
+Giannotti-Hallage (1990) diz que “os estados emocionais
+alterados parecem não precipitar episódios de arritmias instantaneamente, podendo ocorrer após períodos prolongados
+de preocupação, desapontamento, tensão emocional e insônia” (p.76). Dessa forma, é possível supor que, nos homens,
+a tensão acumulada ao longo do dia se manifestasse apenas
+
+Inicialmente, foram analisados os dados encontrados
+nos Relatórios Diários e Relatórios Tabulares por meio de
+estatística descritiva, utilizando-se a média aritmética dos
+registros. Cabe explicar que a análise foi focalizada no
+período de vigília, tendo sido excluídos relatos nos quais
+os pacientes afirmaram estar dormindo, visto que existem
+limitações relativas ao registro dessa experiência pelo próprio
+participante. Assim, para a estatística descritiva, os relatos
+emocionais foram organizados nas seguintes categorias
+e subcategorias: emoções positivas (abençoado, alegria,
+satisfação e segurança), emoções neutras (tranquilidade) e
+emoções negativas (ansiedade, preocupação, raiva, surpresa
+e tristeza). Posteriormente, utilizou-se o software Alceste –
+Analyse de Lexèmes Concurrents dans les Énnoncés Simples
+d’un Texte – para análise de conteúdo das entrevistas. Vale
+explicitar que esse software organiza o conteúdo de um texto,
+determinando uma classificação descendente hierárquica
+entre as classes das palavras que foram agrupadas. Essas
+classes são apresentadas sob a forma de um dendrograma,
+que ilustra a relação entre elas, a força de suas relações e a
+representatividade de cada uma. A análise consiste, então,
+em identificar o sentido dessas classes para nomeá-las como
+categorias temáticas coerentes com o contexto global do
+texto (Ribeiro, 2000).
+
+Resultados e Discussão
+Distribuição das arritmias ao longo do
+Exame de Holter 24 h
+
+450
+400
+
+Mulheres
+
+350
+
+Homens
+
+300
+250
+200
+150
+100
+50
+
+05h às 06h
+
+04h às 05h
+
+03h às 04h
+
+02h às 03h
+
+01h às 02h
+
+00h à 01h
+
+23h às 00h
+
+22h às 23h
+
+21h às 22h
+
+20h às 21h
+
+19h às 20h
+
+18h às 19h
+
+17h às 18h
+
+16h às 17h
+
+15h às 16h
+
+14h às 15h
+
+13h às 14h
+
+12h às 13h
+
+11h às 12h
+
+10h às 11h
+
+09h às 10h
+
+08h às 09h
+
+07h às 08h
+
+0
+
+06h às 07h
+
+Número de Arritmias Ventriculares
+
+As mulheres apresentaram, em média, mais arritmias do
+que os homens, tanto ventriculares (respectivamente, 121,82
+e 68,15) quanto supraventriculares (respectivamente, 265,59
+e 67,69). De modo geral, esses resultados não corroboram a
+
+Horário de Registro
+Figura 1. Distribuição das arritmias ventriculares ao longo do exame no sexo feminino (N=2.071) e no sexo
+masculino (N=886).
+
+Psic.: Teor. e Pesq., Brasília, Jan-Mar 2009, Vol. 25 n. 1, pp. 065-074
+
+69
+
+A. M. S. Bonomo & T. C. C. F. Araujo
+
+durante a noite, o que não se identificou no conjunto de
+informações sobre as mulheres. Segundo Campos (1992),
+sonhos de forte conteúdo emocional acompanham reações
+cardiovasculares adrenérgicas, o que também pode contribuir
+para a ocorrência dessas arritmias.
+Arritmias supraventriculares. A Figura 2 mostra que as
+arritmias supraventriculares estiveram mais concentradas no
+período vespertino e início do período noturno, tanto para as
+mulheres quanto para os homens. Mas, para as mulheres, os
+picos se deram mais cedo, entre 15:00 h e 18:00 h (31,4%
+das ocorrências). Para os homens, os picos ocorreram no
+período compreendido entre 17:00 h e 19:00 h (22,7% das
+ocorrências), o que coincide com os dados obtidos por Muller e cols. (1987, conforme citado por Bortolotto, 1999). O
+número de ocorrências aumentou no início da manhã para
+ambos os gêneros (a partir das 6:00 h para mulheres e a partir
+das 7:00 h para homens), talvez em função da liberação de
+cortisol que ocorre no despertar (Bortolotto, 1999).
+
+classificação específica das emoções, visto que, conforme
+destacado anteriormente, as taxonomias adotadas pela literatura têm enfatizado, sobretudo, as emoções negativas
+(Fredrickson, 1998).
+Emoções simultâneas a arritmias ventriculares. A
+simultaneidade entre as emoções e as arritmias revelou-se
+diferente em homens e mulheres (ver Figura 3). Com relação às emoções positivas, a subcategoria mais associada a
+arritmias ventriculares, por ambos os gêneros, foi sentir-se
+abençoado. No entanto, esta subcategoria teve um número pequeno de registros. É importante acrescentar que entre esses
+registros, um homem e duas mulheres relataram essa emoção
+ao rezar. A relação entre saúde e religiosidade ainda não está
+claramente estabelecida na literatura, mas estudos mostram
+associação positiva entre níveis de envolvimento religioso
+e indicadores de bem estar psicológico, como satisfação de
+vida. Nesse sentido, o impacto positivo do envolvimento
+religioso parece ser maior em indivíduos com mais idade
+e pessoas com deficiências e doenças, havendo diferenças
+estatisticamente significativas entre os gêneros em relação
+ao uso desta estratégia de enfrentamento (Moreira-Almeida,
+Lotufo Neto & Koenig, 2006).
+De acordo com os dados da Tabela 1, a alegria foi a segunda emoção mais relatada pelas mulheres. Essa emoção
+foi vivenciada por elas principalmente em situações de atividades com familiares, com amigos e assistindo televisão.
+Já para os homens, a alegria representou apenas 2,2% dos
+registros e, em todos os casos, ela estava relacionada com
+atividades com amigos. Contudo, como indicado na Figura
+3, para mulheres e homens, a alegria poucas vezes ocorreu
+simultaneamente com arritmias ventriculares. Chama a
+atenção que segurança não foi mencionada por mulheres e
+os homens não identificaram satisfação. Conforme salientado antes, são necessárias mais pesquisas para compreender
+tais evidências sobre emoções positivas, pois a ênfase da
+literatura tem sido para as emoções negativas, o que acaba
+por nortear orientações de atendimento simplistas e redutoras
+
+Distribuição das arritmias por categoria de emoção
+Verifica-se que homens e mulheres nomearam a mesma
+quantidade de subcategorias de emoções positivas (três cada),
+mas, por outro lado, as mulheres vivenciaram emoções negativas mais diferenciadas (ver Tabela 1). Constata-se, ainda,
+a variação desses registros entre os gêneros, sendo que a
+maior diferença ocorreu nas emoções positivas. A alegria foi
+a emoção mais percebida pelas mulheres. A emoção neutra,
+tranquilidade, foi a mais citada dentre o conjunto de emoções,
+principalmente entre os homens. Quanto às emoções negativas, os relatos de preocupação foram os únicos semelhantes
+entre os dois grupos. Ansiedade e tristeza assemelharam-se,
+sendo um pouco mais citadas pelas mulheres. Já a emoção
+raiva, foi mais mencionada pelos homens, o que corrobora
+a revisão de literatura reportada inicialmente, ao passo que
+surpresa não foi assinalada por eles e foi citada por apenas
+uma mulher. Vale comentar que esta pesquisa propõe uma
+600
+
+Mulheres
+
+Supraventriculares
+
+Número de Arritmias
+
+500
+
+Homens
+
+400
+300
+200
+100
+
+05h às 06h
+
+04h às 05h
+
+03h às 04h
+
+02h às 03h
+
+00h à 01h
+
+01h às 02h
+
+23h às 00h
+
+22h às 23h
+
+21h às 22h
+
+20h às 21h
+
+19h às 20h
+
+18h às 19h
+
+17h às 18h
+
+16h às 17h
+
+15h às 16h
+
+14h às 15h
+
+13h às 14h
+
+12h às 13h
+
+11h às 12h
+
+10h às 11h
+
+09h às 10h
+
+08h às 09h
+
+07h às 08h
+
+06h às 07h
+
+0
+
+Horário de Registro
+Figura 2. Distribuição das arritmias supraventriculares ao longo do exame no sexo feminino (N=4.515) e no sexo
+masculino (N=880).
+
+70
+
+Psic.: Teor. e Pesq., Brasília, Jan-Mar 2009, Vol. 25 n. 1, pp. 065-074
+
+Psicologia Aplicada à Cardiologia
+Tabela 1. Total de registros de cada estado emocional relatado pelos participantes.
+
+Categorias
+
+MULHERES
+
+Subcategorias
+
+Positiva
+
+Neutra
+
+Negativa
+
+Total
+
+%
+
+Total
+
+%
+
+Abençoado
+
+5
+
+3,1
+
+1
+
+0,7
+
+Alegria
+
+27
+
+17,0
+
+3
+
+2,2
+
+Satisfação
+
+8
+
+5,0
+
+-
+
+-
+
+Segurança
+
+-
+
+-
+
+3
+
+2,2
+
+Tranquilidade
+
+68
+
+42,8
+
+81
+
+60,5
+
+Ansiedade
+
+14
+
+8,8
+
+9
+
+6,7
+
+Preocupação
+
+16
+
+10,1
+
+17
+
+12,7
+
+Raiva
+
+9
+
+5,7
+
+12
+
+9,0
+
+Surpresa
+
+1
+
+0,6
+
+-
+
+-
+
+Tristeza
+
+11
+
+6,9
+
+8
+
+6,0
+
+159
+
+100
+
+134
+
+100
+
+Total
+
+Emoções simultâneas a arritmias supraventriculares.
+Conforme mostrado na Figura 4, à exceção de segurança,
+as emoções positivas abençoado, alegria e satisfação ocorreram mais entre as mulheres do que entre os homens. Na
+subcategoria tranquilidade, as arritmias supraventriculares
+registraram-se da seguinte maneira: média 7,0 para as mulheres e 5,0 para os homens.
+A ansiedade é a única emoção que está mais relacionada a
+arritmias supraventriculares em homens do que em mulheres;
+no entanto, a diferença é pequena (média 1,9 e 1,3 respectivamente). As demais emoções negativas (preocupação, raiva
+e tristeza) foram registradas com maior frequência entre as
+
+de que as emoções, como um todo, são prejudiciais à saúde
+(Maciel, 1994).
+Ainda de acordo com a Figura 3, a emoção neutra,
+tranquilidade, acompanhou arritmias ventriculares mais
+frequentemente entre as mulheres do que entre os homens.
+Em termos de emoções negativas, nas mulheres, a preocupação relacionou-se mais com arritmias ventriculares do que
+a ansiedade e nos homens, essa relação foi inversa. A raiva
+mostrou-se relacionada a arritmias ventriculares nos homens,
+mas não nas mulheres; e a tristeza não foi simultânea a arritmias ventriculares em nenhum dos gêneros, verificando-se
+o mesmo com a surpresa.
+
+Emoção
+neutra
+
+Emoções positivas
+90
+
+Emoções negativas
+
+80
+70
+
+Mulheres
+Homens
+
+60
+50
+40
+30
+20
+10
+
+Tristeza
+
+Surpresa
+
+Raiva
+
+Preocupação
+
+Ansiedade
+
+Tranquilidade
+
+Segurança
+
+Satisfação
+
+Alegria
+
+0
+
+Abençoado
+
+Número de Arritmias Ventriculares
+
+HOMENS
+
+Subcategorias de emoção
+Figura 3. Média de arritmias ventriculares em cada subcategoria de emoções relatadas
+
+Psic.: Teor. e Pesq., Brasília, Jan-Mar 2009, Vol. 25 n. 1, pp. 065-074
+
+71
+
+A. M. S. Bonomo & T. C. C. F. Araujo
+
+Emoções
+neutras
+
+Emoções positivas
+90
+
+Emoções negativas
+
+70
+
+Mulheres
+Homens
+
+60
+50
+40
+30
+20
+
+Tristeza
+
+Surpresa
+
+Raiva
+
+Preocupação
+
+Ansiedade
+
+Tranquilidade
+
+Segurança
+
+Satisfação
+
+0
+
+Alegria
+
+10
+
+Abençoado
+
+Supraventriculares
+
+Número de Arritmias
+
+80
+
+Subcategorias de emoção
+Figura 4. Média de arritmias supraventriculares em cada subcategoria de emoções relatadas
+
+mulheres. É interessante ressaltar, ainda, a média de 79,3
+arritmias supraventriculares nos períodos em que as mulheres
+também relataram tristeza.
+Comparação entre emoções simultâneas a arritmias
+ventriculares e supraventriculares. A maioria das emoções
+relatadas pelos participantes apresentou-se mais simultânea
+a arritmias supraventriculares do que ventriculares (ver Figuras 3 e 4). Destaca-se nessa comparação que a média de
+registros de tristeza concomitantes a arritmias ventriculares
+foi baixa: 0,1 para ambos os gêneros. O mesmo não foi
+verificado para as supraventriculares, pois essa média foi a
+mais alta entre as mulheres e muito baixa entre os homens:
+79,3 e 0,5, respectivamente. A emoção raiva se diferenciou
+das demais emoções, pois foi simultânea a mais arritmias
+supraventriculares nas mulheres e ventriculares nos homens,
+o que confirma diferenças entre gêneros.
+Entrevistas
+O Diagrama 1 ilustra a relação das categorias de relato
+verbal, classificadas pelo software Alceste (Ribeiro, 2000).
+A categoria Estresse nas Relações Interpessoais reúne relatos
+de sofrimento decorrente da interação com pessoas significativas (como filhos e netos). Ou seja, existe a necessidade de
+reconhecimento pelo esforço realizado em prol dos outros.
+Quando esse reconhecimento não existe, ocorre frustração.
+A categoria Relações Interpessoais Rotineiras se opõe à
+anterior, pois reflete aspectos do cotidiano e da relação com
+pessoas próximas, mas que não trazem conflitos. A categoria
+Vivências do “Estar Doente” agrupa relatos sobre a dificuldade em assumir o papel de doente. A doença parece não
+fazer parte de si, é algo externo, apesar dos sintomas. Quando
+reconhecida, é atribuída a fatores externos. Na categoria Expressões das Vivências Emocionais, estão agrupados relatos
+72
+
+referentes à dificuldade dos participantes em nomear o que
+sentem e identificar o que ocorre. O emocional é reconhecido
+como parte do problema, mas essa atribuição é difícil de ser
+compreendida por eles. A categoria Comportamentos, Saúde
+e Emoções é pouco associada às situações relacionais. Muitas
+vezes, os participantes manifestam o pensamento mágico
+de que as alterações orgânicas se dissiparão se deixarem de
+realizar determinadas ações. Esses resultados reafirmam o
+trabalho de Campos (1992) sobre aspectos psicossomáticos
+em Cardiologia e complementam a análise das arritmias ao
+longo do exame de Holter 24 horas.
+
+Considerações Finais
+Esta pesquisa verificou que o Exame de Holter 24 horas
+viabiliza identificar a simultaneidade entre emoções, experiência de vida e arritmias cardíacas em condições não
+laboratoriais. Constataram-se diferenças acentuadas entre
+gêneros: mulheres apresentaram mais arritmias que homens.
+Nas mulheres, arritmias ventriculares ocorreram mais simultaneamente à preocupação do que à ansiedade e não se
+mostraram relacionadas à raiva. Além disso, essa emoção se
+diferenciou das demais, pois foi simultânea a mais arritmias
+supraventriculares nas mulheres e ventriculares nos homens.
+A tristeza não foi associada a arritmias ventriculares por
+nenhum dos gêneros, mas foi relacionada ao maior número
+de arritmias supraventriculares entre as mulheres.
+Considera-se que, se o conhecimento sobre a participação
+das emoções na arritmogênese for continuamente aprimorado, será possível gerar subsídios para uma orientação psicológica mais adaptada à rotina diária dos pacientes. Em suma,
+compreender como os fatores emocionais desencadeiam o
+desequilíbrio funcional do coração pode fundamentar estratégias terapêuticas mais eficazes em Cardiologia.
+Psic.: Teor. e Pesq., Brasília, Jan-Mar 2009, Vol. 25 n. 1, pp. 065-074
+
+Psicologia Aplicada à Cardiologia
+
+Situações relacionais
+
+Estresse nas relações interpessoais
+
+“Eu - Outro”
+
+Relações interpessoais rotineiras
+
+Vivências pessoais
+
+Vivências do “estar doente”
+
+“Eu - Eu”
+
+Expressões das vivências emocionais
+
+Comportamentos pessoais
+“Eu faço”
+
+Comportamentos, saúde e emoções
+
+Diagrama 1. Categorias temáticas das entrevistas segundo a classificação hierárquica descendente.
+
+Referências
+Almeida, O. P., & Fráguas Jr., R. (1996). Depressão e doença
+cardiovascular. Revista da Sociedade de Cardiologia do Estado
+de São Paulo, 6, 749-756.
+Bortolotto, L. A. (1999). Implicações clínicas dos ritmos biológicos
+do sistema cardiovascular – Parte 2: cronobiologia dos eventos
+cardiovasculares. Revista Brasileira de Cardiologia, 1, 160164.
+Burg, M. M., Lampert, R., Joska, T., Batsford, W., & Jain, D.
+(2004). Psychological traits and emotion-triggering of ICD
+shock-terminated arrhythmias. Psychosomatic Medicine, 66,
+898-902.
+Campos, E. P. (1992). Aspectos psicossomáticos em cardiologia.
+Em J. M. Filho (Org.), Psicossomática hoje (pp. 234- 252).
+Porto Alegre: Artes Médicas.
+Carels, R. A., Sherwood, A., Babyak, M., Gullette, E. C., Coleman,
+R. E., Waugh, R., Jiang, W., & Blumenthal, J. A. (1999).
+Emotional responsivity and transient myocardial ischemia.
+Journal of Consulting and Clinical Psychology, 67, 605-610.
+Chang, P. P., Ford, D. E., Meoni, L. A., Wang, N. Y., & Klag, M.
+J. (2002). Anger in young men and subsequent premature
+cardiovascular disease: The precursors study. Archives of
+Internal Medicine, 168, 901-906.
+Danner, D. D., Snowden, D. A., & Friesen, W. V. (2001). Positive
+emotions in early life and longevity findings from the nun study.
+Journal of Personality and Social Psychology, 80, 804-813.
+Eaker, E. D. (1998). Psychosocial risk factors for coronary heart
+disease in women. Cardiology Clinics, 16, 103-111.
+Favarato, M. E. C. S., & Aldrighi, J. M. (2001). A mulher
+coronariopata no climatério após a menopausa: implicações na
+qualidade de vida. Revista da Associação Médica Brasileira,
+47, 339-345.
+Frasure-Smith, N., & Lesperance, F. (1998). Role of psycho-social
+factors in CVD. Evidence-Based Cardiovascular Medicine,
+2, 64-65.
+Fredrickson, B. L. (1998). What good are positive emotions?.
+Review of General Psychology, 2, 300-319.
+Gallo, L. C., & Matthews, K. A. (2003). Understanding the
+association between socioeconomic status and physical health:
+Do negative emotions play a role? Psychological Bulletin,
+129, 10-51.
+Giannotti-Hallage, A. (1990). Papel das emoções e das situações
+psicologicamente estressantes na gênese das arritmias cardíacas
+e morte súbita. Em B. W. R. Lamosa (Org.), Psicologia aplicada
+à Cardiologia. (pp 71-78). São Paulo: Fundo Editorial Byk.
+
+Psic.: Teor. e Pesq., Brasília, Jan-Mar 2009, Vol. 25 n. 1, pp. 065-074
+
+Grupi, C. J., Brito, F. S., & Uchida, A. H. (2001). Eletrocardiograma
+de longa duração: o sistema Holter. Em P. J. Moffa & P. C. R.
+Sanches (Orgs.), Eletrocardiograma normal e patológico (pp.
+801-838). São Paulo: Roca.
+Hupka, R. B., Lenton, A. P., & Hutchison, K. A. (1999). Universal
+development of emotion categories in natural language. Journal
+of Personality and Social Psychology, 77, 247-278.
+Kubzansky, L. D., & Kawachi, I. (2000). Going to the heart of the
+matter: Do negative emotions cause coronary heart disease?.
+Journal of Psychosomatic Research, 48, 323-337.
+Labouvie-Vief, G., Lumley, M. A., Jain, E., & Heinze, H. (2003).
+Age and gender differences in cardiac reactivity and subjective
+emotion responses to emotional autobiographical memories.
+Emotion, 3, 115-126.
+Lampert, R., Joska, T., Burg, M. M., Batsford, W. P., McPherson,
+C. A., & Jain, D. (2002). Emotional and physical precipitants
+of ventricular arrhythmia. Circulation, 106, 1800-1805.
+Lavoiea, K. L., Miller, S. B., Conwaya, M., & Fleetb, R. P. (2001).
+Anger, negative emotions, and cardiovascular reactivity during
+interpersonal conflict in women. Journal of Psychosomatic
+Research, 51, 503-512.
+Lima, J. A. C., & Nussbacher, A. (1996). O coração da mulher é
+diferente?. Revista da Sociedade de Cardiologia do Estado de
+São Paulo, 6, 704-706.
+Lipp, M. E. N., Pereira, M. M. B., Justo, A. P., & Matos, T. M. G.
+(2006). Cardiovascular reactivity in hypertensives: Differential
+effect of expressing and inhibiting emotions during moments
+of interpersonal stress. Spanish Journal of Psychology, 9,
+154-161.
+Maciel, C. L. C. (1994). Emoção, doença e cultura: O caso da
+hipertensão essencial. Em B. W. Romano (Org.), A prática da
+psicologia nos hospitais (pp. 1-38). São Paulo: Pioneira.
+Ministério da Saúde (2003). Estatísticas vitais: mortalidade e
+nascidos vivos. Retirado em 07/03/2006 de http://tabnet.datasus.
+gov.br/cgi/tabcgi.exe?sim/cnv/obtuf.def
+Moreira-Almeida, A., Lotufo Neto, F., & Koenig, H. G. (2006).
+Religiousness and mental health: A review. Revista Brasileira
+de Psiquiatria, 28, 242-250.
+Neubern, M. S. (2000). As emoções como caminho para uma
+epistemologia complexa da psicologia. Psicologia: Teoria e
+Pesquisa, 16, 153-164.
+Perez, G. H. (2004). Fatores de risco da doença arterial coronária
+em mulheres: uma visão psicossomática. Em A. L. A. Ribeiro
+& D. P. Rosa (Orgs.), Mulher & coração: aspectos psicológicos
+ligados à cardiopatia (pp. 89-104). São Paulo: Papirus.
+
+73
+
+A. M. S. Bonomo & T. C. C. F. Araujo
+
+Perez, G. H., Nicolau, J. C., Romano, B. W., & Laranjeira, R. (2005).
+Depressão e síndromes isquêmicas miocárdicas instáveis:
+diferenças entre homens e mulheres. Arquivos Brasileiros de
+Cardiologia, 85, 319-326.
+Pinton, F. A., Carvalho, C. F., Miyazaki, M. C. O. S., & Godoy, M.
+F. (2006). Depressão como fator de risco de morbidade imediata
+e tardia pós-revascularização cirúrgica do miocárdio. Brazilian
+Journal of Cardiovascular Surgery, 21, 68-74.
+Ribeiro, A. S. M. (2000). Alceste: análise quantitativa de dados
+textuais. Manual não publicado, Universidade de Brasília,
+Brasília.
+Richman, L. S., Kubzansky, L., Maselko, J., Kawachi, I., Choo, P.,
+& Bauer, M. (2005). Positive emotion and health: Going beyond
+the negative. Health Psychology, 24, 422-429.
+Rozanski, A., Blumenthal, J. A., & Kaplan, J. (1999). Impact of
+psychological factors on the pathogenesis of cardiovascular
+disease and implications for therapy. Circulation, 99, 21922217.
+
+74
+
+Sánchez, A. M. (2007). Abordagem psicológica das arritmias
+cardíacas: uma análise das emoções relatadas em exame de
+Holter. Dissertação de Mestrado, Universidade de Brasília,
+Brasília.
+Sirois, B. C., & Burg, M.M. (2003). Negative emotion and coronary
+heart disease. Behavior Modification, 27, 83-102.
+Swan, G. E., & Carmelli, D. (1996). Curiosity and mortality in aging
+adults. Psychology and Aging, 11, 449-453.
+Thomas, D. L., & Diener, E. (1990). Memory accuracy in the recall
+of emotions. Journal of Personality and Social Psychology,
+59, 291-297.
+Recebido em 18.12.07
+Primeira decisão editorial em 17.06.08
+Versão final em 20.06.08
+Aceito em 17.09.08
+
+n
+
+Psic.: Teor. e Pesq., Brasília, Jan-Mar 2009, Vol. 25 n. 1, pp. 065-074
+
+

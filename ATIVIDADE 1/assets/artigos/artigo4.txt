@@ -1,0 +1,905 @@
+Artigo de Revisão
+Insuficiência Cardíaca com Fração de Ejeção Normal – Novos
+Critérios Diagnósticos e Avanços Fisiopatológicos
+Heart Failure with Normal Ejection Fraction – New Diagnostic Criteria and Pathophysiological Advances
+Evandro Tinoco Mesquita1,2 e Antonio José Lagoeiro Jorge2
+Hospital Pró-Cardíaco1, Rio de Janeiro, RJ; Universidade Federal Fluminense2, Niterói, RJ - Brasil
+
+resumo
+A insuficiência cardíaca (IC) é uma complexa síndrome
+cardiovascular com elevada prevalência, sendo que seu
+quadro clínico frequentemente é associado à dilatação do
+ventrículo, à diminuição da contratilidade e à reduzida
+fração de ejeção do ventrículo esquerdo (FE). Porém,
+nas últimas duas décadas, estudos têm mostrado que
+muitos pacientes com sintomas e sinais de IC apresentam
+FE normal (maior que 50%). A grande dificuldade dos
+médicos estaria na identificação desses pacientes que
+apresentam insuficiência cardíaca com fração de ejeção
+normal (ICFEN). Esta dificuldade parece estar relacionada
+principalmente a alta complexidade da síndrome e a
+falta de um método padrão para confirmar ou excluir o
+diagnóstico, que pudesse ser utilizado rotineiramente na
+prática clínica. Diferentemente da insuficiência cardíaca
+com fração de ejeção reduzida (ICFER), em que um único
+parâmetro – a FE menor que 50% – confirma o diagnóstico
+da síndrome, na ICFEN diferentes índices diastólicos têm
+sido empregados para caracterizar a presença ou não da
+disfunção diastólica (DD). Esta revisão tem o propósito de
+mostrar novos conceitos relacionados à função diastólica
+que irão auxiliar no entendimento da fisiopatologia
+cardiovascular presente na ICFEN. O presente trabalho tem
+também o objetivo de discutir a nova diretriz da Sociedade
+Europeia de Cardiologia para o diagnóstico e exclusão da
+ICFEN, baseada nos índices de função cardíaca obtidos pelo
+ecocardiograma com Doppler tecidual (EDT) e na dosagem
+do peptídeo natriurético.
+
+introdução
+A avaliação do desempenho cardíaco global através da
+medida da fração de ejeção do ventrículo esquerdo (FE)
+tem provocado grandes debates e controvérsias em relação
+à nomenclatura, à definição e ao diagnóstico da ICFEN1.
+A ICFEN é frequentemente referida como insuficiência
+cardíaca diastólica (ICD) devido à presença de disfunção
+
+Palavras-chaves
+Insuficiência cardíaca, diástole, sístole, ecodoppler tecidual,
+fração de ejeção.
+Correspondência: Evandro Tinoco Mesquita •
+Rua General Polidoro, 192 - Botafogo, 22.280-000, Rio de Janeiro, RJ, Brasil.
+E-mail: etmesquita@gmail.com
+Artigo recebido em 29/02/08; revisado recebido em 09/05/08; aceito em
+15/05/08.
+
+diastólica (DD) caracterizada por redução do relaxamento
+e aumento da rigidez ventricular2-4. Porém a utilização do
+termo ICD não seria adequada já que a disfunção diastólica
+não é única para estes pacientes, ocorrendo também em
+pacientes com insuficiência cardíaca (IC) com disfunção
+sistólica. Portanto, na ausência de um papel diferenciado
+para disfunção diastólica, pacientes que apresentam IC
+sem redução da FE seriam mais corretamente definidos
+pelo termo ICFEN, em vez do termo ICD5.
+A distinção entre ICFEN e ICFER é baseada na medida
+da FE feita pelo ecocardiograma com Doppler. Tal processo
+dá a impressão de que pacientes com ICFEN têm apenas
+alterações na função diastólica, com a função sistólica
+preservada. No entanto, novas técnicas de avaliação da
+função cardíaca através da medida da velocidade do
+eixo longitudinal pelo eco Doppler tecidual (EDT) têm se
+mostrado um índice mais sensível para avaliação da função
+sistólica do que a FE4.
+Logo, a ICFEN seria resultado da disfunção sistólica
+da bomba muscular ventricular na presença de um
+desempenho preservado da bomba hemodinâmica6. Isto
+é, quando avaliamos isoladamente a FE do ventrículo
+esquerdo podemos não identificar anormalidades presentes
+na contratilidade miocárdica4,6.
+Mesmo com prognóstico desfavorável a ICFEN é hoje
+uma síndrome clínica pouco valorizada quando comparada
+ao diagnóstico de outras doenças não cardíacas, tais como
+câncer e diabete, e de doenças cardíacas como o infarto
+do miocárdio1. A pouca importância dada ao diagnóstico
+da ICFEN pode estar relacionada principalmente a alta
+complexidade da síndrome, ao baixo convencimento
+devido a dificuldade de identificar um método padrão
+para quantificar o diagnóstico, que pudesse ser utilizado
+na prática clínica e também devido às controvérsias que
+envolvem a definição de disfunção diastólica e de critérios
+para diagnóstico de ICFEN1.
+Recentemente, a Sociedade Europeia de Cardiologia
+publicou uma nova diretriz de como diagnosticar a
+ICFEN, utilizando dois algoritmos destinados à exclusão e
+confirmação da síndrome, com ênfase nos achados do EDT
+e dos peptídeos natriuréticos5.
+
+Epidemiologia
+Atualmente, diferentes autores têm mostrado ser a
+ICFEN a forma mais comum de apresentação da IC e com
+prognóstico semelhante a ICFER7,8. Estudos epidemiológicos
+
+180
+rev_completa_agosto_portugues.in180 180
+
+3/8/2009 14:23:48
+
+Mesquita e Jorge
+ICFEN fisiopatologia e diagnóstico
+
+Artigo de Revisão
+mostram que a prevalência da ICFEN é superior a 50% entre
+os pacientes com IC7,8. Em artigo publicado recentemente
+nos Arquivos Brasileiros de Cardiologia, Moutinho e cols.
+observaram uma prevalência de ICFEN de 64,2% em uma
+população de pacientes atendidos no Programa Médico de
+Família em Niterói – RJ, com sinais e sintomas de IC9.
+É importante destacar que as características demográficas
+e as comorbidades dos pacientes com IC variam de acordo
+com a FE 8. (Tabela 1) Quando comparamos pacientes
+com ICFEN com aqueles que apresentam ICFER podemos
+observar que os primeiros são mais idosos e mais obesos,
+pertencendo a maioria ao sexo feminino. Pacientes
+portadores de ICFEN têm história de hipertensão arterial,
+diabete e fibrilação atrial8.
+Apesar de pacientes com ICFEN terem um melhor
+prognóstico do que aqueles com ICFER, eles apresentam
+uma significativa morbimortalidade, sendo o prognóstico
+ruim, após hospitalização por IC7,8,10, com uma taxa de
+mortalidade em torno de 20% em um ano 9. Embora
+estratégias baseadas em recentes evidências para tratamento
+da IC tenham modificado favoravelmente os resultados
+dos pacientes com ICFER, os estudos vêm mostrando
+um aumento na prevalência da ICFEN sem mudança da
+mortalidade nos últimos vinte anos8.
+
+ICFEN e ICFER – uma síndrome única ou
+não?
+Não existe consenso entre considerar a IC uma síndrome
+única e a possibilidade de serem a ICFEN e a ICFER duas
+formas clínicas diferentes11.
+Caso a IC seja caracterizada como uma síndrome
+única 12, ela seria definida por um progressivo declínio
+no desempenho sistólico, podendo ser melhor avaliado
+através da análise de velocidades ou medidas envolvendo
+o encurtamento do eixo longitudinal através do EDT,
+comparado à medida isolada da FE13.
+A teoria de que a IC não seria uma síndrome única
+e sim duas doenças toma como base tanto alterações
+estruturais, funcionais e moleculares associadas à função
+diastólica, como também estudos clínicos com intervenção
+farmacológica. Além disso, ela mostra que pacientes com
+ICFEN não têm a mesma resposta que pacientes com
+ICFER, sugerindo a existência de diferentes mecanismos
+fisiopatológicos11.
+Ressaltamos que é completamente artificial separar as
+duas fases do ciclo cardíaco (sístole e diástole), mas alguns
+autores 11 têm arguido que na ICFEN a função sistólica
+é completamente normal e que esta condição clínica é
+devida a uma disfunção diastólica isolada. Em função
+disso, deveríamos considerar ICFEN e ICFER entidades
+clínicas diferentes 11. Estes estudos estão baseados em
+medidas globais derivadas da curva volume pressão do
+VE que não levam em conta as alterações regionais da
+função do eixo longitudinal4, as quais são compensadas
+por um aumento da contratilidade do eixo radial do VE. A
+curva de pressão/volume pode então permanecer normal
+
+apesar de mudanças significativas na arquitetura e forma
+do ventrículo1.
+
+Elementos chaves da fisiopatologia da
+disfunção cardíaca
+A função diastólica normal permite que o coração tenha
+um enchimento adequado tanto em repouso quanto no
+esforço, sem ocorrer aumento das pressões diastólicas.
+Porém, alterações no relaxamento cardíaco, a presença de
+hipertrofia miocárdica e o remodelamento são defeitoschave que alteram a rigidez do ventrículo e as pressões
+de enchimento, levando à intolerância ao exercício. Esta
+consequência seria o primeiro sintoma de ICFEN, sendo
+também o primeiro determinante de redução de qualidade
+de vida14.
+No coração com disfunção diastólica a FE permanece
+mantida por um bom período. A manutenção do
+desempenho cardíaco é devida a um período compensatório
+composto de duas fases – a fase de ativação sistólica e a
+fase de disfunção sistólica da bomba muscular1.
+A fase de ativação sistólica (figura 1) é caracterizada pelo
+aumento da pressão, do volume e do fluxo ventricular;é
+reversível e reflete a ativação de todos os mecanismos
+adaptativos do coração como uma bomba hemodinâmica
+e muscular1.
+Com a manutenção do estresse cardíaco, a ativação
+sistólica pode progredir para a fase de disfunção sistólica
+(figura 2)1.
+Logo, o completo entendimento da disfunção sistólica
+da bomba muscular na presença de um desempenho
+preservado da bomba hemodinâmica, ou seja, FE normal,
+seria, sem dúvida, o caminho essencial para a compreensão
+da fase inicial da Síndrome de IC, que chamamos de
+ICFEN1,4.
+
+Relaxamento anormal
+O relaxamento alterado é uma alteração funcional do
+coração e um dos três critérios obrigatórios no diagnóstico
+Tabela 1 - Epidemiologia da Insuficiência Cardíaca estratificada pela FE
+Características
+
+ICFEN
+N = 2167
+
+ICFER
+N = 2429
+
+p
+
+Idade média
+
+74,4 anos
+
+71,7 anos
+
+< 0,001
+
+Sexo masculino
+
+44,3%
+
+65,4%
+
+< 0,001
+
+IMC > 30
+
+41,4%
+
+35,5%
+
+0,002
+
+Hipertensão
+
+62,7%
+
+48,0%
+
+<0,001
+
+DAC
+
+52,9%
+
+63,7%
+
+<0,001
+
+Diabete
+
+33,1%
+
+34,3%
+
+0,61
+
+Fibrilação atrial
+
+41,3%
+
+28,5%
+
+<0,001
+
+IMC – índice de massa corporal; DAC – doença arterial coronariana; FE
+– fração de ejeção; Adaptado de Owan e cols.8
+
+Arq Bras Cardiol 2009; 93(2) : 180-187
+
+rev_completa_agosto_portugues.in181 181
+
+181
+
+3/8/2009 14:23:49
+
+Mesquita e Jorge
+ICFEN fisiopatologia e diagnóstico
+
+Artigo de Revisão
+
+Ativação Sistólica - Atraso no inicio do relaxamento
+
+Disfunção Sistólica - Piora do relaxamento
+
+P
+
+P
+
+V
+
+V
+VDF
+
+VDF
+VSF
+tempo
+
+Modulação da Duração da Sístole
+- Autoregulação Heterométrica - pressão ou volume, hipertrofia I
+- Autoregulação Heterométrica - neuro-hormônios, frequência cardíaca
+- Autoregulação Endotelial - NO, BNP, citocinas,
+Modulação da Velocidade de Relaxamento
+- secundária às mudanças na duração da sístole
+- sensível à frequência cardíaca, neuro-hormônios, mudanças de carga
+
+tempo
+
+Etiologia
+Hipertrofia estágio II e III
+Isquemia leve
+Mecanismos
+Falência do Triplo Controle
+carga inadequada
+inativação inadequada
+não uniformidades de carga e inativação inadequadas
+
+Fig 1 - Atraso no início do relaxamento (ou contração prolongada) é - junto
+com o pico e velocidade de contração aumentado - a caracteristica típica
+da Fase de Ativação Sistólica da bomba muscular cardíaca. Mudanças na
+velocidade de relaxamento são simplesmente um efeito secundário ao atraso
+da modulação do sístole. O atraso início do relaxamento normalmente não
+leva a um aumento da pressão/volume diastólico final P - pressão de VE V
+- Volume de VE VDF - Volume Diastólico Final VSF - Volume Sistólico Final NO
+óxido Nitrico BNP peptídeo natriurético tipo 3. (reproduzido com autorização
+de Dirk L. Brutsaert 1)
+
+Fig 2 - A fase inicial da disfunção sistólica é caracterizada pela piora do
+relaxamento, que é lentificado ou incompleto, com a progressiva perda da
+capacidade para modular o inicio do relaxamento. Piora do relaxamento pode
+causar uma elevação da relação volume/pressão diastólica final. A barra
+vertical cinza exatamente antes do pico de P e pico do VSF marca a transição
+entre contração intracelular e o processo de relaxamento P-pressão de VE
+V-Volume de VE VDF-Volume Diastólico final VSF-Volume Sistólico Final.
+(reproduzido com autorização de Dirk L. Brutsaert 1)
+
+da ICFEN e não pode ser confundido ou usado como
+sinônimo de ICFEN15.
+
+intracelulares, diferentes respostas que se associam ou não
+ao comprometimento funcional do miocárdio17.
+
+O melhor caminho para demonstrar que pacientes com
+ICFEN têm uma anormalidade do relaxamento é mostrar se
+a relação pressão/volume diastólica final (R-P/VDF) é maior
+quando comparada ao seu valor normal. Determinadas
+condições, tais como a hipertrofia (cardiopatia hipertensiva,
+miocardiopatia hipertrófica, e/ou estenose aórtica) e a
+isquemia miocárdica, afetam o relaxamento que se torna
+mais lento e incompleto causando um aumento do VDF15. A
+R-P/VDF possibilita mostrar que não só a pressão diastólica
+intraventricular é elevada como também esta elevação é
+vista em ventrículos que apresentam uma diminuição do
+volume de enchimento11.
+
+O conceito de hipertrofia está baseado na identificação do
+aumento do peso do coração determinado principalmente
+pelo aumento do tamanho dos cardiomiócitos 17. Não
+podemos esquecer que as células musculares cardíacas
+constituem a menor porcentagem de todas as células do
+miocárdio, porém, por serem as maiores, a variação do
+seu tamanho determinará um impacto significativo no peso
+final do coração17.
+
+A demonstração da elevação da R-P/DVF é importante
+porque na ausência desta alteração, o VDF pode estar
+aumentado devido ao aumento da pré-carga. Isto pode ser
+observado em pacientes com insuficiência aórtica e mitral
+sem danos na contratilidade e sem qualquer mudança
+significativa nas propriedades de relaxamento, assim como
+a correção cirúrgica da alteração corrige a sobrecarga16.
+
+Hipertrofia Cardíaca
+A hipertrofia ventricular é considerada um mecanismo
+adaptativo do coração frente a um aumento de carga.
+Esta sobrecarga pode gerar, através de mecanismos
+
+182
+
+VSF
+
+A resposta hipertrófica pode ser desencadeada por
+mecanismos naturais de sobrecarga como o determinado
+pelo crescimento, gravidez e o induzido pela atividade física
+ou então por mecanismos patológicos como hipertensão
+arterial, estenose e insuficiência valvar, miocardiopatia e
+infarto do miocárdio.
+A hipertrofia patológica vem acompanhada de perda da
+contratilidade. A análise das fibras do eixo longitudinal de VE
+pelo EDT mostra uma diminuição da contração em corações
+hipertrofiados4 resultante da hipertensão arterial, em relação
+ao observado em corações normais ou corações de atletas com
+hipertrofia fisiológica17.
+
+Remodelamento ventricular
+As principais diferenças fisiopatológicas entre ICFER
+e ICFEN são o aumento do volume ventricular e a
+
+Arq Bras Cardiol 2009; 93(2) : 180-187
+
+rev_completa_agosto_portugues.in182 182
+
+3/8/2009 14:23:55
+
+Mesquita e Jorge
+ICFEN fisiopatologia e diagnóstico
+
+Artigo de Revisão
+mudança na forma do ventrículo devido ao processo de
+remodelamento2. O infarto do miocárdio é um potente
+estímulo para o processo de remodelação, levando a um
+aumento do VE e redução da FE. Já na doença cardíaca
+hipertensiva, o remodelamento é um processo lento, com
+a hipertrofia do VE levando à disfunção sistólica e diastólica
+do VE. É neste processo que o aumento compensatório da
+contração radial tende a normalizar a FE. Contudo, em
+estágios tardios, a remodelação irá ocorrer com aumento
+do volume do VE e o paciente então caminhará da ICFEN
+para a ICFER1.
+Atualmente, o emprego de medicamentos que atuam sobre
+o remodelamento tem se mostrado eficaz no tratamento da IC,
+considerando que os sinais de remodelamento reverso são um
+poderoso preditor de melhora clínica2.
+
+Como diagnosticar na prática clinica a
+ICFEN
+Na avaliação da IC, a primeira etapa seria estabelecer
+o diagnóstico pela presença de sintomas e sinais e quando
+
+disponível a dosagem de peptídeos natriuréticos. Em seguida,
+utilizar um método de cardio-imagem para avaliar objetivamente
+a função do VE e determinar a principal etiologia e seus
+mecanismos (ICFEN, ICFER, pericardiopatia e valvopatias). O
+terceiro passo seria determinar se o remodelamento já estaria
+presente (aumento de volume do ventrículo) e finalmente buscar
+pela presença de fatores deletérios adicionais como dissincronia,
+arritmias e alterações metabólicas e eletrolíticas2.
+A Diretriz da SEC5 (Sociedade Europeia de Cardiologia)
+apresenta um modelo algoritmo (figuras 3 e 4) de como
+fazer o diagnóstico e também de como excluir a ICFEN
+a partir de novos conceitos sobre a função cardíaca e
+de medidas do EDT. A Diretriz estabelece três etapas
+obrigatórias para se fazer o diagnóstico da ICFEN, que são:
+presença de sinais ou sintomas para diagnóstico de IC,
+presença de FE maior que 50% e evidências de disfunção
+diastólica (relaxamento, enchimento e rigidez)5.
+Sinais e Sintomas de IC
+Os sinais e sintomas de IC incluem edema periférico,
+hepatomegalia, crepitações pulmonares, edema pulmonar,
+
+Como Diagnosticar ICFEN
+
+Sinais e Sintomas de IC
+
+Normal ou leve redução da função sistólica
+FE > 50%
+e
+VDF-I <97 ml/m2
+
+Evidências de relaxamento, enchimento ou distensibilidade anormais e rigidez diastólica
+
+Medidas hemodinâmicas Invasivas
+PCP > 12 mmHg ou
+PDV VE > 16 mmHg ou
+r > 48 ms ou
+b > 0,27
+
+E/E’ > 15
+
+Biomarcadores
+BNP 200 pg/ml
+NT-pró BNP > 220 pg/ml
+
+ICFEN
+
+15 < E/E’ > 8
+
+EDT
+E/A < 0,5 ou
+Ard - Ad > 40
+ml/m2 ou
+Massa VE-I 122
+g/m2(M)
+148g/m2(H) ou
+FA
+
+Biomacarcadores
+BNP > 200 pg/ml
+NT-pró BNP > 220 pg/ml
+
+E/E’ > 8
+
+Fig 3 – Como diagnosticar ICFEN – Fluxograma; PCB – média de pressão capilar pulmonar; r – constante de tempo do Relaxamento do VE; b – constante de
+rigidez da câmara do VE; E – velocidade precoce do fluxo pela válvula mitral; E’ – velocidade de estiramento no início da diástole; NT-proBNP – N-terminal pro BNP;
+E/A – índice de velocidade fluxo mitral inicial e tardio; DT – tempo de desaceleração; VAE–I – volume de átrio esquerdo indexado; Ard – duração do fluxo reverso
+da sístole atrial para veia pulmonar; Ad – duração do fluxo atrial pela válvula mitral; European Heart Journal – Como diagnosticar insuficiência cardíaca diastólica:
+uma declaração de consenso sobre o diagnóstico de insuficiência cardíaca com fração de ejeção normal do ventrículo esquerdo feita pelas associações para
+insuficiência cardíaca e ecocardiografia da Sociedade Europeia de Cardiologia (5).
+
+Arq Bras Cardiol 2009; 93(2) : 180-187
+
+rev_completa_agosto_portugues.in183 183
+
+183
+
+3/8/2009 14:23:56
+
+Mesquita e Jorge
+ICFEN fisiopatologia e diagnóstico
+
+Artigo de Revisão
+
+Como excluir ICFEN
+
+Falta de ar sem sinais de sobrecarga de fluídos
+BNP > 100 pg/ml
+
+sim
+EDT
+
+não
+
+não
+
+Evidências de doenças pulmonar
+sim
+Considerar doenças pulmonar
+
+Evidências de doença valvar ou do pericárdio
+FEVE > 50%
+
+sim
+
+Considerar doença valvar ou pericárdio
+não
+
+VDF-I < 97 ml/m2
+sim
+
+sim
+
+Considerar ICFER
+não
+
+Considerar alto débito
+
+VAE-I < 29 min - Sem FA
+2
+
+E/E’ < 8 ou S > 6,5 cm/s
+
+sim
+
+SEM ICFEN
+
+não
+
+Considerar ICFEN
+
+Considerar DAC
+
+Fig 4 – Como excluir ICFEN; E – velocidade precoce do fluxo pela válvula mitral; E’ – velocidade de estiramento no início da diástole; BNP – peptideo natriurético
+do tipo B; FEVE – fração de ejeção do ventrículo esquerdo; VAE-I volume de átrio esquerdo indexado; VDF-I volume diastólico final indexado; EDT ecocardiograma
+com Doppler tecidual; S – velocidade de encurtamento (sístole) anel mitral ou miocárdio; FA – fibrilação atrial; ICFER – insuficiência cardíaca com fração de ejeção
+reduzida; ICFEN – insuficiência cardíaca com fração de ejeção normal; DAC – Doença aterosclerótica coronariana; European Heart Journal – Como diagnosticar
+insuficiência cardíaca diastólica: uma declaração de consenso sobre o diagnóstico de insuficiência cardíaca com fração de ejeção normal do ventrículo esquerdo
+feita pelas associações para insuficiência cardíaca e ecocardiografia da Sociedade Europeia de Cardiologia 5.
+
+fadiga e dispneia. O sintoma mais comum e que também
+dispneia5. Esta dificuldade é mais presente em pacientes
+dispneia5. Esta dificuldade é mais presente em pacientes
+dos pacientes com ICFEN7. Diferentemente dos pacientes
+quadro de dispneia e sem sinais de congestão (figura 4),
+hospitalizados, que são admitidos com quadro clássico
+de IC e geralmente não geram dúvidas no diagnóstico,
+os pacientes ambulatoriais queixam-se frequentemente
+de dispneia sem sinais detectáveis de congestão, o que
+leva à necessidade de exames para confirmação do
+diagnóstico5.
+Função sistólica do ventrículo esquerdo normal ou
+levemente alterada.
+A escolha de um ponto de corte do valor da FE para
+separar ICFEN de ICFER permanece arbitrária5. A Diretriz
+da SEC estabeleceu o valor de FE≥50%, sendo necessária
+a avaliação de acordo com as recentes recomendações da
+Sociedade Americana de Ecocardiografia e da Sociedade
+Europeia de Ecocardiografia5.
+Os critérios da presença de FE normal têm a necessidade
+de serem implementados com medidas do volume
+ventricular, por isso o VDF, que deve ser indexado à
+
+184
+
+superfície corporal, não poderá exceder 97 ml/m2 para o
+diagnóstico de ICFEN5.
+Evidências de relaxamento anormal do VE
+A primeira questão é se há necessidade de se avaliar
+alterações do relaxamento em todos os pacientes com
+suspeita de ICFEN5.
+Pensando nessa possibilidade, Zile MR e cols.18 testaram
+a hipótese de que medidas da disfunção diastólica não
+eram sempre necessárias para fazer o diagnóstico de
+ICFEN. Eles avaliaram pacientes com IC com FE>50% e
+evidências de remodelamento concêntrico e demonstraram
+que 92% destes pacientes, tinham uma elevada pressão
+diastólica final e todos eles tinham pelo menos um índice
+de relaxamento anormal, enchimento anormal ou rigidez.
+Neste grupo de pacientes a obtenção dos parâmetros de
+DD não ofereceu dados adicionais para o diagnóstico,
+mas somente de confirmação da DD 18. Não podemos
+esquecer que este estudo avaliou pacientes com história
+de IC estabelecida e logo estes dados não podem ser
+extrapolados para pacientes que apresentam somente
+sintomas de dispneia19.
+
+Arq Bras Cardiol 2009; 93(2) : 180-187
+
+rev_completa_agosto_portugues.in184 184
+
+3/8/2009 14:23:56
+
+Mesquita e Jorge
+ICFEN fisiopatologia e diagnóstico
+
+Artigo de Revisão
+Um achado importante deste estudo é que evidências
+de remodelamento concêntrico têm implicação para o
+diagnóstico de ICFEN e é um potencial substituto para
+a caracterização da disfunção diastólica 18,20. O estudo
+mostra que um índice de massa da parede do VE > 122
+g/m2 para mulheres e > 149 g/m2 para homens é uma
+evidência suficiente para o diagnóstico de ICFEN quando
+o EDT não é conclusivo ou quando peptídeos natriuréticos
+estão elevados18.
+Avaliação da função do ventrículo esquerdo pelo EDT
+O EDT tem um papel fundamental na avaliação
+desse processo já que a apresentação clínica da ICFEN
+é indistinguível da ICFER e com certeza a medida da FE
+não é relevante, sendo mais importantes as avaliações da
+disfunção sistólica e diastólica através de medidas do eixo
+longitudinal (S’) e velocidade de estiramento no início da
+diástole (E’) pelo EDT5,14,21.
+O desenvolvimento de novas técnicas do EDT13 tem
+permitido uma maior acurácia na avaliação da função
+ventricular. Em recente estudo, Wang e cols.20 avaliaram
+que a medida da velocidade de estiramento no inicio da
+diástole (E’) pelo EDT é um forte preditor de mortalidade
+quando comparado com dados clínicos e o ecocardiograma
+padrão. Convém também considerar que esta medida
+de fácil realização adiciona valor significativo no manejo
+clinico de pacientes com IC20,22.
+O E’ tem se mostrado como um forte preditor do
+prognóstico da IC já que esta medida reflete tanto a função
+sistólica com o diastólica do VE. Além disso, as fibras
+subendocárdicas, que são responsáveis pela contração do
+eixo longitudinal, podem ser mais suscetíveis ao efeito da
+fibrose, da hipertrofia e da isquemia em função de sua
+posição, o que explicaria o E’ como um bom marcador
+da doença5.
+Outra avaliação frequente do ecocardiograma é a
+medida da velocidade precoce do fluxo pela valva mitral
+(E), que pode ser obtida no septo ou na face lateral do
+anel mitral5.
+O EDT tem, portanto, permitido a avaliação quantitativa
+da função sistólica e diastólica do VE12. Recentes estudos2224
+exploraram o papel prognóstico do EDT em diversas
+doenças cardíacas como a IC, o infarto agudo do miocárdio
+e a hipertensão arterial.
+Relação E/E’
+A relação E/E’ tem uma correlação próxima com a
+pressão de enchimento do VE, sendo que E depende tanto
+da pressão do átrio esquerdo e do relaxamento do VE,
+como também da idade, enquanto que E’ depende mais
+especificamente do relaxamento do VE e da idade13.
+Portanto, se eliminarmos o relaxamento do VE e a idade
+na relação E/E’ ela se torna a medida da pressão de átrio
+esquerdo ou a pressão de enchimento do VE13. A relação
+E/E’ pode então ser conceituada como a quantidade de
+sangue que entra no VE durante a fase de enchimento
+rápido, sendo E o representante do gradiente necessário
+
+para fazer o sangue entrar no VE. Logo, um aumento do
+E/E’ significa um alto gradiente para uma baixa transferência
+de volume13.
+Quando E/E’ > 15 as pressões de enchimento do VE
+estão elevadas e quando a relação < 8 elas são baixas5.
+A relação E/E’ é então considerada evidência diagnóstica
+da presença de ICFEN se > 15, e evidência de ausência
+de ICFEN se < 85,25. Um valor de E/E’ entre 8 e 15 é
+considerado sugestivo, mas não diagnóstico e necessita ser
+avaliado com outros dados não invasivos para confirmar
+a ICFEN5.
+Volume indexado do átrio esquerdo
+O aumento das pressões diastólicas do ventrículo
+esquerdo ocasiona o remodelamento do átrio esquerdo
+com aumento do seu volume. Portanto, o volume do
+átrio esquerdo indexado (VAE-I) pode ser visto como a
+expressão morfológica da disfunção diastólica do ventrículo
+esquerdo21.
+O aumento do VAE-I (>29 ml/m2) seria um marcador,
+independente da pressão de enchimento do VE em
+pacientes com suspeita de ICFEN14. O VAE-I poderia então
+ser considerado o barômetro do coração21.
+Quando o E/E’ não é conclusivo (15 < E/E’ > 8)
+para diagnóstico da ICFEN a presença de VAE-I >40
+ml/m 2 oferece evidências suficientes para confirmar o
+diagnóstico5,25. Do mesmo modo, um VAE-I <26 ml/m2 é
+proposto como um pré requisito para excluir ICFEN5.
+Peptídeos natriuréticos
+O BNP é produzido no miocárdio em resposta a um
+aumento no estiramento da diástole ventricular e sua
+secreção produz natriurese, vasodilatação e melhora
+o relaxamento ventricular 21. Em pacientes com ICFEN,
+valores de BNP têm correlação com índices que avaliam
+o relaxamento diastólico precoce e tardio do VE. Valores
+elevados foram observados em pacientes com relaxamento
+atrasado ou alterado1.
+Como os níveis de BNP podem sofrer influências de diversas
+condições (septicemia, insuficiência hepática, insuficiência renal,
+DPOC [doença pulmonar obstrutiva crônica], obesidade), um
+valor elevado de BNP não oferece evidências suficientes para
+diagnóstico de disfunção diastólica e requer exames adicionais5.
+Para o diagnóstico de ICFEN, um alto valor preditivo positivo foi
+determinado quando da escolha do ponto de corte do BNP (200
+pg/ml). Para a exclusão de ICFEN, um alto valor preditivo negativo
+foi estabelecido para o ponto de corte do BNP (<100 pg/ml)5.
+Portanto peptídeos natriuréticos são recomendados
+principalmente para exclusão de ICFEN e não para
+diagnóstico. Como BNP isoladamente não oferece
+evidências para diagnóstico de ICFEN, ele sempre necessita
+ser utilizado com outros exames não invasivos5,25.
+Como confirmar e excluir a ICFEN
+Tão importante como diagnosticar a ICFEN (figura 3) é
+determinar a exclusão do diagnóstico em pacientes com
+
+Arq Bras Cardiol 2009; 93(2) : 180-187
+
+rev_completa_agosto_portugues.in185 185
+
+185
+
+3/8/2009 14:23:56
+
+Mesquita e Jorge
+ICFEN fisiopatologia e diagnóstico
+
+Artigo de Revisão
+quadro de dispneia e sem sinais de congestão (figura 4),
+já que o diagnóstico diferencial da ICFEN é de grande
+dificuldade principalmente nestes pacientes5.
+Podemos excluir a ICFEN em pacientes com dispneia
+que apresentem um BNP < 100pg/ml devido ao seu alto
+valor preditivo negativo5,25.
+Se o ecocardiograma afasta a presença de doença valvar
+ou do pericárdio, a FE > 50%, o VDF indexado < 76ml/m2,
+na ausência de fibrilação atrial, dilatação atrial, hipertrofia
+do ventrículo esquerdo, sendo ainda a relação E/E’ < 8, o
+diagnóstico de ICFEN pode ser descartado5.
+
+Conclusão
+A diretriz da SEC que estabeleceu critérios para
+confirmação do diagnóstico e exclusão da ICFEN deverá,
+progressivamente, ser utilizada pelos cardiologistas e
+ecocardiografistas na avaliação dos pacientes com suspeita
+de ICFEN.
+Apesar da FE ser um índice importante para avaliação da
+bomba cardíaca hemodinâmica, ela não deve ser utilizada
+como principal critério para diagnóstico e/ou exclusão de
+IC, já que a avaliação isolada da FE pode não identificar
+anormalidades presentes na contratilidade miocárdica.
+
+O EDT, apesar de pouco empregado na prática clinica,
+é atualmente a melhor ferramenta para o diagnóstico da
+ICFEN, podendo sua utilização substituir gradualmente
+os critérios clássicos do ecocardiograma transmitral na
+avaliação da disfunção diastólica.
+
+Agradecimentos
+Gostaríamos de agradecer ao Professor Dirk L. Brutsaert,
+do Hospital de Middelheim, Universidade de Antuérpia,
+Bélgica, pelas informações prestadas aos autores e também
+pela autorização para utilização das figuras nesta revisão.
+Potencial Conflito de Interesses
+Declaro não haver conflito de interesses pertinentes.
+Fontes de Financiamento
+O presente estudo não teve fontes de financiamento
+externas.
+Vinculação Acadêmica
+Este artigo é parte de dissertação de Mestrado de Antônio
+Lagoeiro e Evandro Tinoco Mesquita pela Universidade
+Federal Fluminense.
+
+Referências
+1. Brutsaert DL, Cardiac dysfunction in heart failure: the cardiologist’s love affair
+with time. Prog Cardiovasc Dis. 2006; 49: 157-81.
+2. Sanderson JE. Heart failure with a normal ejection fraction Heart. 2007; 93:
+155-8.
+3. Zile MR, Baicu CF, Gaasch WH. Diastolic heart failure—abnormalities in
+active relaxation and passive stiffness of the left ventricle. N Engl J Med. 2004;
+350: 1953-9.
+4. Yip G, Wang M, Zhang Y, Fung JWH, Ho PY, Sanderson JE. Left ventricular long
+axis function in diastolic heart failure is reduced in both diastole and systole:
+time for a redefinition? Heart. 2002; 87: 121-5.
+5. Paulus WJ, Tschöpe C, Sanderson JE, Rusconi C, Flachskampf FA, Rademakers
+FE, et al. How to diagnose diastolic heart failure: a consensus statement on
+the diagnosis of heart failure with normal left ventricular ejection fraction by
+the Heart Failure and Echocardiography Associations of the European Society
+of Cardiology. Eur Heart J. 2007; 28: 2539-50.
+6. Brutsaert DL; De Keulenaer GW. Diastolic heart failure: a myth. Curr Opin
+Cardiol. 2006; 21 (3): 240-8.
+7. Vasan RS, Larson MG, Benjamin EJ, Evans JC, Reiss CK, Levy D. Congestive
+heart failure in subjects with normal versus reduced left ventricular ejection
+fraction: prevalence and mortality in a population-based cohort. J Am Coll
+Cardiol. 1999; 33: 1948-55.
+8. Owan TE, Hodge DO, Herges RM, Jacobsen SJ, Roger VL, Redfield MM.
+Trends in prevalence and outcome of heart failure with preserved ejection
+fraction N Engl J Med. 2006; 355: 251-9.
+9. Moutinho MAE, Colucci FA, Alcoforado V, Tavares LR, Rachid MBF, et al.
+Insuficiência cardíaca com fração de ejeção preservada e com disfunção
+sistólica na comunidade. Arq Bras Cardiol. 2008; 90 (2): 145-50.
+10. Mesquita ET, Sócrates J, Rassi S, Villacorta H, Mady C. Insuficiência cardíaca
+com função sistólica preservada. Arq Bras Cardiol. 2004; 82: 494-500.
+
+186
+
+11. Baicu CF, Zile MR, Aurigemma GP, Gaasch WH. Left ventricular systolic
+performance, function, and contractility in patients with diastolic heart failure.
+Circulation. 2005; 111: 2306-12.
+12. De Keulenaer GW, Brutsaert DL. Systolic and diastolic heart failure: different
+phenotypes of the same disease? Eur J Heart Fail. 2007; 9: 136-43.
+13. Yu CM, Sanderson JE, Marwick TH, Oh JK. Tissue Doppler imaging: a new
+prognosticator for cardiovascular diseases. J Am Coll Cardiol. 2007; 49:
+1903-14.
+14. Westermann D, Kasner M, Steendijk P, Spillmann F, Riad A, Weitmann K, et al.
+Role of left ventricular stiffness in heart failure with normal ejection fraction.
+Circulation. ������������������������
+2008; 117 (16): 2051-60.
+15. Boo JG. Entendiendo la insuficiencia cardíaca. Arch Cardiol Mex. 2006; 76
+(4): 431-47.
+16. Burkhoff D, Maurer MS, Packer M. Heart failure with a normal ejection
+fraction: is it really a disorder of diastolic function? Circulation.
+������������������������
+2003; 107:
+656-8.
+17. Escudero EM, Pinilla AO. Paradigmas y paradojas de la hipertrofia ventricular
+izquierda: desde el laboratorio de investigación a la consulta clínica. �����
+Arch
+Cardiol Mex. 2007; 77 (3): 237-48.
+18. Zile MR, Gaasch WH, Carroll JD, Feldman MD, Aurigemma GP, Schaer GL, et
+al. Heart failure with a normal ejection fraction: is measurement of diastolic
+function necessary to make the diagnosis of diastolic heart failure? Circulation.
+2001; 104: 779-82.
+19. Kawaguchi M, Hay I, Fetics B, Kass DA. Combined ventricular systolic and
+arterial stiffening in patients with heart failure and preserved ejection fraction.
+Circulation. 2003; 107: 714-20.
+20. Wang M, Yip GW, Wang AY, Zhang Y, Ho PY, Tse MK, et al. Peak early diastolic
+mitral annulus velocity by tissue Doppler imaging adds independent and
+incremental prognostic value. J Am Coll Cardiol. 2003; 41: 820-6.
+
+Arq Bras Cardiol 2009; 93(2) : 180-187
+
+rev_completa_agosto_portugues.in186 186
+
+3/8/2009 14:23:57
+
+Mesquita e Jorge
+ICFEN fisiopatologia e diagnóstico
+
+Artigo de Revisão
+21. Lester SJ, Tajik AJ, Nishimura RA, Oh JK, Khandheria BK, Seward JB. Unlocking
+the mysteries of diastolic function deciphering the rosetta stone 10 years later.
+J Am Coll Cardiol. 2008; 51: 679-89.
+22. Yamamoto T, Oki T, Yamada H, Tanaka H, Ishimoto T, Wakatsuki T, et al.
+Prognostic value of the atrial systolic mitral annular motion velocity in patients
+with left ventricular systolic dysfunction. J Am Soc Echocardiogr. 2003; 16:
+333-9.
+23. Richartz BM, Werner GS, Ferrari M, Figulla HR. Comparison of left
+ventricular systolic and diastolic function in patients with idiopathic dilated
+cardiomyopathy and mild heart failure versus those with severe heart
+
+failure. Am J Cardiol. 2002; 90: 390-4.
+24. Wang M, Yip GW, Wang AY, Zhang Y, Ho PY, Tse MK, et al. Tissue Doppler
+imaging provides incremental prognostic value in patients with systemic
+hypertension and left ventricular hypertrophy. J Hypertens. 2005; 23:
+183-91.
+25. Dokainish H, Zoghbi WA, Lakkis NM, Ambriz E, Patel R, Quinones MA, et
+al. Incremental predictive power of B-type natriuretic peptide and tissue
+Doppler echocardiography in the prognosis of patients with congestive heart
+failure. J Am Coll Cardiol. 2005; 45: 1223-6.
+
+Arq Bras Cardiol 2009; 93(2) : 180-187
+
+rev_completa_agosto_portugues.in187 187
+
+187
+
+3/8/2009 14:23:57
+
+

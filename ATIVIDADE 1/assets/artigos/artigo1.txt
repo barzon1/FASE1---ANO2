@@ -1,0 +1,1307 @@
+Revista Brasileira de Ciências Farmacêuticas
+Brazilian Journal of Pharmaceutical Sciences
+vol. 38, n. 3, jul./set., 2002
+
+Estresse, ciclo reprodutivo e sensibilidade cardíaca às catecolaminas
+Ana Paula Tanno, Fernanda Klein Marcondes*
+Departamento de Ciências Fisiológicas, Faculdade de Odontologia de Piracicaba, FOP/UNICAMP, Piracicaba - SP
+
+*Correspondência:
+F. K. Marcondes
+Departamento de Ciências Fisiológicas
+Faculdade de Odontologia de
+Piracicaba - FOP/UNICAMP
+Av. Limeira, 901, 13414-903
+Piracicaba/SP
+E-mail: fklein@fop.unicamp.br
+
+O estresse representa a resposta do organismo a estímulos aversivos
+ou a situações desconhecidas, cuja finalidade é a adaptação do
+indivíduo à nova condição. O agente estressante pode ser físico,
+químico, emocional ou social. Diferentes estressores estão presentes
+no cotidiano dos seres humanos e podem favorecer o
+desenvolvimento de doenças degenerativas e acelerar o processo
+de envelhecimento, afetando o funcionamento de todo o organismo.
+Os principais mediadores da reação de estresse são as
+catecolaminas (norepinefrina e a epinefrina) liberadas pelo sistema
+nervoso simpático e pela medula da glândula supra-renal, e os
+glicocorticoides liberados pelo córtex da supra-renal. As
+catecolaminas e os glicocorticoides iniciam eventos celulares que
+promovem mudanças adaptativas em células e tecidos, com a função
+de proteger o organismo e garantir a sua sobrevivência. Essa
+resposta a agentes estressores pode ser modificada pelas
+características do estímulo estressor e do indivíduo. Entre estas
+merecem destaque a idade, o sexo e, em fêmeas, a fase do ciclo
+reprodutivo. As variações nos níveis dos esteroides sexuais estradiol
+e progesterona, características do ciclo reprodutivo, modulam a
+secreção de CRH, ACTH e glicocorticoides que ocorrem na reação
+de estresse e estão envolvidos nas diferenças de resposta entre
+homens e mulheres. Vários estudos demonstraram que a exposição
+a estímulos estressores pode induzir alterações de sensibilidade
+às catecolaminas no tecido cardíaco, as quais têm sido relacionadas
+com processos adaptativos. Estas alterações incluem mudanças
+na atividade dos sistemas de metabolização das catecolaminas, na
+afinidade ou no número dos adrenoceptores, no acoplamento entre
+o receptor e a proteína G e em processos enzimáticos, que medeiam
+etapas intracelulares após a ativação do receptor. O estudo de tais
+alterações pode auxiliar na compreensão das alterações cardíacas
+observadas na espécie humana após exposição à água e à natação.
+
+Unitermos:
+• Estresse
+• Catecolaminas
+• Ciclo reprodutivo
+• Coração
+
+274
+
+ESTRESSE
+A compreensão do termo estresse está baseada em
+experimentos de Hans Selye, datados do início do século
+20. Pesquisando os efeitos de um extrato químico, este
+pesquisador observou o desenvolvimento de úlceras
+gastrointestinais, atrofia do sistema imune e aumento das
+glândulas adrenais em ratos. Para sua surpresa, os ratos do
+grupo controle, que haviam recebido injeção de solução
+salina, apresentaram alterações semelhantes. Selye concluiu que tais alterações estavam relacionadas à aplicação
+das repetidas injeções. Obteve os mesmos resultados expondo animais ao frio, a patógenos, a toxinas ou ao barulho (Selye, 1936; Sapolsky, 1990). Com base nestes resultados, Selye (1936) descreveu a Síndrome Geral da Adaptação, que representava uma reação geral e inespecífica a
+estímulos aversivos ou a situações desconhecidas, cuja
+finalidade seria a manutenção da homeostasia e adaptação
+do organismo à nova condição. Posteriormente propôs o
+termo estresse.
+Segundo a definição original, estresse representa a
+resposta do organismo, enquanto seu agente causador é definido como estímulo estressante ou estressor
+(Pickering, 1981). Posteriormente, Mason (1968a, 1968b)
+mostrou que a resposta do organismo frente a estímulos
+aversivos tinha um caráter específico, variando de acordo
+com o tipo, intensidade e duração do estímulo estressor, e
+com as características individuais. Outros estudos confirmaram estes achados e mostraram que experiências previamente vivenciadas pelo indivíduo também têm significativa influência nas respostas fisiológicas a estímulos
+estressores (Levine, 2000; Stam et al., 2000).
+A reação de estresse pode ser dividida em três fases.
+A fase de alarme ou excitação, que ocorre quando o organismo reconhece o estímulo como estressante, é caracterizada pelo aumento da capacidade orgânica de responder
+ao agente agressor, com ativação do Sistema Nervoso
+Simpático (SNS) e do eixo Hipotálamo-Hipófise-Adrenal
+(HHA), resultando em aumento na secreção de catecolaminas (norepinefrina e epinefrina) e de glicocorticoides.
+Se o estímulo for mantido, a capacidade de reação diminui e o organismo desenvolve mecanismos adaptativos
+durante a fase seguinte, denominada fase de resistência.
+Quando essa adaptação não ocorre, desenvolve-se a fase
+de exaustão, na qual o organismo torna-se suscetível a distúrbios renais, cardiovasculares, gastrintestinais e/ou
+imunológicos (Lundberg, 2000; McEwen, 2000a).
+Frente a estressores internos ou externos, a preservação da homeostasia requer adaptações contínuas
+autonômicas, endócrinas e comportamentais (Aguilera,
+1998). Respostas comportamentais incluem alterações
+
+A. P. Tanno, F. K. Marcondes
+
+cognitivas e sensoriais, aumento do alerta, intensificação
+da memória seletiva, supressão de comportamentos de
+fome e de reprodução e analgesia induzida pelo estresse
+(McEwen, 2000a; Pacak, McCarty, 2000).
+As respostas comportamentais e fisiológicas são
+desencadeadas pela ativação dos sistemas efetores do
+estresse primário, incluindo o eixo SNS-medula da
+adrenal e o eixo HHA. O sistema límbico, ao ser estimulado por um estressor, ativa o hipotálamo, o qual recebe e
+integra as informações neurais e humorais e estimula a
+atividade simpática e a secreção de dois neuro-hormônios:
+o hormônio liberador de corticotrofina (CRH) e a
+vasopressina. Estes são transportados para a hipófise anterior, onde estimulam a liberação do hormônio adrenocorticotrófico (ACTH). O ACTH, ao atuar na zona fasciculada da glândula adrenal, promove maior secreção de
+glicocorticoides (Buckingham, 2000) (Figura 1).
+
+FIGURA 1 - Ativação do Sistema Efetor do Estresse
+Primário.
+
+Entre outros sistemas também envolvidos na reação
+de estresse, destacam-se o eixo hipotálamo-hipófise-tireoide, respondendo ao frio e ao calor, o eixo
+hipotálamo-hipófise-gônadas, diminuindo temporariamente a função reprodutiva para desviar energia para outros tecidos, e o sistema renina-angiotensina liberando
+renina pelas células justaglomerulares do rim, atuando
+
+Estresse, ciclo reprodutivo e sensibilidade cardíaca às catecolaminas
+
+sinergicamente junto com o SNS, promovendo o aumento da pressão arterial e mantendo a perfusão sanguínea
+adequada de órgãos e tecidos. Ocorre, também, aumento
+na liberação do hormônio do crescimento, nos níveis de βendorfina e alterações imunológicas (Kant et al., 1983;
+Stratakis, Chrousos, 1995; Baltatu et al., 2000; Pacak,
+McCarty, 2000).
+As catecolaminas e os glicocorticoides desempenham papel fundamental na mobilização de substratos
+energéticos para o Sistema Nervoso Central (SNC) e tecido muscular durante a reação de estresse. Estes, por sua
+vez, além de estimularem a glicogenólise, lipólise e
+proteólise, inibem a captação de glicose por tecidos cuja
+função não é essencial durante a exposição ao estressor. A
+modulação do sistema cardiovascular por meio de aumento da frequência cardíaca e pressão sanguínea e vasodilatação em alguns leitos, em oposição à vasoconstrição em
+outros, permite o redirecionamento adequado dos substratos energéticos (Chrousos, 1998; Ottenweller, 2000;
+Pacak, McCarty, 2000).
+O eixo HHA é um dos principais sistemas efetores
+ativados durante a exposição a um estressor agudo. Por
+mecanismos de retroalimentação em diferentes níveis, os
+glicocorticoides regulam sua própria secreção, inibindo a
+sua síntese na adrenal, de ACTH na hipófise e, de CRH no
+hipotálamo. Como a norepinefrina é considerada o mais
+potente estimulador dos neurônios secretores de CRH no
+núcleo paraventricular hipotalâmico, neurônios noradrenérgicos centrais que terminam no núcleo paraventricular
+têm sido indicados como o sítio de mecanismos de
+retroalimentação negativa pelos quais os glicocorticoides
+atenuam as respostas neuroendócrinas aos estressores
+(Pacak, McCarty, 2000). A função destes mecanismos é
+proteger o organismo contra os efeitos deletérios de uma
+exposição contínua a níveis elevados de corticosteroides
+(Fink, 2000).
+Os agentes estressores podem ser classificados de
+acordo com suas características, duração e intensidade.
+Estressores físicos incluem calor (Pacak, McCarty, 2000),
+frio (King, Edwards, 1999; Taylor, 2000), imobilização
+(Hellriegel, Mello; 1997; Jezova et al., 1999; Miyahara et
+al., 1999), barulho (Ottenweller, 2000), choque (Anderson
+et al., 1996) e natação (Marcondes et al., 1996; Dal-Zotto
+et al., 2000). Estressores químicos incluem a exposição ao
+éter (Suárez et al., 1999), venenos (Chang et al., 1997),
+insulina (Frier, 2000), formalina (Pacak, McCarty, 2000),
+entre outros. Estressores psicológicos, como a exposição
+a ambientes desconhecidos e a novidade, afetam profundamente os processos emocionais e podem resultar em
+mudanças comportamentais, como ansiedade, medo ou
+frustração (Ottenweller, 2000). Como exemplos de
+
+275
+
+estressores sociais, citam-se as relações de dominância, no
+caso de animais; e em humanos, de hierarquia nas relações
+de trabalho, além de fatores como desemprego, separação
+conjugal, perda de entes queridos (Flügge, 1996; Haller et
+al., 1999; Zelena et al., 1999). A maioria dos estressores
+utilizados na pesquisa com animais de laboratório inclui estímulos que apresentam simultaneamente componentes físicos, químicos e emocionais (Kvetnansky,
+McCarty, 2000; Pacak, McCarty, 2000).
+Com relação à duração dos estímulos, os estressores
+podem ser agudos ou crônicos. O estresse agudo é definido como um estímulo que dura por um período de poucos
+minutos a poucas horas e por poucos dias, enquanto o
+estresse crônico é definido como um estímulo que persiste
+por muitas horas e alguns dias, ou um estímulo que ocorre por poucas horas diariamente, mas com uma duração de
+muitos dias (Dhabhar, 2000). As respostas adaptativas a
+um estressor agudo incluem processos fisiológicos e
+comportamentais, que são essenciais para restabelecer o
+balanço homeostático, redirecionando a utilização de
+energia entre os vários órgãos e seletivamente inibindo ou
+estimulando a mobilização e aporte das reservas
+energéticas (Pacak, McCarty, 2000). No estresse crônico,
+a elevação nos níveis de glicocorticoides mantida por longo período pode ter efeitos negativos no organismo, com
+a ocorrência de alterações na expressão gênica no SNC,
+redução da função do sistema catecolaminérgico, inibição
+da atividade da tireoide, da secreção do hormônio do crescimento e interrupção do ciclo reprodutivo (Dalman et al.,
+2000; Ferin, 2000). Porém, também pode ter efeitos benéficos, como por exemplo, durante o treinamento físico
+regular, em que há um aumento gradual na demanda de
+oxigênio pelos músculos, diminuição da pressão sanguínea e da frequência cardíaca de repouso e diminuição da
+ansiedade e depressão. O estresse por exercício aeróbico
+regular compensa ou previne os efeitos aversivos do
+estresse diário e reduz os riscos de doenças cardiovasculares (Geus, 2000; Khatri, Blumenthal, 2000; Powers,
+Howley, 2000).
+A qualidade do estímulo estressor influencia a magnitude das respostas ao estresse. A exposição de animais
+ao frio produz menor aumento na concentração plasmática
+de ACTH do que a hemorragia ou hipoglicemia, enquanto estímulos dolorosos provocam elevação moderada nos
+níveis de ACTH em relação àquela induzida pela imobilização (Pacak et al., 1995; Jensen, Toates, 1997).
+Também a prévia exposição ao mesmo agente
+estressor ou a outros estímulos altera o padrão de ativação
+do eixo HHA. Pode ocorrer dessensibilização, com menores aumentos de ACTH em resposta a sessões repetidas de
+exposição ao frio e imobilização, sem alteração das res-
+
+276
+
+postas após sessões repetidas de choque, hipoglicemia e
+injeção intraperitoneal de salina hipertônica (Aguilera,
+1998). Há, também, evidências de que, tanto em humanos,
+como em animais, a antecipação de um evento é um potente ativador do eixo HHA, quando comparado ao evento
+propriamente dito. Em pacientes que apresentam fobia a
+algum estímulo, ocorre maior elevação nos níveis de
+cortisol no dia anterior em relação ao momento da exposição ao estímulo (Levine, 2000).
+Além de ser influenciada pelas características do
+agente estressante, a reação de estresse também depende
+das características do indivíduo. Em humanos, os efeitos
+dos estressores nas desordens de humor dependem do
+sexo, traços de personalidade e estilos de vida (Zelena et
+al., 1999). Os hormônios sexuais determinam como os
+cérebros masculinos e femininos processam os estímulos
+e provavelmente estão envolvidos nas diferenças entre
+homens e mulheres na incidência de depressão e ansiedade (Kudielka et al., 2000).
+A idade também influencia a reação de estresse. As
+concentrações plasmáticas de glicocorticoides tendem a
+aumentar em indivíduos idosos, pois o processo de envelhecimento contribui, em parte, para promover uma
+downregulation dos receptores de corticosteroides no
+hipocampo e hipotálamo. Como consequência, ocorre
+uma resistência do eixo HHA para as ações de retroalimentação negativa promovidas pelos próprios glicocorticoides (Buckingham, 2000).
+Em animais de laboratório, as respostas fisiológicas
+a situações estressantes são complexas e os indivíduos
+podem reagir diferentemente para as mesmas situações.
+King e Edwards (1999) mostraram que o desenvolvimento
+do eixo HHA pode ser influenciado pelo tipo de estressor,
+o tempo de exposição e o perfil genético do animal. A
+responsividade do eixo HHA é programada pelo genótipo
+e uma resposta fisiológica pode ser mediada por diferentes alelos, modulando diferencialmente a síntese protéica
+nos indivíduos. Porém, a determinação genotípica pode
+ser modulada pelas experiências vivenciadas pelo indivíduo. Assim, a complexidade das interações entre genótipo
+e meio ambiente contribui para manter a variabilidade
+genética, fazendo com que indivíduos da mesma espécie
+apresentem diferentes reações a um mesmo estressor
+(Koch, Stratakis, 2000).
+O estresse é um aspecto de nossa vida diária e o SNC
+é o principal sítio de ativação das respostas comportamentais e fisiológicas aos agentes estressores. Porém, é
+também alvo da ativação neural e dos sistemas hormonais
+do estresse, assim como os sistemas cardiovascular, metabólico e imunológico. As respostas neuroendócrinas têm
+um papel essencial na mediação tanto das respostas
+
+A. P. Tanno, F. K. Marcondes
+
+adaptativas, como mal-adaptativas, agindo em aspectos
+específicos da fisiologia de cada tecido (McEwen, 2000b;
+Stam et al., 2000). Embora a reação de estresse possa resultar em doenças, é ela que torna possível a sobrevivência e a adaptação dos seres vivos aos inúmeros estímulos
+ambientais a que estão constantemente expostos (Fraser et
+al., 1975; Chrousos, Gold, 1992).
+
+AS CATECOLAMINAS E OS ADRENOCEPTORES
+Como citado anteriormente, o SNS tem um papel
+central na reação de estresse. Os mediadores do SNS são
+a norepinefrina e a epinefrina liberadas pelas fibras simpáticas pós-ganglionares e pela medula da adrenal. Considerando o nível aumentado de catecolaminas no SNC
+durante o estresse, os mecanismos catecolaminérgicos
+centrais parecem participar dessas respostas (Tan et al.,
+2000). O aumento na secreção de epinefrina plasmática
+proveniente da medula da adrenal ocorre principalmente
+em resposta a estressores psicológicos, enquanto a
+norepinefrina plasmática, proveniente em maior quantidade das terminações nervosas simpáticas, é liberada em
+maiores quantidades em resposta a estressores físicos
+(Ottenweller, 2000). Estas aminas exercem suas ações por
+interação com receptores específicos, denominados
+adrenoceptores. Estes são receptores de membrana, que
+possuem sete segmentos em α-hélice inseridos na membrana plasmática das células alvo, e pertencem à
+superfamília de receptores acoplados à proteína G
+(Docherty, 1998; Kable et al., 2000). Foram identificados
+por Ahlquist (1948) e inicialmente classificados em dois
+tipos: alfa (α) e beta (β). Atualmente, aceita-se que existam três subclasses de adrenoceptores: α1, α2 e β, que diferem entre si quanto à sequência de aminoácidos de sua
+estrutura protéica, quanto à afinidade a agonistas e antagonistas adrenérgicos e quanto ao sistema de segundo
+mensageiro a que estão acoplados (Bylund et al.,1994;
+Brodde, Michel, 1999).
+Os receptores α1 subdividem-se em α1A, α1B e α1D, os
+quais, ativando a proteína G, promovem a ativação da
+fosfolipase C e a produção de dois segundos mensageiros:
+o diacilglicerol e o trifosfato de inositol, sendo que este
+último aumenta o cálcio citoplasmático (Bylund et al.,
+1994; Brodde, Michel, 1999; Dzimiri, 1999; Zhong,
+Minneman, 1999; Kable et al., 2000).
+Os receptores α2 são classificados em α2A, α2B e α2C
+e atuam produzindo uma diminuição nos níveis intracelulares de adenosina monofosfato cíclico (AMPc) pela
+ativação de uma proteína Gi (inibitória) (Bylund et al.,
+1994; Brodde, Michel, 1999; Dzimiri, 1999; Zhong,
+Minneman, 1999; Kable et al., 2000).
+
+Estresse, ciclo reprodutivo e sensibilidade cardíaca às catecolaminas
+
+Os receptores β foram subdivididos em 3 subtipos
+diferentes: β1, β2 e β3 e recentes estudos farmacológicos,
+principalmente em tecido cardíaco humano e de rato, têm
+proposto um quarto subtipo de adrenoceptor β, ainda não
+clonado. Os adrenoceptores β estão acoplados a uma proteína Gs (estimulatória) e ativam a adenilil ciclase, promovendo aumento dos níveis intracelulares de AMPc e subsequente ativação da proteína quinase A. Estudos in vivo
+mostraram que os adrenoceptores β1 e β2 estão envolvidos
+nos efeitos cronotrópicos e inotrópicos positivos no coração humano e de animais de laboratório (Bylund et al.,
+1994; Brodde, Michel, 1999; Dzimiri, 1999; Zhong,
+Minneman, 1999; Kable et al., 2000).
+A resposta dos tecidos às catecolaminas depende
+não só de sua interação com os receptores adrenérgicos e
+dos eventos intracelulares que se seguem a essa interação,
+mas também da atividade dos sistemas de metabolização
+das catecolaminas: a recaptação neuronal - uptake1, e a
+captação extraneuronal – uptake2.
+A norepinefrina é o principal substrato do sistema de
+recaptação neuronal, no qual as catecolaminas são
+recaptadas pelas terminações nervosas (Slotkin, Bareis,
+1980) e inativadas pela enzima monoamino-oxidase
+(MAO) (Trendelenburg, 1991). No segundo mecanismo,
+a captação extraneuronal, as catecolaminas são captadas
+por células não-nervosas do tecido e são metabolizadas
+por ação da enzima catecol-oxi-metil transferase
+(COMT), sendo a epinefrina o principal substrato deste
+sistema (Trendelenburg, 1978; Bönisch, 1980; Mannisto,
+Kaakkola, 1999). Diversos fatores, entre os quais os
+hormônios esteroides, alteram a eficiência destes processos. Em ratos, os principais inibidores da captação
+extraneuronal de catecolaminas são a corticosterona e o
+estradiol (Iversen, Salt, 1970).
+A dessensibilização é outro fator que pode alterar a
+resposta celular a agonistas adrenérgicos e normalmente
+ocorre após a exposição prolongada a concentrações pouco elevadas, ou breve, a altas concentrações do agonista
+(Stiles et al., 1984). O processo de dessensibilização pode
+ocorrer devido ao desacoplamento entre o receptor e a
+proteína G, como consequência da fosforilação do receptor. Este é um processo rápido, que pode ocorrer em segundos ou minutos após a exposição do tecido a um
+agonista. O sequestro do receptor, que consiste no seu
+deslocamento da superfície celular para um local
+intracelular e a diminuição no número de receptores downregulation, em consequência de aumento na sua degradação e/ou diminuição de sua síntese, também provocam diminuição na resposta a agonistas (Lohse, 1993).
+Ao contrário da downregulation, a ação de antagonistas ou hormônios pode produzir maior sensibilidade
+
+277
+
+aos agonistas por aumento no número de receptores ativos
+na célula (upregulation), o que é explicado por uma ativação da síntese protéica ou pelo transporte de receptores de
+reserva para a membrana plasmática. A supersensibilidade
+a agonistas adrenérgicos pode também estar relacionada
+ao acoplamento mais eficiente do complexo ligante-receptor à proteína G (Collins et al., 1988; Lohse, 1993). A resposta dos tecidos às catecolaminas também pode ser modificada por alterações na estrutura do receptor, evidenciada por alterações na afinidade do receptor adrenérgico
+por agonistas ou antagonistas. Alterações na estrutura e no
+número de receptores podem ser desencadeadas pelos
+glicocorticoides, por suas ações na modulação da expressão gênica (Callia, De Moraes, 1984; Spadari, De Moraes,
+1988).
+
+CICLO REPRODUTIVO E ESTRESSE
+Por convenção, o primeiro dia de sangramento caracteriza o início do ciclo menstrual, o qual pode ser dividido, fisiologicamente, em três fases sequenciais. A fase
+folicular tem início com o sangramento menstrual. A fase
+ovulatória tem duração de 3 dias, em média, e é caracterizada pela ovulação. A fase lútea tem duração constante
+de 14 dias e termina com o início do sangramento menstrual. A duração média de um ciclo menstrual é de 21 a 35
+dias, dependendo da duração da fase folicular (Genuth,
+2000).
+As alterações cíclicas na produção de gonadotrofinas e hormônios esteroides sexuais caracterizam a função ovariana adulta. Durante o período menstrual as concentrações de esteroides sexuais estão baixas. Na fase
+folicular ou proliferativa, os níveis plasmáticos de estrogênio são gradualmente aumentados, estimulados pela
+elevação dos níveis de FSH, sem alterações nos níveis de
+progesterona. A fase ovulatória caracteriza-se por um pico
+dos níveis plasmáticos de LH. Após o período ovulatório,
+os níveis plasmáticos de progesterona secretada pelo corpo lúteo aumentam, caracterizando a fase lútea ou
+secretora. Nesta fase também ocorre elevação dos níveis
+plasmáticos de estrogênio. Quando a fecundação não
+ocorre, o corpo lúteo sofre atrofia, o que resulta em diminuição dos níveis de progesterona e consequente
+descamação do endométrio, com início do fluxo menstrual, 14 dias após a ovulação (Buffet et al., 1998; Wilson,
+Adaikan, 1999; Genuth, 2000).
+Além de atuarem sobre órgãos diretamente envolvidos com a função reprodutiva e tecidos relacionados aos
+caracteres sexuais secundários, os hormônios sexuais também exercem efeitos que não estão relacionados à reprodução, merecendo destaque suas ações no sistema cardio-
+
+278
+
+vascular. Neste contexto, dados epidemiológicos mostram
+que a incidência de doenças cardíacas é menor em mulheres em idade reprodutiva do que em homens (Benetos et
+al., 1999), não havendo diferenças após a menopausa
+(Schillaci et al., 1998).
+Vários estudos têm mostrado o papel protetor do
+estrogênio endógeno em mulheres antes da menopausa,
+afetando a reatividade cardiovascular (Sita, Miller, 1996;
+Saeki et al., 1997; Fuenmayor et al., 2000), o controle da
+pressão arterial (Hastrup, Light, 1984; Rosenthal, Oparil,
+2000) e a melhora no perfil lipídico (Tonolo et al., 1995).
+A presença de receptores para estradiol no coração e vasos sanguíneos sugere que o estrogênio reduza o tônus da
+parede arterial e a pressão arterial de repouso. Porém, tem
+sido também relatado que o estrogênio pode contribuir
+para o desenvolvimento de transtornos cíclicos de humor
+e doenças tromboembólicas (Morofushi et al., 2001). Em
+ratas ovariectomizadas, o tratamento com alta dose de
+estradiol induziu supersensibilidade à fenilefrina em aorta
+torácica isolada in vitro (Moura, Marcondes, 2001).
+O desenvolvimento da hipertensão arterial também
+difere entre os sexos, com mulheres mostrando pressão
+arterial menor da puberdade até a idade de 45-50 anos.
+Após essa idade, os valores se igualam aos homens ou
+podem até ser superados, sendo que os fatores hormonais
+podem contribuir para menores valores de pressão arterial
+em mulheres antes da menopausa (Hastrup, Light, 1984,
+Rosenthal, Oparil, 2000). A incidência de doença arterial
+coronariana é baixa na pré-menopausa e aumenta significativamente na pós-menopausa. Os efeitos protetores do
+estrogênio estão relacionados à melhora do perfil lipídico,
+do metabolismo da glicose e também à ação direta desse
+hormônio no sistema vascular, inibindo a aterogênese e a
+trombogênese. Além disso, na pós-menopausa ocorre redução dos níveis séricos do HDL-colesterol e aumento do
+LDL-colesterol (Tonolo et al., 1995).
+Além de modularem a atividade do sistema
+cardiovascular, os esteroides sexuais também atuam sobre
+o sistema de estresse primário alterando, por exemplo, a
+reatividade do eixo HHA (Saeki et al., 1997; Seeman et
+al., 2001) e a ativação do SNS. Alguns autores sugerem,
+também, que, em mulheres, a vulnerabilidade ao estresse
+varia com as fases do ciclo menstrual, sendo particularmente aumentada na fase pré-menstrual (Choi, Salmon,
+1995).
+Altos níveis de estrogênio resultam em menor ativação do SNS, promovendo diminuição nas alterações
+cardiovasculares em resposta ao estresse. Essa atenuação
+nas respostas cardiovasculares pode ser importante, pois
+tem se admitido que o estresse está envolvido no desenvolvimento de hipertensão arterial e doenças coronarianas
+
+A. P. Tanno, F. K. Marcondes
+
+(Sita, Miller 1996; Saeki et al., 1997; McFetridge,
+Sherwood, 2000). Mulheres adultas jovens saudáveis
+mostraram alterações cardiovasculares menores durante o
+estresse do que homens da mesma idade, estando essas
+respostas reduzidas associadas à fase folicular do ciclo
+menstrual (Hastrup, Light, 1984, McFetridge, Sherwood,
+2000).
+Em contrapartida, muitas evidências mostram que
+os hormônios esteroides femininos podem contribuir para
+a maior incidência de depressão em mulheres, quando
+comparadas aos homens (Parry, Newton, 2001). O papel
+central do estrogênio nos ritmos biológicos femininos
+(menstruação, menopausa) pode desestabilizar ou sensibilizar mecanismos neuroendócrinos e a secreção de
+neurotransmissores, contribuindo para o desenvolvimento
+de transtornos cíclicos do humor (Jenkins et al., 2001;
+Morofushi et al., 2001). A síndrome pré-menstrual é um
+dos distúrbios muito comuns que afeta grande parte das
+mulheres. Variações hormonais que ocorrem durante o
+ciclo menstrual induzem mudanças em uma variedade de
+sistemas, que resultam em alterações físicas, psicológicas
+e comportamentais. Na segunda metade do ciclo menstrual a mulher produz progesterona, a qual promove redução
+nos níveis de serotonina. O estresse também facilita a redução nos níveis de serotonina, agravando ainda mais os
+quadros de síndrome pré-menstrual (Mortola, 1996;
+Ugarizza et al., 1998).
+Para melhor compreensão das alterações que ocorrem, em decorrência das fases do ciclo reprodutivo e do
+estresse, têm sido utilizados modelos animais. Dentre estes, ratas de laboratório, castradas ou não, têm sido amplamente utilizadas. Seu ciclo reprodutivo é denominado de
+ciclo estral, pode durar em média de 4 a 5 dias, sendo constituído de quatro fases, denominadas de proestro, estro,
+metaestro e diestro (Freeman, 1988). Como a citologia
+vaginal sofre modificações em consequência das variações cíclicas na secreção dos esteroides sexuais, a identificação dos tipos celulares que constituem o epitélio vaginal é utilizada para identificação das fases do ciclo
+reprodutivo (Hoar, 1975; Marcondes et al., 2002).
+Em relação aos esteroides sexuais, os menores níveis de estradiol são observados durante o estro, ocorrendo aumento no metaestro para atingir o pico na tarde de
+proestro (Smith et al., 1975; Freeman, 1988). Quanto à
+progesterona, ocorre um pico durante o metaestro e outro
+durante o proestro, sendo os menores níveis observados
+durante o diestro (Freeman, 1988). Durante o proestro,
+com duração média de 13 horas, ocorre a ovulação e a fase
+seguinte, o estro, corresponde à fase receptiva.
+As variações dos níveis de hormônios sexuais que
+ocorrem durante o ciclo estral também influenciam a se-
+
+Estresse, ciclo reprodutivo e sensibilidade cardíaca às catecolaminas
+
+creção de CRH, ACTH e corticosterona. O aumento dos
+níveis plasmáticos de estradiol, progesterona e hormônio
+luteinizante, que ocorre na tarde do proestro, é acompanhado de elevação dos níveis de ACTH (Anderson et al.,
+1996). Também, observa-se que ratas apresentam maiores
+níveis basais de secreção de ACTH e CRH do que ratos,
+sendo que as concentrações plasmáticas de corticosterona
+são maiores durante o proestro em relação às outras fases
+do ciclo reprodutivo (Smith et al., 1975; Rivier, 1999;
+Shors et al., 1999).
+Além disso, em resposta a estímulos estressores físicos ou psicológicos o aumento na secreção de ACTH e
+corticosterona é maior e mais prolongado em fêmeas do
+que em machos (Handa, Mcgivern, 2000). Neste sentido,
+foi relatado que o sistema de retroalimentação negativa
+exercido pelos glicocorticoides é menos efetivo em fêmeas do que em machos (Handa, Mcgivern, 2000; Miller,
+Sita, 2000) e que a testosterona tem efeitos inibitórios
+sobre o eixo HHA (Handa et al., 1994a).
+A ativação do eixo HHA em resposta a estressores
+também difere entre as fases do ciclo estral (Viau, Meaney,
+1991; Rivier, 1999; Wong et al., 2000). Em ratas, o
+estresse por choque induziu maior aumento de ACTH e de
+corticosterona plasmáticos na tarde e noite do proestro,
+quando as concentrações dos hormônios gonadais são altas (Anderson et al., 1996). Ratas castradas e tratadas com
+estrogênio submetidas a estresse apresentaram maior aumento na secreção de corticosterona do que ratas castradas tratadas com veículo e machos. Os autores sugeriram
+que, na presença de altos níveis estrogênicos, a maior atividade do eixo HHA estaria relacionada a maior sensibilidade da hipófise anterior ao CRH e da adrenal ao ACTH
+(Handa et al., 1994b).
+Além da influência dos esteroides sexuais sobre a
+ativação do eixo HHA em situação de estresse, foi também evidenciado que os hormônios secretados durante o
+estresse, como o CRH e os corticosteroides, podem afetar
+diretamente a secreção gonadal de esteroides sexuais, alterando, portanto, a função reprodutiva em muitas espécies (Mohsen et al., 1997). A exposição a estressores pode
+aumentar ou reduzir os níveis plasmáticos de corticosterona e de estrogênio em ratas, dependendo do tipo e da
+duração do estímulo e da fase do ciclo estral (Marcondes,
+1998; Shors et al., 1999). Ratas submetidas a estresse repetido por natação apresentaram aumento nos níveis de
+estradiol no estro, sem alteração no diestro. Por outro lado,
+o estresse por choques nas patas não alterou a secreção de
+estradiol (Marcondes, 1998). Com relação à progesterona,
+o aumento nos níveis plasmáticos deste hormônio foi independente do tipo de estressor e da fase do ciclo estral
+analisada (Marcondes, 1998). Também, foi descrito que os
+
+279
+
+agentes estressores ativam diferentes níveis do eixo HHA,
+os quais podem influenciar diferentemente a liberação dos
+esteroides sexuais (Rivier, 1999).
+Os hormônios sexuais femininos, estrogênio e
+progesterona, também podem influenciar o aprendizado
+(Handa et al., 1994b). O estrogênio pode aumentar a densidade dos dendritos no hipocampo e amígdala, regiões do
+cérebro que estão ligadas ao aprendizado (Maier et al.,
+1993; Brinton, 1994). A exposição persistente a eventos
+estressantes facilita o aprendizado em machos, enquanto
+que, em fêmeas, promove um prejuízo na aquisição do conhecimento. Entretanto, sob condições não-estressantes,
+fêmeas adquirem resposta de condicionamento mais rápida que machos. Assim, níveis moderados de estrogênio liberados durante o proestro podem ser benéficos para o
+aprendizado, enquanto níveis supraelevados, que são
+liberados em resposta ao estresse, contribuem para o prejuízo no aprendizado de ratas (Shors, 1998; Wood, Shors
+1998; Shors et al., 1999).
+O estado de ansiedade das ratas também pode variar de acordo com as fases do ciclo estral, sendo menor
+durante o proestro que durante o diestro. Como o tratamento das fêmeas em diestro com estradiol aboliu essa
+diferença, este hormônio parece estar relacionado com
+baixos níveis de ansiedade durante a fase de proestro
+(Marcondes et al., 2001).
+Logo, a modulação do eixo HHA pelos esteroides
+sexuais, as ações destes sobre o aprendizado e a ansiedade e os efeitos dos glicocorticoides sobre o eixo
+hipotálamo-hipófise-gônadas contribuem para as diferenças entre homens e mulheres, e entre machos e fêmeas, nas
+respostas a estímulos estressores.
+
+ALTERAÇÕES DE SENSIBILIDADE
+CARDIOVASCULAR ÀS CATECOLAMINAS
+Durante a reação de estresse ocorre como resposta
+primária o aumento na secreção de catecolaminas e
+glicocorticoides, sendo tais aumentos dependentes do tipo
+de estressor e das características do indivíduo. Durante a
+reação de estresse podem ocorrer alterações na resposta do
+sistema cardiovascular às catecolaminas.
+A resposta dos tecidos periféricos à estimulação
+adrenérgica pode ser substancialmente modificada por
+variações da concentração de agonistas adrenérgicos
+(Davies, Lefkowitz, 1984), alterações de temperatura ou
+da composição química do plasma e níveis circulantes de
+vários hormônios (Landsberg, Young, 1992), tais como
+hormônios tireoidianos (Kupfer et al., 1986), glicocorticoides (Davies, Lefkowitz, 1984), estrogênios
+(Roberts et al., 1981; Klangkalya, Chan, 1988) e
+
+280
+
+progesterona (Kano, 1982). Alterações da sensibilidade
+adrenérgica também podem ser causadas pelas modificações de natureza neural e hormonal ligadas à reação de
+estresse. Observou-se alteração da resposta cronotrópica
+às catecolaminas em átrios direitos isolados de ratos submetidos a estresse por frio (Harri et al., 1974; Callia, De
+Moraes, 1984), choques nas patas (Bassani, De Moraes,
+1987; Spadari-Bratfisch et al., 1999), imobilização (Capaz, De Moraes, 1988) ou natação (Spadari et al., 1988;
+Marcondes, 1995).
+Em átrios direitos isolados de ratos machos submetidos a três sessões de choques nas patas, foi observada
+supersensibilidade à epinefrina, sendo esta mediada por
+alterações na atividade dos mecanismos de metabolização
+das catecolaminas, por alterações conformacionais dos
+adrenoceptores β 1 , e aumento da participação dos
+adrenoceptores β2 no controle do cronotropismo cardíaco
+(Bassani, De Moraes, 1987). Nourani et al. (1992) mostraram que as alterações de sensibilidade, induzidas por choques nas patas, em átrio direito isolado de ratos, eram bloqueadas por administração de um antagonista dos receptores citosólicos de corticosterona, evidenciando a participação da corticosterona no processo de alteração de sensibilidade às catecolaminas.
+Em resposta ao estresse induzido por três sessões de
+natação, átrios direitos isolados de ratos desenvolveram
+subsensibilidade à norepinefrina e à isoprenalina, acompanhada por alteração da constante de dissociação do antagonista de adrenoceptores β1, metoprolol (Spadari, De
+Moraes, 1988). A adrenalectomia bilateral impediu o aparecimento de tais alterações e os autores concluíram que
+os altos níveis plasmáticos de corticosterona, secretados
+em resposta ao estresse, estavam relacionados à subsensibilidade observada.
+O estresse por sessão única de natação determinou
+o aparecimento de supersensibilidade à isoprenalina e à
+epinefrina, mediadas por mudanças na atividade dos sistemas de metabolização das catecolaminas. Também neste
+caso, os autores demonstraram que a corticosterona estava relacionada às alterações nas respostas cronotrópicas às
+catecolaminas (Spadari et al., 1988).
+Algumas características diferenciam a aplicação de
+choques nas patas da natação. A aplicação de choques nas
+patas é intermitente e há um componente de ativação sensorial que envolve dor. A natação, além de representar um
+agente estressante pelo exercício físico, apresenta forte
+componente emocional, relacionado à novidade que este
+estímulo representa para o rato e à impossibilidade de
+fuga, somada à iminência de morte. A intensidade desse
+modelo de estresse pode ser manipulada pela duração da
+sessão de natação e pela temperatura da água (Östman-
+
+A. P. Tanno, F. K. Marcondes
+
+Smith, 1979; Cox et al., 1985; Garcia-Marquez, Armario,
+1987; Dal Zotto et al., 2000; Ottenweller, 2000).
+Diferenças na qualidade e na frequência de apresentação do estímulo estressor determinam o desenvolvimento ou não de alterações de sensibilidade adrenérgica e,
+provavelmente, influem nos mecanismos subjacentes a
+tais alterações (Vanderlei et al., 1996; Spadari-Bratfisch et
+al., 1999). Além destes fatores, em átrios direitos isolados
+de ratas submetidas a estresse, também foi detectada
+subsensibilidade às catecolaminas, sendo esta dependente
+da fase do ciclo estral (Marcondes et al., 1996; Vanderlei
+et al., 1996). Átrios direitos isolados de ratas submetidas
+a três sessões de choques nas patas ou natação, em dias
+consecutivos, e sacrificadas em diestro, desenvolveram
+subsensibilidade à norepinefrina (Marcondes et al., 1996;
+Vanderlei et al., 1996). Por outro lado, ratas sacrificadas
+no estro, não apresentaram alterações (Marcondes et al.,
+1996; Vanderlei et al., 1996; Spadari-Bratfisch et al.,
+1999), sugerindo que em fêmeas, altos níveis de
+corticosterona também poderiam ser necessários para a
+ocorrência de alteração de sensibilidade adrenérgica, porém não seriam suficientes para desencadeá-las.
+Em resposta a choques nas patas, na fase de diestro,
+parece ocorrer aumento na participação dos adrenoceptores do subtipo β2 na resposta cronotrópica às catecolaminas, simultâneo a diminuição da resposta mediada por
+adrenoceptores do subtipo β 1 (Vanderlei et al., 1996;
+Spadari-Bratfisch et al., 1999). Estas mudanças não parecem estar relacionadas somente aos níveis aumentados de
+corticosterona, mas poderiam estar relacionadas ao aumento nos níveis de corticosterona e progesterona
+concomitante à queda nos níveis de estradiol (Marcondes,
+1998). Por outro lado a não ocorrência de alterações de
+sensibilidade do tecido atrial às catecolaminas, na fase de
+estro, estaria relacionada à interação entre níveis elevados
+de corticosterona, progesterona e ao aumento nos níveis
+de estradiol observado após a segunda sessão de choques
+nas patas (Marcondes, 1998).
+O estresse por sessão única de natação induziu
+supersensibilidade aos efeitos cronotrópicos da norepinefrina (Tanno, 2002; Tanno et al., 2002b) e epinefrina
+(Tanno, 2002) em átrios direitos de ratas na fase de
+proestro e metaestro respectivamente, sem alterações na
+fase de estro e diestro, confirmando a influência do ciclo
+estral e do tipo de estresse neste fenômeno. As alterações
+que ocorreram na fase de proestro parecem envolver alteração parcial nos processos de recaptação neuronal e captação extraneuronal das catecolaminas (Tanno, 2002;
+Tanno et al., 2002a, b). A corticosterona poderia estar
+envolvida neste efeito, já que ela inibe a captação
+extraneuronal e na fase de proestro está aumentada
+
+Estresse, ciclo reprodutivo e sensibilidade cardíaca às catecolaminas
+
+(Rodrigues et al., 1995; Anderson et al., 1996; Shors et al.,
+1999). Distúrbios na liberação periférica de norepinefrina
+podem ter correlação patológica com doenças
+cardiovasculares, visto que um defeito na captação
+neuronal tem sido observado em ratos e pacientes com
+hipertensão arterial (Chang et al., 1987, Cabassi et al.,
+2001). A supersensibilidade à epinefrina em ratas na fase
+de metaestro só ocorreu quando os sistemas de metabolização das catecolaminas estavam inibidos, sugerindo
+que algum fator, ainda não esclarecido, estaria inibindo a
+metabolização das catecolaminas nos animais do grupo
+controle e que o estresse antagonizaria este efeito (Tanno,
+2002).
+Considerando que, frente ao estresse por sessão
+única de natação, ratas em proestro e metaestro desenvolveram alterações de sensibilidade adrenérgica e em tecido isolado de ratas em estro e diestro, as mesmas não foram detectadas: o que teria maior valor adaptativo para a
+rata? Desenvolver ou não tais alterações? Quais fatores
+determinam a ocorrência ou não das mesmas? Nossa hipótese é de que a percepção do agente estressor pelo animal
+pode variar em função da fase do ciclo estral (Vogel,
+Jensh, 1988; Griffin, 1989). Neste caso, o estímulo
+estressor seria percebido com diferente intensidade dependendo da fase do ciclo, desencadeando respostas fisiológicas distintas qualitativa e/ou quantitativamente. Assim,
+tais diferenças na resposta do tecido atrial poderiam, por
+sua vez, estar relacionadas a diferenças na secreção dos
+glicocorticoides e dos esteroides sexuais, em resposta ao
+estresse, durante o proestro e o metaestro. Como a movimentação do animal na água parece estar negativamente
+correlacionada às chances de sobrevivência do animal, a
+diminuição da atividade representa uma resposta
+adaptativa (Bruner, Vargas, 1994). Bianchi et al. (2000,
+2001), analisando o tempo de imobilidade de ratas submetidas a uma sessão de natação, seguindo o mesmo protocolo de estresse agudo por natação, observaram que durante o proestro e o metaestro, o tempo total de imobilidade foi menor em relação ao estro e diestro. Os autores
+concluíram que ratas em proestro e metaestro parecem
+apresentar maior dificuldade de adaptação, quando comparadas a ratas em estro e diestro.
+Logo, as alterações de sensibilidade à norepinefrina
+e à epinefrina induzidas pelo estresse ocorreram nas mesmas fases em que as ratas pareciam apresentar dificuldade de adaptação ao estímulo estressor, evidenciada por um
+menor tempo de imobilidade. Isto sugere que a supersensibilidade à norepinefrina e epinefrina constituem um
+mecanismo de proteção durante a exposição ao estresse
+por sessão única de natação e, assim sendo, representam
+
+281
+
+um mecanismo adaptativo do tecido cardíaco nas fases de
+proestro e metaestro. Nas fases de estro e diestro, os ajustes cardiovasculares e metabólicos ocorreriam de forma a
+assegurar a adaptação do animal sem a necessidade de
+alterações no tecido cardíaco.
+A supersensibilidade às catecolaminas induzida
+pelo estresse agudo por natação (Spadari et al. 1988,
+Tanno, 2002) pode estar relacionada com a síndrome do
+intervalo QT longo, uma desordem genética caracterizada por um prolongado intervalo QT no eletrocardiograma,
+síncope e taquiarritmia ventricular fatal (Schwartz, 1991).
+Atividades que envolvem água e natação estão relacionadas com um prolongamento do intervalo QT (Schwartz,
+1991; Fagius, Sundlof, 1986). Em muitos casos de quase
+ocorrer um afogamento tem sido observada manifestação
+da síndrome do intervalo QT longo (Ackerman, Porter,
+1998). Além disso, a imersão da face em água fria induz
+prolongamento do intervalo QT em crianças sem história
+familiar de alterações eletrocardiográficas (Yoshinaga,
+1999). Foi sugerido que os eventos cardíacos relacionados
+à natação estariam associados a uma redução na corrente
+lenta retificadora de potássio (Roden, 1996), porém outros
+mecanismos que também parecem estar envolvidos nesta alteração ainda não foram esclarecidos. Estudos sobre
+os mecanismos de supersensibilidade às catecolaminas
+induzidas pelo estresse são necessários para melhor compreender sua relação com a síndrome do intervalo QT prolongado.
+
+CONCLUSÃO
+O estresse é uma experiência diária de todos os organismos frente a alterações em seu meio externo e interno. Os agentes estressores ativam um amplo espectro de
+sistemas neuronais e hormonais, induzindo respostas
+fisiológicas e comportamentais para promover a adaptação à nova situação. As funções cardiovasculares e
+neuroendócrinas ativadas pelas catecolaminas mobilizam
+energia para os músculos, coração, cérebro e, ao mesmo
+tempo, reduzem o fluxo sanguíneo para outros órgãos,
+como o sistema gastrintestinal, garantindo a sobrevivência do indivíduo. As alterações na secreção de esteroides
+sexuais e glicocorticoides, que ocorrem durante o ciclo
+reprodutivo e em resposta ao estresse, podem causar alterações da sensibilidade adrenérgica no tecido cardíaco, em
+animais de laboratório submetidos a estresse. O estudo de
+tais alterações pode auxiliar na compreensão dos mecanismos envolvidos nas alterações cardíacas, e em especial
+eletrocardiográficas, observadas na espécie humana após
+exposição à água e à natação.
+
+282
+
+A. P. Tanno, F. K. Marcondes
+
+ABSTRACT
+Stress, reproductive cycle and cardiac sensitivity to
+cathecolamines
+Stress is an organic answer to aversive stimulus or
+unknown situations to provide the adaptation of host to the
+new condition. The stressor can be a physical, chemical,
+emotional and social agent. Different stressors are present
+in human daily life and can be involved in degenerative
+diseases and lead to a fast aging process disturbing the
+body physiology. The main mediators of the stress reaction
+are the catecholamines (norepinephrine and epinephrine)
+released by the sympathetic nervous system and by the
+adrenal medulla, and the glucocorticoids released by the
+adrenal cortex. The catecholamines and glucocorticoids
+act in the cells and tissues inducing adaptive changes in
+order to protect the organism and allow its survival. This
+response to stressors can be modified by the host and
+stressor characteristics. Among the host ones, age,
+gender, and in females, the reproductive cycle are
+relevant. The variations in the levels of sexual steroids
+estradiol and progesterone, related to the reproductive
+cycle, modulate the secretion of CRH, ACTH and
+glucocorticoids during the stress reaction and are
+involved in the different responses between men and
+women. Many studies have shown that the exposure to
+stressors may induce alterations in the sensitivity to
+catecholamines in the heart, which are related to adaptive
+processes. These alterations include changes in the
+activity of the metabolizing system of catecholamines, in
+the affinity or number of adrenoceptors, in the coupling
+between the receptor and G protein, and in enzymes
+mediating intracellular processes after the receptor
+activation. The study of these alterations may be helpful to
+the understanding of the cardiac effects of the water
+activities and swimming in humans.
+UNITERMS: Stress. Catecholamines. Reproductive cycle.
+Heart.
+
+AGRADECIMENTOS
+Este estudo foi financiado por auxílios-pesquisa
+concedidos a FKM pela Fundação de Apoio a Pesquisa do
+Estado de São Paulo (FAPESP 99/00793-1) e Fundo de
+Apoio ao Ensino e Pesquisa (FAEP/UNICAMP 0027/00).
+APT recebeu bolsa FAPESP de mestrado (99/11442-5).
+
+REFERÊNCIAS BIBILIOGRÁFICAS
+ACKERMAN, M. J., PORTER, C. J. Identification of a
+family with inherited long QT syndrome after a pediatric
+near-drowning. Pediatrics, New York, v. 101, n. 2, p.
+306-308, 1998.
+AGUILERA, G. Corticotropin releasing hormone receptor
+regulation and the stress response. Trends Endocr.
+Metab., New York, v. 9, n. 8, p. 329-336, 1998.
+AHLQUIST, R. P. A study of the adrenotropic receptors. Am.
+J. Physiol., Bethesda, v. 153, n. 3, p. 586-600, 1948.
+ANDERSON, S.M., SAVIOLAKIS, G.A., BAUMAN,
+R.A., CHU, K.Y., GHOSH, S., KANT, G.J. Effects of
+chronic stress on food acquisition, plasma hormones, and
+the estrous cycle of female rats. Physiol. Behav., New
+York, v. 60, n. 1, p. 325-329, 1996.
+BALTATU, O., BADER, M., GANTER, D. Angiotensin. In:
+FINK, G., ed. Encyclopedia of stress. New York:
+Academic Press, 2000. v. 1, p. 195-199.
+BASSANI, R.A., De MORAES, S. Subsensitivity to beta
+adrenoceptor agonists in right atria isolated from
+footshock stressed rats. Gen. Pharmacol., Oxford, v. 18,
+n. 5, p. 473-477, 1987.
+BENETOS, A., RUDNICHI, A., THOMAS, F., SAFAR, M.,
+GUIZE, L. Influence of heart rate on mortality in a french
+population. Role of age, gender and blood pressure.
+Hypertension, Philadelphia, v. 33, n. 1, p. 44-52, 1999.
+BIANCHI, F. J, TANNO, A. P., MARCONDES, F. K.
+Relação entre nível de estresse e supersensibilidade à
+noradrenalina em ratas no proestro. Rev. Bras. Ciênc.
+Farm., São Paulo, v. 37, n. 3, p. 391-398, 2001.
+BIANCHI, F. J., TANNO, A. P., MARCONDES, F. K.
+Influence of the estrous cycle on the behavior of rat
+submitted to swimmings stress. In: WORLD
+CONGRESS ON STRESS, 3., Dublin, Irlanda, 2000.
+Proceedings. Dublin ISIS, 2000. p. 41.
+BÖNISCH, H. Extraneuronal transport of catecholamines.
+Pharmacology, Basel, v. 21, n. 2, p. 93-108, 1980.
+BRINTON, R. D. The neurosteroid 3 alpha-hydroxy-5 alphapregnan-20-one induces cytoarchitectural regression in
+cultured fetal hippocampal neurons. J. Neurosci.,
+Washington, v. 14, n. 5, p. 2763-2774, 1994.
+
+Estresse, ciclo reprodutivo e sensibilidade cardíaca às catecolaminas
+
+BRODDE, O. E., MICHEL, M. C. Adrenergic and
+muscarinic receptors in the human heart. Pharmacol.
+Rev., Baltimore, v. 51, n. 4, p. 651-689, 1999.
+BRUNER, C. A., VARGAS, I. The activity of rats in a
+swimming situation as a function of water temperature.
+Physiol. Behav., New York, v. 55, n. 1, p. 21-28, 1994.
+BUCKINGHAM, J. C. Effects of stress on glucocorticoids.
+In: FINK, G., ed. Encyclopedia of Stress. New York:
+Academic Press, 2000. v. 2, p. 229-238.
+BUFFET, N. C., DJAKOURE, C., MAITRE, S. C.,
+BOUCHARD, P. Regulation of the human menstrual
+cycle. Front Neuroendocrinol., San Diego, v. 19, n. 3, p.
+151-186, 1998.
+BYLUND, D. B., EIKENBERG, D. C., HIEBLE, J. P.,
+LANGER, S. Z., LEFKOWITZ, R. J., MINNEMAN, K.
+P., MOLINOFF, P. B., RUFFOLO, R. R.,
+TRENDELENBURG, U. International Union of
+Pharmacology Nomenclature of Adrenoceptors.
+Pharmacol. Rev., Baltimore, v. 46, n. 2, p. 121-136, 1994.
+CABASSI, A., VINCI, S., QUARTIERI, F., MOSCHINI, L.,
+BORGHETTI, A. Norepinephrine reuptake is impaired
+in skeletal muscle of hypertensive rats in vivo.
+Hypertension, Philadelphia, v. 37, n. 2, p. 698-702, 2001.
+CALLIA, M. L., De MORAES, S. Heterogeneity of beta
+adrenoceptors in right atria isolated from cold-exposed
+rats. J. Pharmacol. Exp. Ther., Baltimore, v. 230, n. 2, p.
+450-454, 1984.
+CAPAZ, F. R., De MORAES, S. Reduction by acute restraint
+stress of norepinephrine sensitivity in the isolated rat
+pacemaker. Eur. J. Pharmacol., Amsterdam, v. 147, n. 2,
+p. 295-298, 1988.
+CHANG, H., CHEN, S. S., TSAO, D. A., CHENG, J. T., HO,
+C. K., YU, H. S. Change of cardiac β-adrenoceptors in
+lead-exposed rats. Toxicology, Limerick, v. 123, n. 1-2, p.
+27-32, 1997.
+CHANG, P. C., VAN DER KROGT, J. A., VAN
+BRUMMELEN, P. Demonstration of neuronal and
+extraneuronal uptake of circulating norepinephrine in the
+forearm. Hypertension, Philadelphia, v. 9, n. 6, p. 647653, 1987.
+
+283
+
+CHOI, P. Y. L., SALMON, P. Stress responsivity in exercises
+and non-exercisers during different phases of the
+menstrual cycle. Soc. Sci. Med., London, v. 41, n. 6, p.
+769-777, 1995.
+CHROUSOS, G. P., GOLD, P. W. The concepts of stress and
+stress system disorders. Overview of physical and
+behavioral homeostasis. JAMA J. Am. Med. Ass.,
+Chicago, v. 267, n. 9, p. 1244-1252, 1992.
+CHROUSOS, G. P. Stressors, stress, and neuroendocrine
+integration of the adaptative response. Ann. N. Y. Acad.
+Sci., New York, n. 851, p. 311-335, 1998.
+COLLINS, S., CARON, M. G., LEFKOWITZ, R. J. β2Adrenergic receptor in hamster smooth muscle cells are
+transcriptionally regulated by glucocorticoids. J. Biol.
+Chem., Baltimore, v. 263, n. 19, p. 9067-9070, 1988.
+COX, R. H., HUBBARD, J. W., LAWLER, J. E.,
+SANDERS, B. J., MITCHELL, V. P. Cardiovascular a
+sympathoadrenal responses to stress in swim-trained rats.
+J. Appl. Physiol., Bethesda, v. 58, n. 4, p. 1207-1214,
+1985
+DALMAN, M. F., BHATNAGAR, S., VIAU, V.
+Hypothalamo-pituitary-adrenal axis. In: FINK, G., ed.
+Encyclopedia of Stress. New York: Academic Press,
+2000. v. 2, p. 468-477.
+DAL-ZOTTO, S., MARTI, O., ARMARIO, A. Influence of
+single or repeated experience of rats with forced
+swimming on behavioral and physiological responses to
+the stressor. Behav. Brain Res., Amsterdam, v. 114, n. 12, p. 175-181, 2000.
+DAVIES, A. O., LEFKOWITZ, R. J. Regulation of βadrenergic receptors by steroid hormones. Annu. Rev.
+Physiol., Palo Alto, v. 46, p. 119-130, 1984.
+DHABHAR, F. S. Stress-induced Enhancement of Immune
+Function. In: FINK, G., ed. Encyclopedia of stress. New
+York: Academic Press, 2000. v. 2, p. 515-523.
+DZMIRI, N. Regulation of β-adrenoceptor signaling in
+cardiac function and disease. Pharmacol. Rev.,
+Baltimore, v. 51, n. 3, p. 465-501, 1999.
+DOCHERTY, J. R. Subtypes of functional α 1 and α 2
+adrenoceptors. Eur. J. Pharmacol., Amsterdam, v. 361,
+n. 1, p. 1-15, 1998.
+
+284
+
+FAGIUS, J., SUNDLOF, G. The diving response in man:
+effects on sympathetic activity in muscle and skin nerve
+fascicles. J. Physiol., London, v. 377, p. 429-433, 1986.
+FERIN, M. Effects of stress on gonadotropin secretion. In:
+FINK, G., ed. Encyclopedia of stress. New York:
+Academic Press, 2000. v. 2, p. 283-289.
+FINK, G. Feedback systems. In: FINK, G., ed. Encyclopedia
+of stress. New York: Academic Press, 2000. v. 2, p. 124137.
+FLÜGGE, G. Alterations in the central nervous α 2 adrenoceptor system under chronic psychosocial stress.
+Neuroscience, Washington, v. 75, n. 1, p. 187-196, 1996.
+FRASER, D., RITCHIE, J. S. D., FRASER, A. F. The term
+“stress” in a veterinary context. Br. Vet. J., London, v. 131,
+n. 6, p. 653-62, 1975.
+FREEMAN, M. E. The ovarian cycle of the rat. In: Knobil,
+E. et al. The physiology of reproduction. New York:
+Raven Press. LTD, 1988. p. 1893-1928.
+FRIER, B. M. Hypoglycemia. In: FINK, G., ed.
+Encyclopedia of stress. New York: Academic Press,
+2000. v.2, p. 453-459.
+FUENMAYOR, A. J., RAMÍREZ, L., FUENMAYOR, A.
+M. Left ventricular function and autonomic nervous
+system balance during two different stages of the
+menstrual cycle. Int. J. Cardiol., Clare, v. 72, n. 3, p. 243246, 2000.
+GARCIA-MARQUEZ, C. G., ARMARIO, A. Chronic
+stress depresses exploratory activity and behavioral
+performance in the forced swimming test without altering
+ACTH response to a novel acute stressor. Physiol.
+Behav., New York, v. 40, p. 33-38, 1987.
+GENUTH, S. M. As glândulas reprodutoras. In: BERNE, R.
+M., LEVY, M. N. Fisiologia. 4 ed. Rio de Janeiro:
+Guanabara Koogan, 2000. cap. 52, p. 910-956.
+GEUS, E. J. C. Stress reduction in aerobics. In: FINK, G., ed.
+Encyclopedia of stress. New York: Academic Press,
+2000. v. 1, p. 81-86.
+GRIFFIN, J. F. T. Stress and imunity: a unifying concept. Vet.
+Immunol. Immunopathol., Amsterdam, v. 20, n. 3, p. 263312, 1989.
+
+A. P. Tanno, F. K. Marcondes
+
+HALLER, J., FUCHS, E., HALASZ, J., MAKARA, G. B.
+Defeat is a major stressor in male while social instability
+is stressful mainly in female: Towards the development
+of a social stress model in female rats. Brain Res. Bull.,
+New York, v. 50, n. 1, p. 33-39, 1999.
+HANDA R. J., NUNLEY, K. M., STANLEY, A. L., LOUIE,
+J. P., McGIVERN, R. F., BOLLNOW, M. R. Androgen
+regulation of adrenocorticotropin and corticosterone
+secretions in the male rat following novelty and
+footshock stressors. Physiol. Behav., New York, v. 55,
+n.1, p. 117-124, 1994a.
+HANDA, R. J., BURGUESS, L. H., KERR, J. E., O’KEEFE,
+J. A. Gonadal steroid hormone receptors and sex
+differences in the hypothalamo-pituitary-adrenal axis.
+Horm. Behav., San Diego, v. 28, n. 4, p. 464-476, 1994b.
+HANDA, R. J., McGIVERN, R. F. Gender and Stress. In:
+FINK, G., ed. Encyclopedia of stress. New York:
+Academic Press, 2000. v. 2, p. 196-204.
+HARRI, M. N. E., MELENDER, L., TIRRI, R. Changed
+chronotropic sensitivity to sympathomimetic amines in
+isolated atria from rats following cold acclimation.
+Experientia, Basel, v. 30, n. 9, p. 1041-1043, 1974.
+HASTRUP, J. L., LIGHT, K. C. Sex differences in
+cardiovascular stress responses: modulation as a function
+of menstrual cycle phases. J. Psychosom. Res., London,
+v. 28, n. 6, p. 475-483, 1984.
+HELLRIEGEL, E. T., MELLO, A. P. D. The effect of acute,
+chronic and chronic intermittent stress on the central
+noradrenergic system. Pharmacol. Biochem. Behav.,
+Oxford, v. 57, n. 1-2, p.207-214, 1997.
+HOAR, W. S. General and comparative physiology. 2 ed.
+New Jersey: Prentice-Hall International, 1975. p. 189215
+IVERSEN, L. L., SALT, P. J. Inhibition of catecholamine
+uptake 2 by steroids in the isolated rat heart. Br. J.
+Pharmacol., Basingstoke, v. 40, n. 3, p. 528-530, 1970.
+JENKINS, J. A, WILLIAMS, P., KRAMER, G. L., DAVIS,
+L. L., PETTY, F. The influence of gender and the estrous
+cycle on learned helplessness in the rat. Biol. Psychol.,
+Washington, v. 58, n. 2, p. 147-158, 2001.
+
+Estresse, ciclo reprodutivo e sensibilidade cardíaca às catecolaminas
+
+JENSEN, P., TOATES, F. M. Stress as a state of motivational
+systems. Appl. Anim. Behav. Sci., Amsterdam, v. 53, n. 12, p. 145-156, 1997.
+JEZOVA, D., OCHEDALSKI, T., GLICKMAN, M., KISS,
+A., AGUILERA, G. Central corticotropin-releasing
+hormone receptors modulate hypotalamic-pituitaryadrenocortical and sympathoadrenal activity during
+stress. Neuroscience, Washington, v. 94, n. 3, p. 797-802,
+1999.
+KABLE, J. H., MURRIN, C., BYLUND, D. B. In vivo gene
+modification elucidates subtype-specific functions of α2adrenergic receptors. J. Pharmacol. Exp. Ther.,
+Baltimore, v. 293, n. 1, p. 1-7, 2000.
+KANO, T. Effects of estrogen and progesterone on
+adrenoceptors and cyclic nucleotides in rat uterus. Jpn. J.
+Pharmacol., Kyoto, v. 32, n. 3, p. 535-549, 1982.
+KANT, G. J., MOUGEY, E. H., PENNINHGTON, L. L.,
+MEYERHOFF, J. L. Graded footshock stress elevates
+pituitary cyclic AMP and plasma beta-endorphin, betaLPH, corticosterone and prolactin. Life Sci., Oxford, v.
+33, n. 26, p. 2657-2663, 1983.
+KHATRI, P., BLUMENTHAL, J. A. Exercise. In: FINK, G.,
+ed. Encyclopedia of stress. New York: Academic Press,
+2000. v. 2, p. 98-102.
+KING. J. A., EDWARDS, E. Early stress and genetic
+influences on hypothalamic-pituitary-adrenal axis
+functioning in adulthood. Horm. Behav., New York, v.
+36, n. 2, p. 79-85, 1999.
+KLANGKALYA, B., CHAN, A. The effects of ovarian
+hormones on beta-adrenergic and muscarinic receptor in
+rat heart. Life Sci., Oxford, v. 42, n. 23, p. 2307-2314, 1988.
+KOCH, C. A., STRATAKIS, C. A. Genetic factors and stress.
+In: FINK, G., ed. Encyclopedia of stress. New York:
+Academic Press, 2000. v. 2, p. 205-212.
+KUDIELKA, B. M., HELLHAMMER, D. H.,
+KIRSCHBAUM, C. Sex differences in human stress
+response. In: FINK, G., ed. Encyclopedia of stress. New
+York: Academic Press, 2000. v. 3, p.424-429.
+
+285
+
+KUPFER, L. E., BILEZIDIAN, J. P., ROBINSON, R. B.
+Regulation of alpha and beta adrenergic receptors by
+triiodothyronine in cultured rat myocardial cells. Naunyn
+Schmiedebergs Arch. Pharmacol., Berlin, v. 334, n. 3, p.
+275-281, 1986.
+KVETÑANSKY, R., McCARTY, R. Immobilization Stress.
+In: FINK, G., ed. Encyclopedia of stress. New York:
+Academic Press, 2000. v. 2, p. 503-506.
+LANDSBERG, L., YOUNG, J. B. Catecholamines and the
+adrenal medulla. In: WILSON, J. D., FOSTER, D. W.,
+eds. Williams textbook of endocrinology. New Jersey:
+Prentice Hall International, 1992. p. 532-5593
+LEVINE, S. Influence of psychological variables on the
+activity of the hypothalamic-pituitary-adrenal axis. Eur.
+J. Pharmacol., Amsterdam, v. 405, n. 1-3, p. 146-160,
+2000.
+LOHSE, M. J. Molecular mechanisms of membrane receptor
+desensitization. Biochim. Biophys. Acta, Amsterdam, v.
+1179, n. 2, p. 171-188, 1993.
+LUNDBERG, U. Catecholamines. In: FINK, G., ed.
+Encyclopedia of stress. New York: Academic Press,
+2000. v. 1, p. 408-413.
+MAIER, S. F., GRAHN, R. E., KALMAN, B. A., SUTTON,
+L. C., WIERTELAK, E. P., WATKINS, L. R. The role of
+the amygdala and dorsal raphe nucleus in mediating the
+behavioral consequences of inescapable shock. Behav.
+Neurosci., Washington. 107, n. 2, p. 377-388, 1993.
+MANNISTO, P. T., KAAKKOLA, S. Catechol-Omethyltransferase (COMT): Biochemistry, molecular
+biology, pharmacology, and clinical efficacy of the new
+selective COMT inhibitors. Pharmacol. Rev., Baltimore,
+v. 51, n. 4, p. 593-628, 1999.
+MARCONDES, F. K. Influência do ciclo estral sobre as
+respostas hormonais de ratas submetidas a estresse.
+Campinas, 1998, 62p. [Tese de Doutorado em Ciências
+Instituto de Biologia. Universidade Estadual de
+Campinas].
+MARCONDES, F. K. Influência do sexo e das fases do ciclo
+estral sobre a reação de estresse em ratos. Campinas,
+1995, 58p. [Dissertação de Mestrado em Ciências
+Biológicas, Instituto de Biologia. Universidade Estadual
+de Campinas].
+
+286
+
+A. P. Tanno, F. K. Marcondes
+
+MARCONDES, F. K., BIANCHI, F. J., TANNO, A. P.
+Determination of the estrous cycle phases of rats: some
+helpful considerations. Braz. J. Biol., São Paulo, v. 62,
+n. 4, p. 1-6, 2002.
+
+MOHSEN, M. M. A., FAHIM, A. T., MOTAWI, T. M. K.,
+ISMAIL, N. A. Nicotine and Stress: effect on the sex
+hormones and lipid profile in female rats. Pharmacol.
+Res., London, v. 35, n. 3, p. 181-187, 1997.
+
+MARCONDES, F. K., MELLO, L. L., SPADARIBRATISFICH, R. C. Estrous cycle influence the
+response of female rats in the elevated pluz-maze.
+Physiol. Behav., New York, v. 74, n. 4-5, p. 15-20, 2001.
+
+MOROFUSHI, M., SHINOHARA, K., KIMURA, F.
+Menstrual and circadian variations in time perception in
+healthy women and women with premenstrual
+syndrome. Neurosci. Res., Clare, v. 41, n. 4, p. 339-344,
+2001.
+
+MARCONDES, F. K, VANDERLEI, L. C. M., LANZA, L.
+L. B., SPADARI-BRATFISCH, R. C. Stress-induced
+subsensitivity to catecholamines depends on the estrous
+cycle. Can. J. Physiol. Pharmacol., Ottawa, v. 74, n. 6, p.
+663-669, 1996.
+MASON, J. W. A review of psychoendocrine on the
+pituitary-adrenal cortical system. Psychosom. Med.,
+Baltimore, v. 30, n. 5, p. 576-607, 1968a.
+MASON, J. W. A review of psychoendocrine research on the
+sympathetic-adrenal medullary system. Psychosom.
+Med., Baltimore, v. 30, n. 5, p. 631-653, 1968b.
+McEWEN, B. S. Definitions and concepts of stress. In:
+FINK, G., ed. Encyclopedia of stress. New York:
+Academic Press, 2000a v. 3, p. 408-509.
+McEWEN, B. S. The neurobiology of stress: from
+serendipity to clinical relevance. Brain Res., Amsterdam,
+v. 886, n. 1-2, p. 172-189, 2000b.
+McFETRIDGE, J. A., SHERWOOD, A. Hemodynamic and
+sympathetic nervous system responses to stress during
+the menstrual cycle. AACN Clin. Issues, New York, v. 11,
+n. 2, p. 158-167, 2000.
+MILLER, S. B., SITA, A. Estrogen. In: FINK, G., ed.
+Encyclopedia of stress. New York: Academic Press,
+2000. v. 2, p. 71-74.
+MIYAHARA, S., KOMORI, T., FUJIWARA, R.,
+SHIZUYA, K., YAMAMOTO, M., OHMORI, M.,
+OKAZAKI, Y. Effects of single and repeated stresses on
+the expression of mRNA for α1-adrenoceptors in the rat
+hypothalamus and midbrain. Eur. J. Pharmacol.,
+Amsterdam, v. 379, n. 1, p. 111-114, 1999.
+
+MORTOLA, J. F. Premenstrual syndrome. Trends Endocrin.
+Metab., New York, v. 7, n. 5, p. 184-189, 1996.
+MOURA, M. J. C. S., MARCONDES, F. K. Influence of
+estradiol and progesterone on the sensitivity of rat
+thoracic aorta to noradrenaline. Life Sci., Oxford, v. 68, n.
+8, p. 81-888, 2001.
+NOURANI, F. R. R., SPADARI, R. C., De MORAES, S.
+Footshock stress-induced supersensitivity to isoprenaline
+in the isolated pacemaker of the rat: effects of the
+compounds RU-38486 and RU-28362. Gen.
+Pharmacol., Oxford, v. 23, n. 4, p. 787-791, 1992.
+ÖSTMAN-SMITH, I. Adaptive changes in the sympathetic
+nervous system and some effector organs of the rat
+following long term exercise or cold acclimation and the
+role of cardiac sympathetic nerves in the genesis of
+compensatory cardiac hipertrophy. Acta Physiol. Scand.,
+Oxford, Supplement 477, p. 1-118, 1979.
+OTTENWELLER, J. E. Animals models (nonprimate) for
+human stress. In: FINK, G., ed. Encyclopedia of Stress.
+New York: Academic Press, 2000. v. 1, p. 200-205.
+PACÁK, K., McCARTY, R. Acute stress response:
+experimental. In: FINK, G., ed. Encyclopedia of stress.
+New York: Academic Press, 2000. v. 1, p. 8-17.
+PACÁK, K., PALKOVITS, M., KVETNANSKY, R.,
+YADID, G., KOPIN I. J., GOLDSTEIN, D.S. Effects of
+various stressors on in vivo norepinephrine release in the
+hypothalamic paraventricular nucleus and on the
+pituitary-adrenocortical Axis. Ann. N. Y. Acad. Sci., New
+York, n. 771, p. 115-130, 1995.
+
+Estresse, ciclo reprodutivo e sensibilidade cardíaca às catecolaminas
+
+287
+
+PARRY, B. L., NEWTON, R. P. Chronobiological basis of
+female-specific mood disorders. Neuropsychopharmacology, New York, v. 25, n. 5, p. 102-108, 2001.
+
+SCHWARTZ, P. J., ZAZA, A., LOCATI, E. H., MOSS, A. J.
+Stress and sudden death. Circulation, New York, v. 83, p.
+71-80, 1991.
+
+PICKERING, A. D. The concept of biological stress. In: —
+Stress and fish. New York: Academic Press, 1981. p. 225255.
+
+SEEMAN, T. E., SINGER, B., WILKINSON, C. W.,
+McEWEN, B. Gender differences in age-related changes
+in HPA axis reactivity. Psyconeuroendocrinology,
+London, v. 26, p. 225-240, 2001.
+
+POWERS, S. K., HOWLEY, E. T. Adaptações circulatórias
+ao exercício. In: POWERS, S. K., HOWLEY, E. T.
+Fisiologia do exercício – Teoria e aplicação ao
+condicionamento e ao desempenho. 3 ed. São Paulo:
+Manole, 2000. cap. 9, p. 151-176.
+RIVIER, C. Gender, sex steroids, corticotropin-releasing factor,
+nitric oxide, and the HPA response to stress. Pharmacol.
+Biochem. Behav., Oxford, v. 64, n. 4, p. 739-751, 1999.
+ROBERTS, J. M., INSEL, P. A., GOLDFIEN, A. Regulation
+of myometrial adrenoceptors an adrenergic response by
+sex steroids. Mol. Pharmacol., Baltimore, v. 20, p. 52-58,
+1981.
+RODEN, D. M., LAZZARA, R., ROSEN, M., SCHWARTZ,
+P. J., TOWBIN, T., VICENT, G. M. Multiple
+mechanisms in the long-QT syndrome: current
+knowledge, gaps, and future direction. Circulation, New
+York, v. 94, n. 8, p. 1996-2012, 1996.
+RODRIGUES, M. L. V., MARCONDES, F. K., SPADARIBRATFISCH, R. C. Relationship between sensitivity to
+adrenaline, plasma corticosterone level and estrous cycle
+in rats. Can. J. Physiol. Pharmacol., Ottawa, v. 73, n. 5,
+p. 602-607, 1995.
+ROSENTHAL, T., OPARIL, S. Hypertension in women. J.
+Hum. Hypertens., Basingstoke, v. 14, n. 10-11, p. 691704, 2000.
+SAEKI, Y., ATOGAMI, F., TAKAHASHI, K.,
+YOSHIZAWA, T. Reflex control of autonomic function
+induced by posture change during the menstrual cycle. J.
+Auton. Nerv. Syst., Amsterdam, v. 66, n. 1, p. 69-74, 1997.
+SAPOLSKY, R. M. Stress in the wild. Scientific American,
+v. 262, n. 1, p. 106-113, 1990.
+SCHILLACI, G., VERDECCHIA, P., BORGIONI, C.,
+CIUCCI, A., PORCELATTI, C. Early cardiac changes
+after menopause. Hypertension, Philadelphia, v. 32, p.
+764-769, 1998.
+
+SELYE, H. A syndrome produced by diverse nocuous agents.
+Nature, London, v. 138, n. 1, p. 32, 1936.
+SHORS, T. J. Stress and sex effects on associative learning:
+for better or for worse. Neuroscientist, Philadelphia, v. 4,
+n. 5, p. 353-364, 1998.
+SHORS, T. J., PICKETT, J., WOOD, G., PACYNSKI, M.
+Acute stress persistently enhances estrogen levels in the
+female rat. Stress, Malaysia, v. 3, n. 2, p. 163-171, 1999.
+SITA, A., MILLER, S. B. Estradiol, progesterona and
+cardiovascular
+response
+to
+stress.
+Psyconeuroendocrinology, London, v. 21, n. 3, p. 339346, 1996.
+SLOTKIN, T. A., BAREIS, D. I. Uptake of catecholamines
+by storage vesicles. Pharmacology, Basel, v. 21, p.109122, 1980.
+SMITH, M. S., FREEMAN, M. E., NEILL, J. D. The control
+of progesterone secretion during the estrous cycle and
+early pseudopregnancy in the rat: prolactin, gonadotrofin
+and steroids levels associated with rescue of the corpus
+luteum of pseudopregnancy. Endocrinology, Baltimore,
+v. 96, n. 1, p. 219-226, 1975.
+SPADARI, R. C., De MORAES, S. Repeated swimming
+stress and responsiveness of isolated rat pacemaker to
+chronotropic effect of noradrenaline and isoprenaline:
+role of adrenal corticosteroids. Gen. Pharmacol., Oxford,
+v. 19, n. 4, p. 553-557, 1988.
+SPADARI, R. C., BASSANI, R. A., De MORAES, S.
+Supersensitivity to isoprenaline and epinephrine in right
+atria isolated from rats submitted to a single swimming
+session. Gen. Pharmacol., Oxford, v. 19, n. 1, p. 129-135,
+1988.
+
+288
+
+SPADARI-BRATFISCH, R. C., NUNES, I. S.,
+VANDERLEI, L. C. M., MARCONDES, F. K.
+Evidence for β2-adrenoceptors in right atria from female
+rats submitted to footshock stress. Can. J. Physiol.
+Pharmacol., Ottawa, v. 77, n. 6, p. 432-440, 1999.
+STAM, R., BRUIJNZEEL, A. W., WIEGANT, V. M. Longlasting stress sensitization. Eur. J. Pharmacol.,
+Amsterdam, v. 405, n. 1-3, p. 217-224, 2000.
+STILES, G. L., CARON, M. G., LEFKOWITZ, R. J. badrenergic receptors: biochemical mechanisms and
+physiological regulation. Physiol. Rev., New York, v. 64,
+n. 2, p. 661-743, 1984.
+STRATAKIS, C. A., CHROUSOS, G. P.
+Neuroendocrinology and pathophysiology of the stress
+system. Ann. N. Y. Acad. Sci., New York, n. 771, p. 1-18,
+1995.
+SUÁREZ, M., PAGLINI, P., FERNÁNDEZ, R., ENDERS,
+J., MAGLIANESI, M., PERASSI, N., PALMA, J.
+Influence of anterodorsal thalamic nuclei on the
+hypophyseal-adrenal axis cardiac β receptors in rats
+submitted to variable chronic stress. Acta Physiol.
+Pharmacol. Ther. Latinoam., Buenos Aires, v. 49, n. 2, p.
+71-78, 1999.
+TAN, N., MORIMOTO, A., MORIMOTO, K. Involvement
+of central β-adrenoceptors in the tachycardia induced by
+water immersion stress in rats. Physiol. Behav., New
+York, v. 68, n. 3, p. 291-297, 2000.
+TANNO, A. P. Influência do ciclo estral sobre as alterações
+de sensibilidade adrenérgica induzidas por estresse
+agudo. Piracicaba, 2002, 87p. [Dissertação de Mestrado
+em Odontologia, Faculdade de Odontologia.
+Universidade Estadual de Campinas].
+TANNO, A. P., BIANCHI, F. J, MARCONDES, F. K.
+Supersensibilidade da resposta cronotrópica à
+noradrenalina em ratas submetidas a estresse na fase de
+proestro. Rev. Bras. Ciênc. Farm., São Paulo, v. 38, n. 1,
+p.63-70, 2002a.
+TANNO, A. P., BIANCHI, F. J, MOURA, M. J. C. S.,
+MARCONDES, F. K. Atrial supersensitivity to
+noradrenaline in stressed female rats. Life Sci., Oxford,
+v. 71, n. 25, p. 2973-2981, 2002b.
+
+A. P. Tanno, F. K. Marcondes
+
+TAYLOR, M. J. Hypotermia. In: FINK, G., ed. Encyclopedia
+of stress. New York: Academic Press, 2000. v. 2, p. 484496.
+TONOLO, G., CICCARESE. M., BRIZZI, P., MILIA, S.,
+DESSOLE, S., PUDDU, L., SECCHI, G., MAIOLI, M.
+Cyclical variation of plasma lipids, apolipoproteins, and
+lipoprotein(a) during menstrual cycle of normal women.
+Am. J. Physiol., Bethesda, v. 32, n. 6, p. 1101-1105, 1995.
+TRENDELENBURG, U. Extraneuronal uptake and
+metabolism of catecholamines as a site of loss. Life Sci.,
+Oxford, v. 22, n. 13-15, p. 1217-1222, 1978.
+TRENDELENBURG, U. Functional aspects of the neuronal
+uptake of noradrenaline. Trends Pharmacol.Sci., Oxford,
+v. 12, n. 9, p. 334-337, 1991.
+UGARIZZA, D. N., KLINGNER, S., O’BRIEN, S.
+Premenstrual síndrome: diagnosis and intervention.
+Nurse Pract., Oxford, v. 23, n. 9, p. 49-52, 1998.
+VANDERLEI, L. C. M, MARCONDES, F. K., LANZA, L.
+L. B., SPADARI-BRATFISCH, R. C. Influence of the
+estrous cycle on the sensitivity to catecholamines in right
+atria from rats submitted to footshock stress. Can. J.
+Physiol. Pharmacol., Ottawa, v. 74, n. 6, p. 670-678,
+1996.
+VIAU, V., MEANEY, M. J. Variations in the hypothalamicpituitary-adrenal response to stress during the estrous
+cycle in the rat. Endocrinology, Baltimore, v. 129, n. 5, p.
+2503-2511, 1991.
+VOGEL, W. H., JENSH, R. Chronic stress and plasma
+catecholamine and corticosterone levels in male rats.
+Neurosci. Lett., Limerick, v. 87, n. 1-2, p. 183-188, 1988.
+WILSON, K., ADAIKAN, P. G. As drogas e o sistema
+reprodutivo. In: PAGE, C.P., CURTIS, M.J., SUTTER,
+M. C., WALKER, M. J. A., HOFFMAN, B. B.
+Farmacologia integrada. São Paulo: Manole, 1999. cap.
+13, p. 287-304.
+WONG, Y. N., CASSANO, W. J., D’MELLO, A. P. Acutestress-induced facilitation of the hypothalamic-pituitaryadrenal axis. Neuroendocrinology, Basel, v. 71, n. 6, p.
+354-365, 2000.
+
+Estresse, ciclo reprodutivo e sensibilidade cardíaca às catecolaminas
+
+WOOD, G. W, SHORS, T. J. Stress facilitates classical
+conditioning in males, but impairs classical conditioning
+in females through activational effects of ovarian
+hormones. Proc. Natl. Acad. Sci. New York, v. 95, p.
+4066-4071, 1998.
+YOSHINAGA, M., KAMINURA, J., FUKUSHIGE, T.,
+KUSUBAE, R., SHIMAGO, A., NISHI, J., KONO, Y.,
+NOMURA, Y., MYATA, K. Face immersion in cold
+water induces prolongation of the QT interval and Twave changes in children with nonfamilial long QT
+syndrome. Am. J. Cardiol., New York, v. 83, n. 10, p.
+1494-1497, 1999.
+
+289
+
+ZELENA, D. HALLER, J., HALASZ, J., MAKARA, G. B.
+Social stress of variable intensity: Physiological and
+behavioral consequences. Brain Res. Bul., New York, v.
+48, n. 3, p. 297-302, 1999.
+ZHONG, H., MINNEMAN, K. P. Alpha 1-adrenoceptor
+subtypes. Eur. J. Pharmacol., Amsterdam, v. 375, n. 1-3,
+p. 261-276, 1999.
+Recebido para publicação em 24 de junho de 2002.
+
+

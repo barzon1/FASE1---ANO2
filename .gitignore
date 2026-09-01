@@ -1,0 +1,50 @@
+## Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+## Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## Variáveis de ambiente
+.env
+.env.*
+
+## Dependências e builds comuns
+node_modules/
+dist/
+build/
+out/
+
+## Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+## Java / Kotlin / Gradle
+.gradle/
+*.class
+
+## .NET
+bin/
+obj/
+
+## Outros
+coverage/
+*.tmp
+
+# Imagens dos exames - armazenadas externamente
+ATIVIDADE 1/assets/exames/**/*.png
+ATIVIDADE 1/assets/exames/**/*.jpg
+ATIVIDADE 1/assets/exames/**/*.jpeg

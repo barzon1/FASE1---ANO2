@@ -1,0 +1,121 @@
+Nome;Idade;Sexo;Pressão Arterial;Colesterol;Histórico de doenças cardíacas;Sintomas;Frequencia Cardiaca
+Bernardo Novaes Fogaça;20;Feminino;138/88;311;Não;Enjoo;72
+Enzo Medeiros Cunha;54;Feminino;110/101;170;Não;Nenhum;110
+Sophia Melo Cavalcanti;39;Masculino;167/103;181;Sim;Palpitações;123
+Lorenzo Farias Siqueira;78;Masculino;169/69;184;Não;Dor no peito;124
+Isabella Borges Dias;86;Masculino;142/76;166;Não;Nenhum;109
+Chen Garcia;44;Feminino;133/82;246;Sim;Nenhum;121
+Mateus Siqueira Melo;90;Feminino;142/109;226;Não;Enjoo;65
+Gustavo Farias Macedo;77;Masculino;149/114;133;Não;Dor no peito;88
+Anya Jones;51;Masculino;120/90;236;Não;Tontura;51
+Isabella Melo Braga;38;Feminino;93/74;324;Sim;Tontura;107
+Priscila Cavalcanti Freitas;28;Masculino;96/71;222;Sim;Enjoo;85
+Roberto Duarte Barros;67;Masculino;124/106;195;Não;Enjoo;112
+Vinícius Peixoto Campos;45;Masculino;109/100;196;Não;Enjoo;56
+Enzo Guimarães Braga;25;Feminino;97/71;167;Não;Nenhum;114
+Daniela Rocha Farias;66;Feminino;119/99;194;Não;Palpitações;82
+Théo Pacheco Vargas;31;Feminino;153/103;255;Não;Tontura;118
+Enzo Ramos Cardoso;56;Feminino;152/109;221;Não;Falta de ar;64
+Dmitry Johnson;34;Feminino;119/92;297;Sim;Enjoo;95
+Arthur Moura Xavier;32;Feminino;125/89;253;Não;Nenhum;106
+Lorenzo Cavalcanti Silveira;88;Masculino;120/67;131;Sim;Palpitações;59
+Michael Garcia;69;Feminino;141/68;249;Não;Palpitações;98
+Richard Ivanov;66;Masculino;179/108;237;Sim;Tontura;110
+Caio Assis Lemos;58;Masculino;157/103;291;Não;Nenhum;106
+Lívia Nunes Rezende;27;Feminino;149/94;225;Sim;Nenhum;109
+Ricardo Monteiro Pires;44;Feminino;169/69;272;Não;Dor no peito;79
+Laura Farias Xavier;83;Masculino;94/85;224;Não;Palpitações;111
+Emma Schmidt;66;Masculino;108/92;217;Não;Palpitações;124
+Isabella Figueiredo Dias;77;Masculino;97/75;268;Não;Dor no peito;58
+Valentina Campos Cavalcanti;28;Feminino;131/112;217;Não;Nenhum;54
+Mateo Schneider;84;Masculino;130/91;226;Não;Falta de ar;105
+Ingrid Smirnov;59;Feminino;160/68;126;Não;Nenhum;69
+Davi Siqueira Prado;62;Feminino;129/65;333;Sim;Tontura;120
+Natália Moraes Lemos;26;Feminino;117/77;328;Não;Cansaço excessivo;119
+Isabella Vargas Novaes;85;Feminino;110/70;256;Não;Cansaço excessivo;61
+Tatiane Vargas Assis;92;Masculino;118/110;288;Não;Dor no peito;116
+Natália Assis Monteiro;63;Masculino;165/72;213;Sim;Nenhum;101
+Rodrigo Fogaça Siqueira;41;Feminino;170/95;199;Sim;Palpitações;125
+Isabella Borges Guimarães;56;Masculino;177/103;228;Não;Palpitações;57
+Henrique Viana Braga;59;Feminino;174/98;179;Não;Tontura;124
+Henrique Monteiro Freitas;63;Feminino;120/109;235;Não;Enjoo;98
+Bernardo Araújo Pacheco;24;Masculino;138/88;184;Sim;Falta de ar;80
+Helena Barros Ramos;82;Masculino;148/111;252;Sim;Falta de ar;85
+Vanessa Araújo Silveira;33;Masculino;163/69;187;Não;Nenhum;63
+Mateus Castro Duarte;63;Feminino;123/85;262;Sim;Palpitações;53
+Henrique Barros Medeiros;54;Masculino;166/115;172;Não;Dor no peito;89
+Vinícius Figueiredo Nunes;18;Feminino;173/102;276;Não;Enjoo;71
+Caio Borges Moraes;40;Feminino;141/61;235;Não;Nenhum;52
+Enzo Borges Pinto;22;Feminino;138/85;167;Não;Nenhum;114
+Juliana Mendes Macedo;43;Feminino;134/110;135;Não;Tontura;78
+Leandro Duarte Viana;88;Feminino;135/102;339;Não;Nenhum;100
+Henrique Cardoso Rios;81;Masculino;173/70;293;Não;Dor no peito;56
+John Smith;89;Feminino;110/104;140;Não;Dor no peito;82
+Tatiane Peixoto Cardoso;62;Masculino;101/76;252;Não;Nenhum;91
+Valentina Prado Xavier;64;Masculino;163/106;232;Sim;Tontura;56
+Manuela Prado Medeiros;52;Feminino;166/86;149;Não;Falta de ar;79
+Clarice Cunha Prado;86;Feminino;180/69;223;Não;Palpitações;60
+Manuela Freitas Vargas;64;Masculino;118/77;186;Não;Nenhum;107
+Daniela Nunes Assis;67;Feminino;115/105;184;Sim;Palpitações;103
+Miguel Campos Borges;30;Masculino;103/71;307;Não;Nenhum;74
+Patrícia Cavalcanti Ramos;74;Feminino;96/93;188;Não;Palpitações;60
+Chloe Garcia;44;Feminino;122/100;310;Não;Falta de ar;120
+Tatiane Pinto Xavier;89;Masculino;93/91;122;Sim;Falta de ar;93
+Bernardo Siqueira Correia;36;Masculino;155/115;328;Sim;Falta de ar;51
+Thiago Dias Medeiros;81;Masculino;179/110;255;Não;Cansaço excessivo;87
+Klaus Zhang;32;Feminino;175/95;142;Não;Dor no peito;57
+Davi Farias Pires;91;Feminino;175/69;283;Sim;Nenhum;114
+Giulia Jones;61;Masculino;96/83;223;Não;Palpitações;86
+Thiago Teixeira Braga;81;Masculino;135/80;226;Sim;Nenhum;109
+Théo Correia Vargas;29;Masculino;172/95;195;Não;Enjoo;73
+Vinícius Viana Ramos;22;Feminino;173/104;247;Não;Enjoo;61
+Vinícius Tavares Peixoto;83;Feminino;117/73;139;Não;Enjoo;120
+Vanessa Novaes Cavalcanti;32;Masculino;156/88;165;Sim;Tontura;125
+Ricardo Borges Figueiredo;65;Masculino;103/72;250;Não;Enjoo;67
+Vanessa Fogaça Machado;92;Feminino;91/60;304;Não;Falta de ar;65
+Clarice Goulart Marques;82;Feminino;95/102;248;Não;Nenhum;66
+Isabella Macedo Assis;26;Feminino;120/110;265;Não;Nenhum;111
+Roberto Mendes Pires;83;Feminino;155/105;306;Não;Cansaço excessivo;71
+Aline Machado Dias;76;Feminino;159/84;264;Sim;Nenhum;78
+Vinícius Monteiro Guimarães;87;Feminino;112/115;221;Sim;Cansaço excessivo;94
+Wei Smirnov;23;Masculino;139/73;223;Não;Dor no peito;68
+Bernardo Goulart Neves;75;Masculino;139/63;167;Sim;Falta de ar;107
+Caio Campos Medeiros;55;Masculino;117/80;316;Sim;Nenhum;90
+Caio Prado Teixeira;27;Masculino;144/105;233;Não;Nenhum;101
+Carolina Moraes Pacheco;46;Masculino;146/105;210;Sim;Enjoo;57
+Diego Dias Correia;22;Feminino;180/64;201;Sim;Cansaço excessivo;119
+Diego Teixeira Rios;44;Feminino;118/101;332;Não;Falta de ar;99
+Hiroshi Williams;80;Masculino;125/80;320;Não;Enjoo;63
+Thiago Pires Freitas;87;Feminino;158/77;253;Não;Nenhum;56
+Heitor Silveira Pinto;79;Masculino;153/87;239;Sim;Nenhum;91
+John Sato;51;Feminino;157/101;316;Não;Nenhum;93
+Manuela Macedo Cavalcanti;41;Masculino;113/101;197;Não;Enjoo;108
+Heitor Fogaça Cardoso;26;Masculino;149/68;138;Não;Nenhum;65
+Noah Popov;39;Feminino;167/76;280;Não;Nenhum;112
+Valentina Ramos Braga;63;Feminino;96/111;128;Não;Nenhum;109
+Gustavo Viana Prado;67;Masculino;180/92;229;Sim;Enjoo;76
+Mateo Rodriguez;32;Feminino;176/92;135;Não;Tontura;75
+Renata Figueiredo Rezende;63;Masculino;124/69;221;Não;Nenhum;100
+Carolina Rios Nogueira;92;Feminino;128/83;176;Não;Dor no peito;73
+Dmitry Bianchi;62;Feminino;139/113;204;Não;Cansaço excessivo;66
+Rodrigo Siqueira Guimarães;27;Masculino;126/79;333;Não;Nenhum;92
+Mateus Monteiro Lemos;59;Feminino;158/60;120;Sim;Tontura;99
+Amelie Takahashi;90;Feminino;92/99;325;Não;Cansaço excessivo;53
+Ricardo Bastos Farias;87;Feminino;129/110;209;Não;Enjoo;113
+Lívia Barros Machado;43;Masculino;118/99;144;Não;Dor no peito;56
+Juliana Monteiro Marques;29;Feminino;141/111;237;Não;Dor no peito;96
+Amelie Weber;70;Masculino;140/92;300;Não;Nenhum;70
+Lívia Freitas Monteiro;30;Masculino;109/107;174;Sim;Enjoo;78
+Arthur Guimarães Campos;91;Feminino;116/65;305;Não;Dor no peito;115
+Lorenzo Farias Teixeira;21;Masculino;154/85;203;Não;Tontura;53
+Mateus Fogaça Lemos;60;Feminino;127/77;310;Não;Palpitações;69
+Leandro Pires Farias;21;Feminino;92/105;239;Não;Cansaço excessivo;71
+Carolina Silveira Castro;86;Masculino;157/61;323;Não;Tontura;58
+Valentina Moura Silveira;88;Feminino;116/89;211;Não;Tontura;59
+Manuela Figueiredo Nunes;21;Masculino;130/76;164;Não;Palpitações;94
+Heitor Castro Correia;26;Masculino;97/77;324;Não;Tontura;104
+Tatiane Nunes Viana;55;Masculino;165/71;330;Não;Palpitações;124
+James Watanabe;62;Feminino;121/79;227;Não;Enjoo;76
+Bernardo Araújo Moraes;83;Feminino;106/79;309;Não;Nenhum;122
+Henrique Novaes Rios;86;Feminino;107/113;279;Não;Dor no peito;91
+Vinícius Figueiredo Pacheco;22;Feminino;147/112;151;Não;Tontura;52
